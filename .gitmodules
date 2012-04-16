@@ -16,3 +16,15 @@
 [submodule ".vim/bundle/mustache"]
 	path = .vim/bundle/mustache
 	url = git@github.com:juvenn/mustache.vim.git
+[submodule "projects/nebulous"]
+	path = projects/nebulous
+	url = git@github.com:nubs/nebulous.git
+[submodule "projects/microtol"]
+	path = projects/microtol
+	url = git@github.com:nubs/microtol.git
+[submodule "projects/nick"]
+	path = projects/nick
+	url = git@github.com:nubs/nickrinehart.com.git
+[submodule "projects/email-notify"]
+	path = projects/email-notify
+	url = git@github.com:nubs/email-notify.git
