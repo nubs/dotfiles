@@ -1,0 +1,99 @@
+:0:
+* ^TO_.*@ruby-lang\.org
+ruby/
+
+:0:
+* ^X-ML-Name: ruby
+ruby/
+
+:0:
+* ^TO_.*@(redhat\.com|lists\.fedoraproject\.org)
+fedora/
+
+:0:
+* ^List-Id:.*@(redhat\.com|lists\.fedoraproject\.org)
+fedora/
+
+:0:
+* ^TO_.*@archlinux\.org
+arch/
+
+:0:
+* ^TO_.*@lists\.uzbl\.org
+uzbl/
+
+:0:
+* ^TO_.*@notmuchmail\.org
+notmuch/
+
+:0:
+* ^TO_.*public-notmuch.*
+notmuch/
+
+:0:
+* ^TO_.*suckless\.org
+suckless/
+
+:0:
+* ^TO_.*norfolkphp
+norfolkphp/
+
+:0:
+* ^List-Id:.*itcollaboration.dominionenterprises.com
+norfolkphp/
+
+:0:
+* ^TO_.*git@vger.kernel.org.*
+git/
+
+:0:
+* ^TO_.*ledger-cli.*
+ledger/
+
+:0:
+* ^TO_xorg@.*(freedesktop|x)\.org.*
+xorg/
+
+:0:
+* ^TO_.*nouveau@.*(freedesktop|x)\.org.*
+nouveau/
+
+:0:
+* ^TO_.*dropbear.*
+dropbear/
+
+:0:
+* ^From:.*report@.*
+puppet/
+
+:0:
+* ^Mailing-list: .*puppet.*googlegroups.com.*
+puppet/
+
+:0:
+* ^List-Id: .*cdist\..*
+puppet/
+
+:0:
+* ^TO_.*dietlibc@fefe.de
+dietlibc/
+
+:0:
+* ^Mailing-List.*gatling.*@fefe.de
+gatling/
+
+:0:
+* ^TO_.*thttpd@.*\.acme\.com
+thttpd/
+
+:0:
+* ^List-Id: .*exherbo\.org
+exherbo/
+
+:0:
+* ^List-Owner: .*VADCFLL
+fll/
+
+:0:
+* ^List-Id: .*sinatrarb.googlegroups.com
+sinatra/

@@ -1,0 +1,18 @@
+[submodule ".vim/bundle/ledger"]
+	path = .vim/bundle/ledger
+	url = git@github.com:cypok/vim-ledger.git
+[submodule ".vim/bundle/puppet"]
+	path = .vim/bundle/puppet
+	url = git@github.com:rodjek/vim-puppet.git
+[submodule ".vim/bundle/coffeescript"]
+	path = .vim/bundle/coffeescript
+	url = git@github.com:kchmck/vim-coffee-script.git
+[submodule ".vim/bundle/fugitive"]
+	path = .vim/bundle/fugitive
+	url = git@github.com:tpope/vim-fugitive.git
+[submodule ".vim/bundle/stylus"]
+	path = .vim/bundle/stylus
+	url = git@github.com:wavded/vim-stylus.git
+[submodule ".vim/bundle/mustache"]
+	path = .vim/bundle/mustache
+	url = git@github.com:juvenn/mustache.vim.git

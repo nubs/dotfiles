@@ -1,0 +1,52 @@
+:0:
+* ^From:.*(restaged_notify@|newsletter@.*trader|jag4848@|sc_alerts@omniture.com|@a1-innovation.com|@fivestar-services.net)
+trash/
+
+:0:
+* ^Subject: *(Daily TOL Server Response Code Report.)$
+trash/
+
+:0:
+* ^(Message-Id|In-Reply-To|References):.*@ruby-forum.com
+trash/
+
+:0:
+* ^Subject:.*\[ruby-core:[0-9]+\].*(Re:.)?\[.*(Bug|Feature).*#[0-9]+\]
+trash/
+
+:0:
+* ^Subject:.*\[arch-dev-public\] \[signoff\]
+trash/
+
+:0:
+* ^Subject: *Account Login \(ABNB Federal Credit Union\)$
+trash/
+
+:0:
+* ^TO_.*@notmuchmail\.org
+* ^Subject:.*[PATCH]
+trash/
+
+:0:
+* ^Subject: *Ad Make/Model Validation Failures
+trash/
+
+:0:
+* ^Subject: *Make/Model (approved|denied)
+trash/
+
+:0:
+* ^Subject: *JobWatcher Critical Error
+trash/
+
+:0:
+* ^Subject: *DataX Feed .* has not ran today
+trash/
+
+:0:
+* ^Subject: *Build failed in Hudson:
+trash/
+
+:0:
+* ^Subject: *Hudson build (is still unstable|became unstable|is back to (stable|normal) ):
+trash/

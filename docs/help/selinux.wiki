@@ -1,0 +1,5 @@
+* translating /var/log/audit/audit.log to a policy
+  * http://docs.fedoraproject.org/en-US/Fedora/13/html/SELinux_FAQ/index.html#id3343680
+  * http://wiki.centos.org/HowTos/SELinux#head-faa96b3fdd922004cdb988c1989e56191c257c01
+
+* http://www.gentoo.org/proj/en/hardened/selinux/selinux-handbook.xml

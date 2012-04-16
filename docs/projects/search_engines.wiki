@@ -1,0 +1,4 @@
+* Xapian  - Can apparently store/search key:value type data.  Used by notmuch.
+* Lucene  -
+* Sphinx  - Requires data to be in a specific format (mysql,postgres,odbc,custom xml).
+* Swish-e - Just does basic text-searching.  Doesn't use semantics for finding correct data.

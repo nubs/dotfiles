@@ -1,0 +1,34 @@
+= Wikis =
+  bookshelf      :: can definitely work in git and seems nice.  Uses haskell.
+  dokuwiki       ::
+  flexwiki       :: .NET
+  flippi         ::
+  fossil         :: neat idea, but a bit monolithic (it is an SCM/wiki/issuetracker combo).
+  gazest         ::
+  gitit          ::
+  hatta wiki     ::
+  ikiwiki        :: can use git for storage, but may not work as a subdirectory.
+  jspwiki        :: Java
+  midgard        ::
+  nanoki         ::
+  noosphere      ::
+  oddmusewiki    ::
+  piranha wiki   ::
+  pmwiki         ::
+  potwiki        ::
+  screwturn wiki ::
+  smug wiki      ::
+  sputnik        ::
+  sr/git-wiki    ::
+  subwiki        ::
+  swiki          ::
+  tigerwiki      ::
+  twiki          ::
+  usemodwiki     ::
+  viki           :: looks nice, but lacks examples and vimwiki seems potentially better.
+  vimwiki        :: works well, but a little funny with how it finds files.
+  wigit          :: looks nice as well.
+  wikiri         ::
+  ymcgitwiki     ::
+
+# vim: set ft=vimwiki sw=2 ts=2 sts=2 et :

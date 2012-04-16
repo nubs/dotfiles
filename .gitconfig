@@ -1,0 +1,13 @@
+[user]
+	name = Spencer Rinehart
+	email = spencer.rinehart@dominionenterprises.com
+[color]
+	ui = true
+[diff]
+	tool = vimdiff
+	renames = copy
+[merge]
+	conflictstyle = diff3
+	tool = vimdiff
+[rerere]
+	enabled = true

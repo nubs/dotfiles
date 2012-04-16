@@ -1,0 +1,18 @@
+= Issue Trackers =
+* http://www.cs.unb.ca/~bremner/blog/posts/git-issue-trackers/
+  ditz            :: very nice, although abandoned.
+  fossil          :: neat idea, but a bit monolithic (it is an SCM/wiki/issuetracker combo).
+  ikiwiki         :: can use git for storage, but may not work as a subdirectory.
+  gnats           :: neat but stagnant and not completely vim friendly.
+  org-mode        :: very nice, but emacs.  people suggest vimoutliner and viki as substitutes.
+  roundup         :: has a nice command line client, but doesn't appear that files are directly editable.
+  Bugs Everywhere :: Command line, stores directly in repo itself - not repo-agnostic
+  Simple Defects  :: Command line, stores directly in repo itself - not repo-agnostic, can sync with other trackers, inncluding redmine
+  milli           :: Command line, VCS agnostic
+  cil             :: Command line, VCS agnostic
+  ticgit          :: Command line, keeps tickets in separate git branch
+  git-issues      :: Python rewrite of ticgit, uses xml
+  gregor          :: http://werc.cat-v.org/apps/gregor/
+  bug             :: http://vicerveza.homeunix.net/~viric/cgi-bin/hgwebdir.cgi/bug/file/97d50d0a179c/bug
+
+# vim: set ft=vimwiki sw=2 ts=2 sts=2 et :

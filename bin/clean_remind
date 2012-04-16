@@ -1,0 +1,30 @@
+#!/usr/bin/ruby
+require 'date'
+
+reminders = {:finished => [], :single => []}
+ARGF.each {|l|
+  data = /^\s*REM\s*(.*?)?\s*(\*(\d+))?\s*(AT\s*(\S+))?\s*(UNTIL\s*(.*?))?\s*(SCHED\s*(\S+))?\s*(MSG (.*))$/.match(l)
+  if data.nil?
+    puts l
+  else
+    reminder = {}
+    reminder[:line],reminder[:date],x,reminder[:repeat],x,reminder[:time],x,reminder[:until],x,reminder[:schedule],x,reminder[:message] = data.to_a
+    reminder[:date] = Date::parse(reminder[:date])
+    reminder[:repeat] = reminder[:repeat].to_i
+    if reminder[:repeat].zero?
+      reminders[:single].push(reminder)
+    else
+      reminders[:finished].push(reminder)
+      puts l
+    end
+  end
+}
+
+reminders[:single].each {|single|
+  if reminders[:finished].select {|reminder|
+    diff = single[:date] - reminder[:date]
+    (reminder[:repeat].zero? ? diff : diff % reminder[:repeat]).zero? && reminder[:time] == single[:time] && reminder[:message] == single[:message] }.empty?
+    puts single[:line]
+    reminders[:finished].push(single)
+  end
+}

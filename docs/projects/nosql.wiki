@@ -1,0 +1,26 @@
+Key Value
+=========
+* Kyoto Cabinet -
+
+Document
+========
+
+* CouchDB       - json documents.  Uses views (aggregate functions/filters) to query.
+* Gimd          - git-based.  Possibly a good source for ideas.
+* gitmodel      - Stores documents in /table/id/{data} format.  No searching/indexing/views - must know id.
+* MongoDb       - Highly javascript-centric.  Seems to be very heavyweight.
+* Solr/Lucene   -
+
+Graph
+=====
+
+* FlockDB - Represents a directed graph but doesn't store any data other than id.
+
+Distributed Stores
+==================
+
+* Cassandra - Something crazy.
+* HBase     - Meh.
+
+Object
+======

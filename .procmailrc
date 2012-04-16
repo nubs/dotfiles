@@ -1,0 +1,9 @@
+PROCDIR=$HOME/.procmail
+
+MAILDIR=$HOME/.mail
+DEFAULT=$MAILDIR/inbox/
+
+INCLUDERC=$PROCDIR/rc.junk
+INCLUDERC=$PROCDIR/rc.feeds
+INCLUDERC=$PROCDIR/rc.subscriptions
+#INCLUDERC=$PROCDIR/rc.alert

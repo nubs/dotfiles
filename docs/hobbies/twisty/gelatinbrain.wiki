@@ -1,0 +1,772 @@
+= GelatinBrain Virtual Magic Polyhedra =
+* http://users.skynet.be/gelatinbrain/Applets/Magic%20Polyhedra/index.htm
+
+= Algorithm Help =
+* http://twistypuzzles.com/forum/viewtopic.php?p=203950#p203950
+* http://twistypuzzles.com/forum/viewtopic.php?p=83174#p83174
+* http://twistypuzzles.com/forum/viewtopic.php?p=119906#p119906
+
+== Puzzles ==
+* 1 Dodecahedra
+  * 1.1 Twist Around Faces
+    * 1.1.1 Megaminx - SOLVED
+      * Solution
+        * http://www.jaapsch.net/puzzles/megaminx.htm
+      * Solves
+        * 2010/03/26 00:07:09 >291
+    * 1.1.1b Super Megaminx - SOLVED
+      * Solves
+        * 2010/03/26 00:12:50 365
+    * 1.1.2 Megaminx/Pyraminx Crystal Hybrid - SOLVED
+      * Solution
+        * http://twistypuzzles.com/forum/viewtopic.php?t=7788
+        * Inner edge pieces are connected and solve like megaminx edges
+        * Corner pieces solve exactly like megaminx corners
+        * Outer edge pieces solve like pyraminx crystal edges (L, R)
+      * Solves
+        * 2010/03/20 00:23:11 627
+        * 2010/10/27 00:21:12 569
+    * 1.1.3 Pyraminx Crystal - SOLVED
+      * Solution
+        * http://twistypuzzles.com/forum/viewtopic.php?t=7711
+      * Solves
+        * 2010/03/18 00:11:22 266
+        * 2010/03/20 00:07:07 262
+    * 1.1.4
+      * Solution
+        * http://twistypuzzles.com/forum/viewtopic.php?p=97506#p97506 (((1,1),1),[1,1]), aka ((4,1),3) aka (10,3) inner edge commutator: (((R',L),DR'),[U',DL])
+        * http://twistypuzzles.com/forum/viewtopic.php?p=113909#p113909 Just specifies order: crystal, centers, inner edges
+    * 1.1.5 Starminx
+      * Solution
+        * Outer edge 3-cycle (L', R)*14
+        * http://twistypuzzles.com/forum/viewtopic.php?p=102051#p102051
+        * http://twistypuzzles.com/forum/viewtopic.php?p=123908#p123908
+        * http://twistypuzzles.com/forum/viewtopic.php?p=124039#p124039
+        * http://twistypuzzles.com/forum/viewtopic.php?p=124076#p124076
+    * 1.1.6
+      * Solution
+        * http://twistypuzzles.com/forum/viewtopic.php?p=123864#p123864
+        * http://twistypuzzles.com/forum/viewtopic.php?p=123908#p123908
+        * http://twistypuzzles.com/forum/viewtopic.php?p=202934#p202934
+    * 1.1.7 Pentultimate
+      * Solution
+        * http://twistypuzzles.com/forum/viewtopic.php?p=76918#p76918
+        * http://twistypuzzles.com/forum/viewtopic.php?p=85937#p85937
+        * http://twistypuzzles.com/forum/viewtopic.php?p=85941#p85941
+        * http://www.twistypuzzles.com/forum/viewtopic.php?f=1&t=8761
+        * http://twistypuzzles.com/forum/viewtopic.php?p=114266#p114266
+        * http://twistypuzzles.com/forum/viewtopic.php?p=115974#p115974
+        * http://twistypuzzles.com/forum/viewtopic.php?p=116011#p116011
+        * http://twistypuzzles.com/forum/viewtopic.php?p=120569#p120569
+        * http://twistypuzzles.com/forum/viewtopic.php?p=124821#p124821
+        * http://twistypuzzles.com/forum/viewtopic.php?p=125604#p125604
+        * http://twistypuzzles.com/forum/viewtopic.php?p=163423#p163423
+    * 1.1.7b Super Pentultimate
+      * Solution
+        * http://twistypuzzles.com/forum/viewtopic.php?p=113871#p113871
+        * http://twistypuzzles.com/forum/viewtopic.php?p=127475#p127475
+        * http://twistypuzzles.com/forum/viewtopic.php?p=135859#p135859
+        * http://twistypuzzles.com/forum/viewtopic.php?p=164168#p164168
+        * http://twistypuzzles.com/forum/viewtopic.php?p=164191#p164191
+    * 1.1.8
+      * Solution
+        * http://twistypuzzles.com/forum/viewtopic.php?p=113941#p113941
+        * http://twistypuzzles.com/forum/viewtopic.php?p=203660#p203660
+    * 1.1.9 Gigaminx -SOLVED
+      * Solution
+        * http://twistypuzzles.com/forum/viewtopic.php?p=76443#p76443
+        * http://twistypuzzles.com/forum/viewtopic.php?p=202015#p202015
+        * http://twistypuzzles.com/forum/viewtopic.php?p=202033#p202033
+      * Solves
+        * 2010/03/29 00:36:31 1165
+    * 1.1.10 Master Pyraminx Crystal - SOLVED
+      * Solution
+        * http://twistypuzzles.com/forum/viewtopic.php?t=7782
+      * Solves
+        * 2010/03/27 02:11:11 2130
+    * 1.1.11 - SOLVED
+      * Solution
+        * http://twistypuzzles.com/forum/viewtopic.php?p=122250#p122250
+        * http://twistypuzzles.com/forum/viewtopic.php?p=136081#p136081
+      * Solves
+        * 2010/03/27 00:56:53 1393
+    * 1.1.12 Impossiball - SOLVED
+      * Solves
+        * 2010/03/26 00:02:09 81
+        * 2010/03/26 00:01:43 72
+    * 1.1.13
+      * Solution
+        * http://twistypuzzles.com/forum/viewtopic.php?p=121289#p121289
+        * http://twistypuzzles.com/forum/viewtopic.php?p=205231#p205231
+    * 1.1.14
+      * Solution
+        * http://twistypuzzles.com/forum/viewtopic.php?p=121865#p121865
+        * http://twistypuzzles.com/forum/viewtopic.php?p=121950#p121950
+        * http://twistypuzzles.com/forum/viewtopic.php?p=205950#p205950
+    * 1.1.15
+      * Solution
+        * http://twistypuzzles.com/forum/viewtopic.php?p=121944#p121944
+        * http://twistypuzzles.com/forum/viewtopic.php?p=124023#p124023
+        * http://twistypuzzles.com/forum/viewtopic.php?p=124035#p124035
+    * 1.1.16
+      * Solution
+        * http://twistypuzzles.com/forum/viewtopic.php?p=121988#p121988
+    * 1.1.17
+      * Solution
+        * http://twistypuzzles.com/forum/viewtopic.php?p=122042#p122042
+        * http://twistypuzzles.com/forum/viewtopic.php?p=206442#p206442
+    * 1.1.18
+      * Solution
+        * http://twistypuzzles.com/forum/viewtopic.php?p=181285#p181285
+        * http://twistypuzzles.com/forum/viewtopic.php?p=202936#p202936
+    * 1.1.19
+      * Solution
+        * http://twistypuzzles.com/forum/viewtopic.php?p=181285#p181285
+        * http://twistypuzzles.com/forum/viewtopic.php?p=207057#p207057
+    * 1.1.20
+      * Solution
+        * http://twistypuzzles.com/forum/viewtopic.php?p=181285#p181285
+        * http://twistypuzzles.com/forum/viewtopic.php?p=199817#p199817
+        * http://twistypuzzles.com/forum/viewtopic.php?p=199916#p199916
+        * http://twistypuzzles.com/forum/viewtopic.php?p=203245#p203245
+    * 1.1.21
+      * Solution
+        * http://twistypuzzles.com/forum/viewtopic.php?p=181285#p181285
+    * 1.1.25
+      * Solution
+        * http://twistypuzzles.com/forum/viewtopic.php?p=201228#p201228
+        * http://twistypuzzles.com/forum/viewtopic.php?p=203959#p203959
+    * 1.1.26
+      * Solution
+        * http://twistypuzzles.com/forum/viewtopic.php?p=201005#p201005
+    * 1.1.27
+      * Solution
+        * http://twistypuzzles.com/forum/viewtopic.php?p=200808#p200808
+        * http://twistypuzzles.com/forum/viewtopic.php?p=201005#p201005
+        * http://twistypuzzles.com/forum/viewtopic.php?p=201233#p201233
+    * 1.1.28
+      * Solution
+        * http://twistypuzzles.com/forum/viewtopic.php?p=201005#p201005
+    * 1.1.30
+      * Solution
+        * http://twistypuzzles.com/forum/viewtopic.php?p=201438#p201438
+        * http://twistypuzzles.com/forum/viewtopic.php?p=207024#p207024
+        * http://twistypuzzles.com/forum/viewtopic.php?p=207057#p207057
+    * 1.1.31
+      * Solution
+        * http://twistypuzzles.com/forum/viewtopic.php?p=202936#p202936
+        * http://twistypuzzles.com/forum/viewtopic.php?p=206977#p206977
+    * 1.1.32
+      * Solution
+        * http://twistypuzzles.com/forum/viewtopic.php?p=202936#p202936
+    * 1.1.33
+      * Solution
+        * http://twistypuzzles.com/forum/viewtopic.php?p=202936#p202936
+    * 1.1.34
+      * Solution
+        * http://twistypuzzles.com/forum/viewtopic.php?p=203142#p203142
+    * 1.1.35
+      * Solution
+        * http://twistypuzzles.com/forum/viewtopic.php?p=202936#p202936
+    * 1.1.35b
+      * Solution
+        * http://twistypuzzles.com/forum/viewtopic.php?p=203142#p203142
+    * 1.1.36
+      * Solution
+        * http://twistypuzzles.com/forum/viewtopic.php?p=203142#p203142
+    * 1.1.37
+      * Solution
+        * http://twistypuzzles.com/forum/viewtopic.php?p=202693#p202693
+        * http://twistypuzzles.com/forum/viewtopic.php?p=202727#p202727
+        * http://twistypuzzles.com/forum/viewtopic.php?p=202793#p202793
+    * 1.1.38
+      * Solution
+        * http://twistypuzzles.com/forum/viewtopic.php?p=203142#p203142
+    * 1.1.39
+      * Solution
+        * http://twistypuzzles.com/forum/viewtopic.php?p=203142#p203142
+        * http://twistypuzzles.com/forum/viewtopic.php?p=204089#p204089
+        * http://twistypuzzles.com/forum/viewtopic.php?p=204653#p204653
+        * http://twistypuzzles.com/forum/viewtopic.php?p=204657#p204657
+        * http://twistypuzzles.com/forum/viewtopic.php?p=204671#p204671
+        * http://twistypuzzles.com/forum/viewtopic.php?p=204712#p204712
+    * 1.1.40
+      * Solution
+        * http://twistypuzzles.com/forum/viewtopic.php?p=204089#p204089
+    * 1.1.42
+      * Solution
+        * http://twistypuzzles.com/forum/viewtopic.php?p=206247#p206247
+        * http://twistypuzzles.com/forum/viewtopic.php?p=206812#p206812
+    * 1.1.43
+      * Solution
+        * http://twistypuzzles.com/forum/viewtopic.php?p=206812#p206812
+  * 1.2 Twist Around Vertices
+    * 1.2.1 - SOLVED
+      * Solution
+        * http://twistypuzzles.com/forum/viewtopic.php?p=86318#p86318
+      * Solves
+        * 2010/03/27 00:08:28 227
+    * 1.2.2
+      * Solution
+        * http://twistypuzzles.com/forum/viewtopic.php?p=87407#p87407
+        * http://twistypuzzles.com/forum/viewtopic.php?p=183138#p183138
+    * 1.2.3
+      * Solution
+        * http://twistypuzzles.com/forum/viewtopic.php?p=123672#p123672
+    * 1.2.4
+      * Solution
+        * http://twistypuzzles.com/forum/viewtopic.php?p=131354#p131354
+    * 1.2.6
+      * Solution
+        * http://twistypuzzles.com/forum/viewtopic.php?p=123672#p123672
+        * http://twistypuzzles.com/forum/viewtopic.php?p=152725#p152725
+    * 1.2.6b
+      * Solution
+        * http://twistypuzzles.com/forum/viewtopic.php?p=152725#p152725
+    * 1.2.7
+      * Solution
+        * http://twistypuzzles.com/forum/viewtopic.php?p=123235#p123235
+        * http://twistypuzzles.com/forum/viewtopic.php?p=125158#p125158
+    * 1.2.8
+      * Solution
+        * http://twistypuzzles.com/forum/viewtopic.php?p=206597#p206597
+    * 1.2.9
+      * Solution
+        * http://twistypuzzles.com/forum/viewtopic.php?p=121198#p121198
+        * http://twistypuzzles.com/forum/viewtopic.php?p=124360#p124360
+    * 1.2.11
+      * Solution
+        * http://twistypuzzles.com/forum/viewtopic.php?p=123672#p123672
+    * 1.2.13
+      * Solution
+        * http://twistypuzzles.com/forum/viewtopic.php?p=205111#p205111
+    * 1.2.14
+      * Solution
+        * http://twistypuzzles.com/forum/viewtopic.php?p=205111#p205111
+    * 1.2.15
+      * Solution
+        * http://twistypuzzles.com/forum/viewtopic.php?p=207997#p207997
+  * 1.3 Twist Around Faces and Vertices
+    * 1.3.1
+      * Solution
+        * http://twistypuzzles.com/forum/viewtopic.php?p=125185#p125185
+        * http://twistypuzzles.com/forum/viewtopic.php?p=195983#p195983
+    * 1.3.2
+      * Solution
+        * http://twistypuzzles.com/forum/viewtopic.php?p=125185#p125185
+        * http://twistypuzzles.com/forum/viewtopic.php?p=128521#p128521
+        * http://twistypuzzles.com/forum/viewtopic.php?p=206597#p206597
+    * 1.3.3
+      * Solution
+        * http://twistypuzzles.com/forum/viewtopic.php?p=125442#p125442
+    * 1.3.5
+      * Solution
+        * http://twistypuzzles.com/forum/viewtopic.php?p=119619#p119619
+        * http://twistypuzzles.com/forum/viewtopic.php?p=185407#p185407
+    * 1.3.7
+      * Solution
+        * http://twistypuzzles.com/forum/viewtopic.php?p=158314#p158314
+    * 1.3.8
+      * Solution
+        * http://twistypuzzles.com/forum/viewtopic.php?p=121414#p121414
+  * 1.4 Twist Around Edges
+    * 1.4.1 - SOLVED
+      * Solution
+        * http://twistypuzzles.com/forum/viewtopic.php?p=165456#p165456
+      * Solves
+        * 2010/03/27 00:40:32 848
+    * 1.4.2
+      * Solution
+        * http://twistypuzzles.com/forum/viewtopic.php?p=76864#p76864
+        * http://twistypuzzles.com/forum/viewtopic.php?p=124380#p124380
+        * http://twistypuzzles.com/forum/viewtopic.php?p=136269#p136269
+        * http://twistypuzzles.com/forum/viewtopic.php?p=136541#p136541
+        * http://twistypuzzles.com/forum/viewtopic.php?p=210581#p210581
+    * 1.4.3
+      * Solution
+        * http://twistypuzzles.com/forum/viewtopic.php?p=187503#p187503
+        * http://twistypuzzles.com/forum/viewtopic.php?p=187658#p187658
+    * 1.4.4
+      * Solution
+        * http://twistypuzzles.com/forum/viewtopic.php?p=165109#p165109
+        * http://twistypuzzles.com/forum/viewtopic.php?p=165160#p165160
+        * http://twistypuzzles.com/forum/viewtopic.php?p=165365#p165365
+        * http://twistypuzzles.com/forum/viewtopic.php?p=165456#p165456
+        * http://twistypuzzles.com/forum/viewtopic.php?p=165649#p165649
+    * 1.4.5
+      * Solution
+        * http://twistypuzzles.com/forum/viewtopic.php?p=165902#p165902
+    * 1.4.6
+      * Solution
+        * http://twistypuzzles.com/forum/viewtopic.php?p=164786#p164786
+        * http://twistypuzzles.com/forum/viewtopic.php?p=187377#p187377
+    * 1.4.7
+      * Solution
+        * http://twistypuzzles.com/forum/viewtopic.php?p=206354#p206354
+* 2 Icosahedra
+  * 2.1 Twist Around Faces
+    * 2.1.1
+      * Solution
+        * http://twistypuzzles.com/forum/viewtopic.php?p=114642#p114642
+        * http://twistypuzzles.com/forum/viewtopic.php?p=114683#p114683
+        * http://twistypuzzles.com/forum/viewtopic.php?p=122346#p122346
+        * http://twistypuzzles.com/forum/viewtopic.php?p=164718#p164718
+    * 2.1.2
+      * Solution
+        * http://twistypuzzles.com/forum/viewtopic.php?p=209909#p209909
+    * 2.1.3
+      * Solution
+        * http://twistypuzzles.com/forum/viewtopic.php?p=122183#p122183
+    * 2.1.4
+      * Solution
+        * http://twistypuzzles.com/forum/viewtopic.php?p=127009#p127009
+    * 2.1.5
+      * Solution
+        * http://twistypuzzles.com/forum/viewtopic.php?p=123064#p123064
+  * 2.2 Twist Around Vertices
+    * 2.2.1 Lee Tutt's Pyracosaminx - SOLVED
+      * Solves
+        * 2010/04/01 00:07:29 155
+    * 2.2.2 Icosaminx - SOLVED
+      * Solves
+        * 2010/04/02 00:10:15 308
+    * 2.2.3
+      * Solution
+        * http://twistypuzzles.com/forum/viewtopic.php?p=114551#p114551
+        * http://twistypuzzles.com/forum/viewtopic.php?p=120320#p120320
+    * 2.2.4
+      * Solution
+        * http://twistypuzzles.com/forum/viewtopic.php?p=114602#p114602
+    * 2.2.5
+      * Solution
+        * http://twistypuzzles.com/forum/viewtopic.php?p=199957#p199957
+    * 2.2.6 Icosa-Pentultimate
+      * Solution
+        * http://twistypuzzles.com/forum/viewtopic.php?p=111662#p111662
+        * http://twistypuzzles.com/forum/viewtopic.php?p=164170#p164170
+    * 2.2.7
+      * Solution
+        * http://twistypuzzles.com/forum/viewtopic.php?p=115106#p115106
+        * http://twistypuzzles.com/forum/viewtopic.php?p=115423#p115423
+        * http://twistypuzzles.com/forum/viewtopic.php?p=125596#p125596
+        * http://twistypuzzles.com/forum/viewtopic.php?p=125925#p125925
+    * 2.2.8 Dogic 10 Color
+    * 2.2.8b Dogic 12 Color
+    * 2.2.8c Dogic Custom 1
+    * 2.2.8d Dogic Custom 2
+    * 2.2.11 Alexander's Star 6 Color
+      * Solution
+        * http://www.jaapsch.net/puzzles/alexandr.htm
+    * 2.2.11b Alexander's Star 10 Color - SOLVED
+      * Solution
+        * http://www.jaapsch.net/puzzles/alexandr.htm
+      * Solves
+        * 2010/04/02 00:16:51 203
+    * 2.2.14 Master Icosahedron
+      * Solution
+        * http://twistypuzzles.com/forum/viewtopic.php?p=85776#p85776
+    * 2.2.15
+      * Solution
+        * http://twistypuzzles.com/forum/viewtopic.php?p=104981#p104981
+    * 2.2.16
+      * Solution
+        * http://twistypuzzles.com/forum/viewtopic.php?p=88938#p88938
+  * 2.3 Twist Around Faces and Vertices
+    * 2.3.1
+      * Solution
+        * http://twistypuzzles.com/forum/viewtopic.php?p=124410#p124410
+        * http://twistypuzzles.com/forum/viewtopic.php?p=164176#p164176
+    * 2.3.2
+      * Solution
+        * http://twistypuzzles.com/forum/viewtopic.php?p=167493#p167493
+  * 2.4 Twist Around Vertices (Edges Only)
+  * 2.5 Twist Around Edges
+* 3 Hexahedra
+  * 3.1 Twist Around Faces
+    * 3.1.1 Pocket Cube - SOLVED
+      * Solution
+        * http://www.jaapsch.net/puzzles/cube2.htm
+    * 3.1.2 Rubik's Cube - SOLVED
+      * Solution
+        * http://www.jaapsch.net/puzzles/cube3.htm
+    * 3.1.3 Master Cube
+      * Solution
+        * http://www.jaapsch.net/puzzles/cube4.htm
+    * 3.1.4 Professor's Cube - SOLVED
+      * Solution
+        * http://www.jaapsch.net/puzzles/cube5.htm
+      * Solves
+        * 2010/03/20 00:14:59 436
+    * 3.1.5 6x6x6
+      * Solution
+        * http://www.jaapsch.net/puzzles/cube6.htm
+    * 3.1.6 7x7x7
+      * Solution
+        * http://www.jaapsch.net/puzzles/cube7.htm
+    * 3.1.7 Circle Cube
+      * Solution
+        * http://twistypuzzles.com/forum/viewtopic.php?p=185013#p185013
+        * http://twistypuzzles.com/forum/viewtopic.php?p=185094#p185094
+  * 3.2 Twist Around Vertices
+    * 3.2.1 Skewb - SOLVED
+      * Solution
+        * http://www.jaapsch.net/puzzles/skewb.htm
+      * Solves
+        * 2010/03/17 00:00:42 9
+        * 2010/03/22 00:00:30 ?
+    * 3.2.2 Master Skewb
+      * Solution
+        * http://twistypuzzles.com/forum/viewtopic.php?p=96022#p96022
+        * http://twistypuzzles.com/forum/viewtopic.php?p=113984#p113984
+    * 3.2.3 Professor's Skewb
+      * Solution
+        * http://twistypuzzles.com/forum/viewtopic.php?p=114092#p114092
+    * 3.2.4 Dino Cube - SOLVED
+      * Solution
+        * http://www.jaapsch.net/puzzles/dinocube.htm
+    * 3.2.5
+      * Solution
+        * http://twistypuzzles.com/forum/viewtopic.php?p=112795#p112795
+        * http://twistypuzzles.com/forum/viewtopic.php?p=113116#p113116
+    * 3.2.6 Fat Dino Cube / Rex Cube - SOLVED
+      * Solution
+        * http://twistypuzzles.com/forum/viewtopic.php?p=190533#p190533
+	* Solve edges first like dino cube
+	* Solve centers to validate parity.  3-swap algorithm: [{UFL}, {UBR}]
+	* If parity is wrong (2 centers unsolved), swap 2 edges on 1 face and resolve edges.  Centers will be messed up so don't need to be solved.
+	* Solve wedges using above algorithm and setup moves.  First 3 faces are intuitive (solve 3 adjacent faces first).  Last 3 require matching a center with a wrong wedge across from a correct wedge in such a way that they can be flipped back in the opposite order.  For example, to swap the UBL wedge and the FUR wedge the algo is ({UFR}, [{UBR}, {DBL}'] ({DBL}, [{UFL}, {UBR}']) ({UFL}', [{DBL}', {DFR}']))
+      * Solves
+        * 2010/11/12 00:12:23 238
+    * 3.2.7 Lattice Cube - SOLVED
+      * Solution
+        * Solve centers first.  Adjacent centers (across 2 faces) are attached.
+        * Solve corners.  3-swap algorithm: [l, F]
+      * Solves
+        * 2010/03/24 00:05:16 95
+        * 2010/03/24 00:03:25 71
+  * 3.3 Twist Around Edges
+    * General Solution
+      * http://twistypuzzles.com/forum/viewtopic.php?p=76944#p76944
+    * 3.3.1 Helicopter Cube/Bevel Cube - SOLVED
+      * Solution
+        * Solve corners first.  Rotating them can be done by cycling around the cube.
+        * Solve centers.  There's a nice 2+2 cycle: (LR)*3
+        * http://twistypuzzles.com/forum/viewtopic.php?p=76589#p76589
+        * http://twistypuzzles.com/forum/viewtopic.php?p=76845#p76845
+        * http://twistypuzzles.com/forum/viewtopic.php?p=77110#p77110
+        * http://twistypuzzles.com/forum/viewtopic.php?p=105236#p105236
+        * http://twistypuzzles.com/forum/viewtopic.php?p=105238#p105238
+        * http://twistypuzzles.com/forum/viewtopic.php?p=105257#p105257
+        * http://twistypuzzles.com/forum/viewtopic.php?p=105309#p105309
+        * http://twistypuzzles.com/forum/viewtopic.php?p=107096#p107096
+        * http://twistypuzzles.com/forum/viewtopic.php?p=107160#p107160
+      * Solves
+        * 2010/03/26 00:05:37 138
+    * 3.3.2
+      * Solution
+        * http://twistypuzzles.com/forum/viewtopic.php?p=77110#p77110
+        * http://twistypuzzles.com/forum/viewtopic.php?p=190472#p190472
+    * 3.3.3
+      * Solution
+        * http://twistypuzzles.com/forum/viewtopic.php?p=76453#p76453
+        * http://twistypuzzles.com/forum/viewtopic.php?p=77110#p77110
+        * http://twistypuzzles.com/forum/viewtopic.php?p=109133#p109133
+        * http://twistypuzzles.com/forum/viewtopic.php?p=109477#p109477
+        * http://twistypuzzles.com/forum/viewtopic.php?p=115135#p115135
+        * http://twistypuzzles.com/forum/viewtopic.php?p=190472#p190472
+    * 3.3.4
+      * Solution
+        * http://twistypuzzles.com/forum/viewtopic.php?p=190472#p190472
+    * 3.3.5
+      * Solution
+        * http://twistypuzzles.com/forum/viewtopic.php?p=190472#p190472
+    * 3.3.6
+      * Solution
+        * http://twistypuzzles.com/forum/viewtopic.php?p=128119#p128119
+        * http://twistypuzzles.com/forum/viewtopic.php?p=128141#p128141
+        * http://twistypuzzles.com/forum/viewtopic.php?p=190472#p190472
+    * 3.3.7 Little Chop
+      * Solution
+        * http://twistypuzzles.com/forum/viewtopic.php?p=77110#p77110
+        * http://twistypuzzles.com/forum/viewtopic.php?p=103911#p103911
+        * http://twistypuzzles.com/forum/viewtopic.php?p=109483#p109483
+        * http://twistypuzzles.com/forum/viewtopic.php?p=109584#p109584
+        * http://twistypuzzles.com/forum/viewtopic.php?p=109603#p109603
+        * http://twistypuzzles.com/forum/viewtopic.php?p=118863#p118863
+        * http://twistypuzzles.com/forum/viewtopic.php?p=118866#p118866
+        * http://www.youtube.com/watch?v=SzUfxO6hcpk
+    * 3.3.8 Fat Helicopter Cube
+      * Solution
+        * http://twistypuzzles.com/forum/viewtopic.php?p=76802#p76802
+        * http://twistypuzzles.com/forum/viewtopic.php?p=77077#p77077
+        * http://twistypuzzles.com/forum/viewtopic.php?p=77110#p77110
+  * 3.4 Twist Around Faces and Vertices
+    * 3.4.1 Pocket Cube + Skewb
+    * 3.4.2 Super X
+      * Solution
+        * http://twistypuzzles.com/forum/viewtopic.php?p=76545#p76545
+        * http://twistypuzzles.com/forum/viewtopic.php?p=76555#p76555
+        * http://twistypuzzles.com/forum/viewtopic.php?p=76557#p76557
+        * http://twistypuzzles.com/forum/viewtopic.php?p=76562#p76562
+        * http://twistypuzzles.com/forum/viewtopic.php?p=76567#p76567
+    * 3.4.3 Pocket Cube + Master Skewb
+      * Solution
+        * http://twistypuzzles.com/forum/viewtopic.php?p=131345#p131345
+    * 3.4.4
+      * Solution
+        * http://twistypuzzles.com/forum/viewtopic.php?p=131906#p131906
+    * 3.4.5 Rubik's Cube + Dino Cube
+      * Solution
+        * http://twistypuzzles.com/forum/viewtopic.php?p=76848#p76848
+        * http://twistypuzzles.com/forum/viewtopic.php?p=77037#p77037
+    * 3.4.6 Rubik's Cube + Offset Skewb
+      * Solution
+        * http://twistypuzzles.com/forum/viewtopic.php?p=196744#p196744
+    * 3.4.7 Rubik's Cube + Offset Skewb 2
+    * 3.4.8 Rubik's Cube + Skewb
+      * Solution
+        * http://twistypuzzles.com/forum/viewtopic.php?p=110483#p110483
+        * http://twistypuzzles.com/forum/viewtopic.php?p=111676#p111676
+        * http://twistypuzzles.com/forum/viewtopic.php?p=114363#p114363
+        * http://twistypuzzles.com/forum/viewtopic.php?p=195789#p195789
+    * 3.4.10 Pocket Cube + Fat Dino Cube
+      * Solution
+        * http://twistypuzzles.com/forum/viewtopic.php?p=96396#p96396
+        * http://twistypuzzles.com/forum/viewtopic.php?p=96644#p96644
+        * http://twistypuzzles.com/forum/viewtopic.php?p=115321#p115321
+        * http://twistypuzzles.com/forum/viewtopic.php?p=115327#p115327
+    * 3.4.11
+      * Solution
+        * http://twistypuzzles.com/forum/viewtopic.php?p=198566#p198566
+  * 3.5 Twist Around Faces and Edges
+    * 3.5.1 Pocket Cube + Little Chop
+      * Solution
+        * http://twistypuzzles.com/forum/viewtopic.php?p=196722#p196722
+        * http://twistypuzzles.com/forum/viewtopic.php?p=206597#p206597
+  * 3.6 Twist Around Faces, Vertices, and Edges
+    * 3.6.2
+      * Solution
+        * http://twistypuzzles.com/forum/viewtopic.php?p=132917#p132917
+        * http://twistypuzzles.com/forum/viewtopic.php?p=133528#p133528
+        * http://twistypuzzles.com/forum/viewtopic.php?p=206597#p206597
+    * 3.6.3
+      * Solution
+        * http://twistypuzzles.com/forum/viewtopic.php?p=115135#p115135
+  * 3.7 Maze Cubes
+    * 3.7.1 Pocket Cube
+    * 3.7.2 Rubik's Cube
+    * 3.7.3 Master Cube
+    * 3.7.4 Professor's Cube
+  * 3.8 Arrow Cubes
+    * 3.8.1 Rubik's Cube
+    * 3.8.2 Master Cube
+    * 3.8.3 Professor's Cube
+* 4 Octahedra
+  * 4.1 Twist Around Faces
+    * Solution
+      * http://twistypuzzles.com/forum/viewtopic.php?p=86450#p86450
+    * 4.1.1 Skewb Diamond - SOLVED
+      * Solution
+        * http://www.jaapsch.net/puzzles/diamond.htm
+      * Solves
+        * 2010/11/12 00:13:29 82
+        * 2010/11/15 00:06:30 29
+    * 4.1.2 Face-Turning Octahedron
+      * Solution
+        * http://twistypuzzles.com/forum/viewtopic.php?p=82597#p82597
+        * http://twistypuzzles.com/forum/viewtopic.php?p=102581#p102581
+    * 4.1.3 Dino Octa
+      * Solution
+        * http://twistypuzzles.com/forum/viewtopic.php?p=102542#p102542
+        * http://twistypuzzles.com/forum/viewtopic.php?p=102581#p102581
+        * http://twistypuzzles.com/forum/viewtopic.php?p=102657#p102657
+        * http://twistypuzzles.com/forum/viewtopic.php?p=113608#p113608
+        * http://twistypuzzles.com/forum/viewtopic.php?p=113635#p113635
+        * http://twistypuzzles.com/forum/viewtopic.php?p=123864#p123864
+    * 4.1.4
+      * Solution
+        * http://twistypuzzles.com/forum/viewtopic.php?p=83092#p83092
+        * http://twistypuzzles.com/forum/viewtopic.php?p=83116#p83116
+        * http://twistypuzzles.com/forum/viewtopic.php?p=83174#p83174
+        * http://twistypuzzles.com/forum/viewtopic.php?p=102581#p102581
+    * 4.1.5
+      * Solution
+        * http://twistypuzzles.com/forum/viewtopic.php?p=102515#p102515
+        * http://twistypuzzles.com/forum/viewtopic.php?p=102581#p102581
+    * 4.1.6
+      * Solution
+        * http://twistypuzzles.com/forum/viewtopic.php?p=102515#p102515
+    * 4.1.7
+      * Solution
+        * http://twistypuzzles.com/forum/viewtopic.php?p=113437#p113437
+    * 4.1.10
+      * Solution
+        * http://twistypuzzles.com/forum/viewtopic.php?p=111883#p111883
+    * 4.1.11 Circle Face-Turning Octahedron
+  * 4.2 Twist Around Vertices
+    * 4.2.1 Trajber's Octahedron - SOLVED
+      * Solution
+        * Like a 3x3
+        * http://twistypuzzles.com/forum/viewtopic.php?p=76444#p76444
+        * Basically a Super Rubik's Cube
+      * Solves
+        * 2010/03/29 00:04:07 135
+    * 4.2.2 Magic Octahedron - SOLVED
+      * Solution
+        * Like a 3x3
+      * Solves
+        * 2010/03/29 00:04:10 106
+    * 4.2.6 Master Octahedron
+      * Solution
+        * http://twistypuzzles.com/forum/viewtopic.php?p=114104#p114104
+    * 4.2.7
+      * Solution
+        * http://twistypuzzles.com/forum/viewtopic.php?p=113504#p113504
+    * 4.2.8
+      * Solution
+        * http://twistypuzzles.com/forum/viewtopic.php?p=113519#p113519
+  * 4.3 Twist Around Edges
+    * 4.3.1
+      * Solution
+        * http://twistypuzzles.com/forum/viewtopic.php?p=115086#p115086
+        * http://twistypuzzles.com/forum/viewtopic.php?p=115491#p115491
+        * http://twistypuzzles.com/forum/viewtopic.php?p=152732#p152732
+    * 4.3.2
+      * Solution
+        * http://twistypuzzles.com/forum/viewtopic.php?p=130632#p130632
+    * 4.3.3
+      * Solution
+        * http://twistypuzzles.com/forum/viewtopic.php?p=135360#p135360
+        * http://twistypuzzles.com/forum/viewtopic.php?p=135568#p135568
+        * http://twistypuzzles.com/forum/viewtopic.php?p=136267#p136267
+    * 4.3.4
+      * Solution
+        * http://twistypuzzles.com/forum/viewtopic.php?p=129774#p129774
+        * http://twistypuzzles.com/forum/viewtopic.php?p=130096#p130096
+        * http://twistypuzzles.com/forum/viewtopic.php?p=130632#p130632
+        * http://twistypuzzles.com/forum/viewtopic.php?p=135049#p135049
+    * 4.3.5
+      * Solution
+        * http://twistypuzzles.com/forum/viewtopic.php?p=127974#p127974
+        * http://twistypuzzles.com/forum/viewtopic.php?p=191680#p191680
+  * 4.4 Twist Around Faces and Vertices
+    * 4.4.1
+      * Solution
+        * http://twistypuzzles.com/forum/viewtopic.php?p=128088#p128088
+        * http://twistypuzzles.com/forum/viewtopic.php?p=128157#p128157
+  * 4.5 Twist Around Faces and Edges
+    * 4.5.1
+      * Solution
+        * http://twistypuzzles.com/forum/viewtopic.php?p=127229#p127229
+        * http://twistypuzzles.com/forum/viewtopic.php?p=136766#p136766
+        * http://twistypuzzles.com/forum/viewtopic.php?p=206597#p206597
+    * 4.5.2
+      * Solution
+        * http://twistypuzzles.com/forum/viewtopic.php?p=127595#p127595
+  * 4.6 Twist Around Vertices and Edges
+    * 4.6.1
+      * Solution
+        * http://twistypuzzles.com/forum/viewtopic.php?p=125941#p125941
+    * 4.6.2
+      * Solution
+        * http://twistypuzzles.com/forum/viewtopic.php?p=126396#p126396
+  * 4.7 Twist Around Faces, Vertices, and Edges
+    * 4.7.1
+      * Solution
+        * http://twistypuzzles.com/forum/viewtopic.php?p=128454#p128454
+        * http://twistypuzzles.com/forum/viewtopic.php?p=128610#p128610
+        * http://twistypuzzles.com/forum/viewtopic.php?p=128920#p128920
+    * 4.7.2
+      * Solution
+        * http://twistypuzzles.com/forum/viewtopic.php?p=134253#p134253
+        * http://twistypuzzles.com/forum/viewtopic.php?p=134753#p134753
+        * http://twistypuzzles.com/forum/viewtopic.php?p=135002#p135002
+* 5 Tetrahedra
+  * 5.1 Twist Around Vertices
+    * 5.1.1 - SOLVED
+      * Solution
+        * http://www.jaapsch.net/puzzles/pyraminx.htm
+        * http://twistypuzzles.com/forum/viewtopic.php?p=208089#p208089
+    * 5.1.2 Pyraminx - SOLVED
+      * Solution
+        * http://www.jaapsch.net/puzzles/pyraminx.htm
+        * http://twistypuzzles.com/forum/viewtopic.php?p=208089#p208089
+    * 5.1.3 Halpern-Meier Pyramid - SOLVED
+      * Solution
+        * http://twistypuzzles.com/forum/viewtopic.php?p=85937#p85937
+        * http://twistypuzzles.com/forum/viewtopic.php?p=208089#p208089
+      * Solves
+        * 2010/03/18 00:01:09 >34
+    * 5.1.4 Master Pyraminx - SOLVED
+      * Solves
+        * 2010/04/10 00:06:35 101
+      * Solution
+        * http://twistypuzzles.com/forum/viewtopic.php?p=85937#p85937
+        * http://twistypuzzles.com/forum/viewtopic.php?p=85941#p85941
+        * http://twistypuzzles.com/forum/viewtopic.php?p=208089#p208089
+    * 5.1.5 - SOLVED
+      * Solves
+        * 2010/04/02 00:12:53 184
+      * Solution
+        * http://twistypuzzles.com/forum/viewtopic.php?p=208089#p208089
+    * 5.1.6
+      * Solution
+        * http://twistypuzzles.com/forum/viewtopic.php?p=208089#p208089
+    * 5.1.7
+      * Solution
+        * http://twistypuzzles.com/forum/viewtopic.php?p=208089#p208089
+    * 5.1.8
+      * Solution
+        * http://twistypuzzles.com/forum/viewtopic.php?p=208089#p208089
+    * 5.1.18
+      * Solution
+        * http://twistypuzzles.com/forum/viewtopic.php?p=209764#p209764
+    * 5.1.19
+      * Solution
+        * http://twistypuzzles.com/forum/viewtopic.php?p=191680#p191680
+  * 5.2 Twist Around Edges
+    * Solution
+      * http://twistypuzzles.com/forum/viewtopic.php?p=208089#p208089
+    * 5.2.1 - SOLVED
+      * Solution
+        * Solve edges.
+        * Solve corners using (D, F)-type moves
+        * Solve centers using (D, F) L (D, F)
+        * Optionally solve centers second, and solve corners using ((D, F), L)
+        * http://twistypuzzles.com/forum/viewtopic.php?p=77110#p77110
+        * http://twistypuzzles.com/forum/viewtopic.php?p=86051#p86051
+        * http://www.youtube.com/watch?v=KWyhSAFPpUU
+      * Solves
+        * 2010/03/24 00:02:22 46
+    * 5.2.2
+      * Solution
+        * http://twistypuzzles.com/forum/viewtopic.php?p=82597#p82597
+        * http://twistypuzzles.com/forum/viewtopic.php?p=113588#p113588
+    * 5.2.3 - SOLVED
+      * Solution
+        * Solve edges first (just rotate so they match).
+        * Solve trapezoids next - (D,R), etc. Easy.
+        * Solve corners next - 3 cycle: ((F,L),D)
+        * Solve centers last - 2 2 cycles (FRL)*?
+      * Solves
+        * 2010/03/29 00:01:40 50
+  * 5.3 Twist Around Vertices and Edges
+* 6 Spherical
+  * 6.1
+    * 6.1.1
+      * Solution
+        * http://twistypuzzles.com/forum/viewtopic.php?p=102051#p102051
+  * 6.2
+    * 6.2.2
+      * Solution
+        * http://twistypuzzles.com/forum/viewtopic.php?p=113305#p113305
+        * http://twistypuzzles.com/forum/viewtopic.php?p=113326#p113326
+    * 6.2.3
+      * Solution
+        * http://twistypuzzles.com/forum/viewtopic.php?p=113774#p113774
+# vim: set ft=vimwiki sw=2 ts=2 sts=2 et :
+# 
+# d6f57bd843b32279e50a68bd3473ace9
+# 44ea4565f6ce54e5723f55e76bcd46a7
+# 5845b0946220c49c6804d0ad64c9c89d
+# 613dc27689ec135ea1bc436e91dc237a
