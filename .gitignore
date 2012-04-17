@@ -1,8 +1,10 @@
-dl
-projects
+/dl
+/projects
 
 .*_history
 .*info
+!.terminfo
+
 .abs
 .adobe
 .aria2
