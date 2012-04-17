@@ -34,3 +34,6 @@
 [submodule "projects/fun/rbot"]
 	path = projects/fun/rbot
 	url = git://ruby-rbot.org/rbot.git
+[submodule "projects/home/spennifer"]
+	path = projects/home/spennifer
+	url = git@github.com:nubs/spennifer.com.git
