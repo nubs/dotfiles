@@ -1,8 +1,5 @@
 #!/usr/bin/env bash
 case "$1" in
-	'home')
-	target="anubis@nubs.dyndns-home.com"
-	;;
 	'otm')
 	target="anubis@overthemonkey.com"
 	;;
