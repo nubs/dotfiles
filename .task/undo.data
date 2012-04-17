@@ -432,3 +432,9 @@ time 1334672630
 old [description:"Better understand git submodules" entry:"1334669581" status:"pending" uuid:"a23de2c1-2d10-411a-95a2-6a143381b98b"]
 new [description:"Better understand git submodules" end:"1334672630" entry:"1334669581" status:"completed" uuid:"a23de2c1-2d10-411a-95a2-6a143381b98b"]
 ---
+time 1334680956
+new [description:"Migrate puppetscripts to github" entry:"1334680956" project:"work" status:"pending" uuid:"8ef68ff0-a8f4-4d96-ae9f-8565fe692893"]
+---
+time 1334681006
+new [description:"Migrate spennifer.com to same platform as nickrinehart.com" entry:"1334681006" project:"otm" status:"pending" uuid:"11422c7b-987a-4d9c-8660-b4e9d806be32"]
+---

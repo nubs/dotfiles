@@ -13,3 +13,5 @@
 [description:"submit timecard" due:"1334808000" entry:"1333713945" imask:"2" parent:"b9bf3b12-f546-4411-8036-c039abbb0fcc" recur:"2wks" status:"pending" uuid:"a91bfbb2-2600-4a91-9471-db25a8c04f29"]
 [description:"pacman -Syu" due:"1335153600" entry:"1334578364" imask:"6" parent:"8636107e-9e61-4b1a-9f09-7efdfc58cb7b" recur:"weekly" status:"pending" uuid:"dbc11ef9-d298-454a-8af5-c3121bb7c21f"]
 [description:"Create cd for jenny" entry:"1334670755" status:"pending" uuid:"0f7dbd3d-f83a-4543-9528-1d7a9def88ad"]
+[description:"Migrate puppetscripts to github" entry:"1334680956" project:"work" status:"pending" uuid:"8ef68ff0-a8f4-4d96-ae9f-8565fe692893"]
+[description:"Migrate spennifer.com to same platform as nickrinehart.com" entry:"1334681006" project:"otm" status:"pending" uuid:"11422c7b-987a-4d9c-8660-b4e9d806be32"]
