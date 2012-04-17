@@ -422,3 +422,13 @@ time 1334593415
 old [description:"migrate tds to git" entry:"1332170841" project:"work" status:"pending" uuid:"c6fa4321-f0fe-46e4-9736-4115dd91eb59"]
 new [description:"migrate tds to git" end:"1334593415" entry:"1332170841" project:"work" status:"completed" uuid:"c6fa4321-f0fe-46e4-9736-4115dd91eb59"]
 ---
+time 1334669581
+new [description:"Better understand git submodules" entry:"1334669581" status:"pending" uuid:"a23de2c1-2d10-411a-95a2-6a143381b98b"]
+---
+time 1334670755
+new [description:"Create cd for jenny" entry:"1334670755" status:"pending" uuid:"0f7dbd3d-f83a-4543-9528-1d7a9def88ad"]
+---
+time 1334672630
+old [description:"Better understand git submodules" entry:"1334669581" status:"pending" uuid:"a23de2c1-2d10-411a-95a2-6a143381b98b"]
+new [description:"Better understand git submodules" end:"1334672630" entry:"1334669581" status:"completed" uuid:"a23de2c1-2d10-411a-95a2-6a143381b98b"]
+---

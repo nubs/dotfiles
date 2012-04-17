@@ -1,3 +1,4 @@
+[description:"Better understand git submodules" end:"1334672630" entry:"1334669581" status:"completed" uuid:"a23de2c1-2d10-411a-95a2-6a143381b98b"]
 [description:"migrate tds to git" end:"1334593415" entry:"1332170841" project:"work" status:"completed" uuid:"c6fa4321-f0fe-46e4-9736-4115dd91eb59"]
 [description:"Put together gemfile for Benj" end:"1334580010" entry:"1332158167" project:"benj" status:"completed" uuid:"fb0910b7-2e58-4a1d-a3b9-f598fba1ca36"]
 [description:"pacman -Syu" due:"1334548800" end:"1334578599" entry:"1333965415" imask:"5" parent:"8636107e-9e61-4b1a-9f09-7efdfc58cb7b" recur:"weekly" status:"completed" uuid:"bc113290-0eda-4375-9eea-1453e9598e79"]
