@@ -2,7 +2,7 @@
 # Editor selection
 
 if [ -z "$VTERM" ]; then
-    VTERM="xterm"
+    VTERM="st"
 fi
 
 UZBL_EDITOR="$VISUAL"
