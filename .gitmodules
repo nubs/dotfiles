@@ -40,3 +40,6 @@
 [submodule "projects/fun/tolgolf"]
 	path = projects/fun/tolgolf
 	url = git@github.com:nubs/tolgolf.git
+[submodule "projects/home/otm"]
+	path = projects/home/otm
+	url = git@github.com:nubs/overthemonkey.com.git
