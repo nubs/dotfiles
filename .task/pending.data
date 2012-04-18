@@ -16,6 +16,6 @@
 [description:"Migrate puppetscripts to github" entry:"1334680956" project:"work" status:"pending" uuid:"8ef68ff0-a8f4-4d96-ae9f-8565fe692893"]
 [description:"Migrate spennifer.com to same platform as nickrinehart.com" entry:"1334681006" project:"otm" status:"pending" uuid:"11422c7b-987a-4d9c-8660-b4e9d806be32"]
 [depends:"11422c7b-987a-4d9c-8660-b4e9d806be32,f69f8a23-b0a2-43b5-86c1-dea6e8af79bc" description:"Update webserver to use something lighter than apache" entry:"1334685593" project:"otm" status:"pending" uuid:"c4fb7a38-3a33-48a4-b199-0153fd6599b6"]
-[description:"Migrate overthemonkey.com to same platform as nickrinehart.com" entry:"1334752638" project:"otm" status:"pending" uuid:"f69f8a23-b0a2-43b5-86c1-dea6e8af79bc"]
+[description:"Migrate overthemonkey.com to same platform as nickrinehart.com" end:"1334776226" entry:"1334752638" project:"otm" status:"completed" uuid:"f69f8a23-b0a2-43b5-86c1-dea6e8af79bc"]
 [description:"Email Nick's Timecapsule" due:"1334894400" entry:"1334773170" mask:"-" recur:"2months" status:"recurring" uuid:"63f68731-9a2c-4464-89c0-1f88f64e94af"]
 [description:"Email Nick's Timecapsule" due:"1334894400" entry:"1334773171" imask:"0" parent:"63f68731-9a2c-4464-89c0-1f88f64e94af" project:"home" recur:"2months" status:"pending" uuid:"6f0528ac-9660-4c86-8d56-fc2cfdbf6a26"]
