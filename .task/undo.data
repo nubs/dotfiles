@@ -455,3 +455,41 @@ time 1334760439
 old [description:"Look into uzbl form handling" entry:"1334755419" status:"pending" uuid:"9c3d149a-a0df-4b69-aac3-9b539926ec98"]
 new [description:"Look into uzbl form handling" end:"1334760439" entry:"1334755419" status:"completed" uuid:"9c3d149a-a0df-4b69-aac3-9b539926ec98"]
 ---
+time 1334773170
+new [description:"Email Nick's Timecapsule" due:"1334894400" entry:"1334773170" recur:"2months" status:"recurring" uuid:"63f68731-9a2c-4464-89c0-1f88f64e94af"]
+---
+time 1334773171
+new [description:"Email Nick's Timecapsule" due:"1334894400" entry:"1334773171" imask:"0" parent:"63f68731-9a2c-4464-89c0-1f88f64e94af" recur:"2months" status:"pending" uuid:"6f0528ac-9660-4c86-8d56-fc2cfdbf6a26"]
+---
+time 1334773171
+old [description:"Email Nick's Timecapsule" due:"1334894400" entry:"1334773170" recur:"2months" status:"recurring" uuid:"63f68731-9a2c-4464-89c0-1f88f64e94af"]
+new [description:"Email Nick's Timecapsule" due:"1334894400" entry:"1334773170" mask:"-" recur:"2months" status:"recurring" uuid:"63f68731-9a2c-4464-89c0-1f88f64e94af"]
+---
+time 1334773201
+old [description:"Create cd for jenny" entry:"1334670755" status:"pending" uuid:"0f7dbd3d-f83a-4543-9528-1d7a9def88ad"]
+new [description:"Create cd for jenny" entry:"1334670755" project:"home" status:"pending" uuid:"0f7dbd3d-f83a-4543-9528-1d7a9def88ad"]
+---
+time 1334773208
+old [description:"Fix door lock on Flex" entry:"1332173826" status:"pending" uuid:"a36c4801-791f-4077-b3a0-f534ea1e4469"]
+new [description:"Fix door lock on Flex" entry:"1332173826" project:"home" status:"pending" uuid:"a36c4801-791f-4077-b3a0-f534ea1e4469"]
+---
+time 1334773218
+old [description:"Automate my webserver using cdist" entry:"1332158152" status:"pending" uuid:"4bb13723-fc55-4547-b3a3-78d139587bc3"]
+new [description:"Automate my webserver using cdist" entry:"1332158152" project:"otm" status:"pending" uuid:"4bb13723-fc55-4547-b3a3-78d139587bc3"]
+---
+time 1334773235
+old [description:"submit timecard" due:"1334808000" entry:"1333713945" imask:"2" parent:"b9bf3b12-f546-4411-8036-c039abbb0fcc" recur:"2wks" status:"pending" uuid:"a91bfbb2-2600-4a91-9471-db25a8c04f29"]
+new [description:"submit timecard" due:"1334808000" entry:"1333713945" imask:"2" parent:"b9bf3b12-f546-4411-8036-c039abbb0fcc" project:"work" recur:"2wks" status:"pending" uuid:"a91bfbb2-2600-4a91-9471-db25a8c04f29"]
+---
+time 1334773249
+old [description:"Email Nick's Timecapsule" due:"1334894400" entry:"1334773171" imask:"0" parent:"63f68731-9a2c-4464-89c0-1f88f64e94af" recur:"2months" status:"pending" uuid:"6f0528ac-9660-4c86-8d56-fc2cfdbf6a26"]
+new [description:"Email Nick's Timecapsule" due:"1334894400" entry:"1334773171" imask:"0" parent:"63f68731-9a2c-4464-89c0-1f88f64e94af" project:"home" recur:"2months" status:"pending" uuid:"6f0528ac-9660-4c86-8d56-fc2cfdbf6a26"]
+---
+time 1334773255
+old [description:"pacman -Syu" due:"1335153600" entry:"1334578364" imask:"6" parent:"8636107e-9e61-4b1a-9f09-7efdfc58cb7b" recur:"weekly" status:"pending" uuid:"dbc11ef9-d298-454a-8af5-c3121bb7c21f"]
+new [description:"pacman -Syu" due:"1335153600" entry:"1334578364" imask:"6" parent:"8636107e-9e61-4b1a-9f09-7efdfc58cb7b" project:"home" recur:"weekly" status:"pending" uuid:"dbc11ef9-d298-454a-8af5-c3121bb7c21f"]
+---
+time 1334773262
+old [description:"pacman -Syu" due:"1335153600" entry:"1334578364" imask:"6" parent:"8636107e-9e61-4b1a-9f09-7efdfc58cb7b" project:"home" recur:"weekly" status:"pending" uuid:"dbc11ef9-d298-454a-8af5-c3121bb7c21f"]
+new [description:"pacman -Syu" due:"1335153600" entry:"1334578364" imask:"6" parent:"8636107e-9e61-4b1a-9f09-7efdfc58cb7b" project:"otm" recur:"weekly" status:"pending" uuid:"dbc11ef9-d298-454a-8af5-c3121bb7c21f"]
+---
