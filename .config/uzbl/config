@@ -294,6 +294,7 @@ set ebind     = @mode_bind global,-insert
 # Yanking & pasting binds
 @cbind  y   = sh 'echo -n "$UZBL_URI" | xclip -selection primary'
 @cbind  Y   = sh 'echo -n "$UZBL_URI" | xclip -selection clipboard'
+@ibind  <Ctrl>e = spawn @scripts_dir/external_editor.sh
 
 # Go the page from primary selection
 @cbind  p   = sh 'echo "uri $(xclip -selection primary -o | sed s/\\\@/%40/g)" > "$UZBL_FIFO"'
