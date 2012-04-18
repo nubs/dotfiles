@@ -438,3 +438,20 @@ new [description:"Migrate puppetscripts to github" entry:"1334680956" project:"w
 time 1334681006
 new [description:"Migrate spennifer.com to same platform as nickrinehart.com" entry:"1334681006" project:"otm" status:"pending" uuid:"11422c7b-987a-4d9c-8660-b4e9d806be32"]
 ---
+time 1334685593
+new [depends:"11422c7b-987a-4d9c-8660-b4e9d806be32" description:"Update webserver to use something lighter than apache" entry:"1334685593" project:"otm" status:"pending" uuid:"c4fb7a38-3a33-48a4-b199-0153fd6599b6"]
+---
+time 1334752638
+new [description:"Migrate overthemonkey.com to same platform as nickrinehart.com" entry:"1334752638" project:"otm" status:"pending" uuid:"f69f8a23-b0a2-43b5-86c1-dea6e8af79bc"]
+---
+time 1334752682
+old [depends:"11422c7b-987a-4d9c-8660-b4e9d806be32" description:"Update webserver to use something lighter than apache" entry:"1334685593" project:"otm" status:"pending" uuid:"c4fb7a38-3a33-48a4-b199-0153fd6599b6"]
+new [depends:"11422c7b-987a-4d9c-8660-b4e9d806be32,f69f8a23-b0a2-43b5-86c1-dea6e8af79bc" description:"Update webserver to use something lighter than apache" entry:"1334685593" project:"otm" status:"pending" uuid:"c4fb7a38-3a33-48a4-b199-0153fd6599b6"]
+---
+time 1334755419
+new [description:"Look into uzbl form handling" entry:"1334755419" status:"pending" uuid:"9c3d149a-a0df-4b69-aac3-9b539926ec98"]
+---
+time 1334760439
+old [description:"Look into uzbl form handling" entry:"1334755419" status:"pending" uuid:"9c3d149a-a0df-4b69-aac3-9b539926ec98"]
+new [description:"Look into uzbl form handling" end:"1334760439" entry:"1334755419" status:"completed" uuid:"9c3d149a-a0df-4b69-aac3-9b539926ec98"]
+---

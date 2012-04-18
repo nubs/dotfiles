@@ -15,3 +15,5 @@
 [description:"Create cd for jenny" entry:"1334670755" status:"pending" uuid:"0f7dbd3d-f83a-4543-9528-1d7a9def88ad"]
 [description:"Migrate puppetscripts to github" entry:"1334680956" project:"work" status:"pending" uuid:"8ef68ff0-a8f4-4d96-ae9f-8565fe692893"]
 [description:"Migrate spennifer.com to same platform as nickrinehart.com" entry:"1334681006" project:"otm" status:"pending" uuid:"11422c7b-987a-4d9c-8660-b4e9d806be32"]
+[depends:"11422c7b-987a-4d9c-8660-b4e9d806be32,f69f8a23-b0a2-43b5-86c1-dea6e8af79bc" description:"Update webserver to use something lighter than apache" entry:"1334685593" project:"otm" status:"pending" uuid:"c4fb7a38-3a33-48a4-b199-0153fd6599b6"]
+[description:"Migrate overthemonkey.com to same platform as nickrinehart.com" entry:"1334752638" project:"otm" status:"pending" uuid:"f69f8a23-b0a2-43b5-86c1-dea6e8af79bc"]
