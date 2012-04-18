@@ -37,3 +37,6 @@
 [submodule "projects/home/spennifer"]
 	path = projects/home/spennifer
 	url = git@github.com:nubs/spennifer.com.git
+[submodule "projects/fun/tolgolf"]
+	path = projects/fun/tolgolf
+	url = git@github.com:nubs/tolgolf.git
