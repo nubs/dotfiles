@@ -1,3 +1,5 @@
+[description:"submit timecard" due:"1334808000" end:"1334837495" entry:"1333713945" imask:"2" parent:"b9bf3b12-f546-4411-8036-c039abbb0fcc" project:"work" recur:"2wks" status:"completed" uuid:"a91bfbb2-2600-4a91-9471-db25a8c04f29"]
+[description:"Migrate overthemonkey.com to same platform as nickrinehart.com" end:"1334776226" entry:"1334752638" project:"otm" status:"completed" uuid:"f69f8a23-b0a2-43b5-86c1-dea6e8af79bc"]
 [description:"Look into uzbl form handling" end:"1334760439" entry:"1334755419" status:"completed" uuid:"9c3d149a-a0df-4b69-aac3-9b539926ec98"]
 [description:"Better understand git submodules" end:"1334672630" entry:"1334669581" status:"completed" uuid:"a23de2c1-2d10-411a-95a2-6a143381b98b"]
 [description:"migrate tds to git" end:"1334593415" entry:"1332170841" project:"work" status:"completed" uuid:"c6fa4321-f0fe-46e4-9736-4115dd91eb59"]
