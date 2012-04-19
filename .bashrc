@@ -12,8 +12,8 @@ export PS2="${RED}>${NO_COLOUR} "
 export PS4="+ "
 
 export XDG_DESKTOP_DIR="${HOME}"
-export PATH=$PATH:/home/anubis/projects/cdist/bin:$(ruby -rubygems -e "puts Gem.user_dir")/bin
-export MANPATH=$MANPATH:/home/anubis/projects/cdist/doc/man
+export PATH=$PATH:/home/anubis/projects/admin/cdist/bin:$(ruby -rubygems -e "puts Gem.user_dir")/bin
+export MANPATH=$MANPATH:/home/anubis/projects/admin/cdist/doc/man
 export GEM_HOME="$HOME/.gem"
 
 export TERM=xterm
