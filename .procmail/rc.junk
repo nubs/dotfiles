@@ -50,3 +50,7 @@ trash/
 :0:
 * ^Subject: *Hudson build (is still unstable|became unstable|is back to (stable|normal) ):
 trash/
+
+:0:
+* ^Subject: *Undelivered Leads
+trash/
