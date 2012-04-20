@@ -71,6 +71,12 @@ autocmd FileType ruby setlocal tabstop=2 shiftwidth=2 softtabstop=2 expandtab
 " CoffeeScript
 autocmd FileType coffee setlocal tabstop=2 shiftwidth=2 softtabstop=2 expandtab
 
+" HTML
+autocmd FileType html setlocal tabstop=2 shiftwidth=2 softtabstop=2 expandtab
+
+" Mustache/Handlebars
+autocmd FileType mustache setlocal tabstop=2 shiftwidth=2 softtabstop=2 expandtab
+
 " Stylus
 autocmd FileType stylus setlocal tabstop=2 shiftwidth=2 softtabstop=2 expandtab
 
