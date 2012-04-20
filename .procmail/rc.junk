@@ -54,3 +54,7 @@ trash/
 :0:
 * ^Subject: *Undelivered Leads
 trash/
+
+:0:
+* ^Subject: *TOLImage(Processor|Queuer) - Unexpected Error
+trash/
