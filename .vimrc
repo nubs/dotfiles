@@ -40,6 +40,9 @@ if &t_Co > 2 || has("gui_running")
   colorscheme evening
 endif
 
+nmap <Leader>j :SplitjoinSplit<cr>
+nmap <Leader>k :SplitjoinJoin<cr>
+
 " When editing a file, always jump to the last cursor position
 autocmd BufReadPost *
   \ if line("'\"") > 0 && line ("'\"") <= line("$") |
