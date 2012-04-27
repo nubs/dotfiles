@@ -61,3 +61,6 @@
 [submodule ".vim/bundle/camelcasemotion"]
 	path = .vim/bundle/camelcasemotion
 	url = git@github.com:vim-scripts/camelcasemotion.git
+[submodule "projects/work/abs"]
+	path = projects/work/abs
+	url = git@github.com:nubs/abs.git
