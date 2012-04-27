@@ -63,7 +63,7 @@ autocmd FileType text setlocal textwidth=78
 " PHP
 let php_sql_query=1
 let php_htmlInStrings=1
-autocmd FileType php setlocal tabstop=4 shiftwidth=4 softtabstop=4 expandtab textwidth=80 formatoptions=qrotc
+autocmd FileType php setlocal tabstop=4 shiftwidth=4 softtabstop=4 expandtab textwidth=144 formatoptions=qrotc
 
 " Python
 autocmd FileType python setlocal tabstop=1 shiftwidth=1 softtabstop=1 expandtab
@@ -80,11 +80,17 @@ autocmd FileType html setlocal tabstop=2 shiftwidth=2 softtabstop=2 expandtab
 " Mustache/Handlebars
 autocmd FileType mustache setlocal tabstop=2 shiftwidth=2 softtabstop=2 expandtab
 
+" Markdown
+autocmd FileType markdown setlocal tabstop=4 shiftwidth=4 softtabstop=4 expandtab
+
 " Stylus
 autocmd FileType stylus setlocal tabstop=2 shiftwidth=2 softtabstop=2 expandtab
 
 " WDDX
 autocmd BufNewFile,BufRead *.wddx setf xml
+
+" XML
+autocmd FileType xml setlocal tabstop=4 shiftwidth=4 softtabstop=4 expandtab
 
 " Mutt Mail
 autocmd BufRead /tmp/mutt-* setlocal textwidth=78 formatoptions=croql
