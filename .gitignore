@@ -29,5 +29,7 @@
 .rss2email
 .ssh
 .subversion
+.unison
+unison.log
 .weechat
 .Xauthority
