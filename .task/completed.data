@@ -1,3 +1,4 @@
+[description:"Set up unison + rsnapshot for laptop" end:"1335832184" entry:"1332245970" project:"home" status:"completed" uuid:"f53e2422-9c7d-47c8-9b38-ee317cb82d53"]
 [description:"pacman -Syu" due:"1335758400" end:"1335727996" entry:"1335177927" imask:"7" parent:"8636107e-9e61-4b1a-9f09-7efdfc58cb7b" project:"otm" recur:"weekly" status:"completed" uuid:"3b459cb3-9ccb-4694-ba15-cf7fd35440b0"]
 [description:"pacman -Syu" due:"1335153600" end:"1335272701" entry:"1334578364" imask:"6" parent:"8636107e-9e61-4b1a-9f09-7efdfc58cb7b" project:"otm" recur:"weekly" status:"completed" uuid:"dbc11ef9-d298-454a-8af5-c3121bb7c21f"]
 [description:"Transplant liriope" due:"1335193976" end:"1335193999" entry:"1335193964" mask:"XX" recur:"yearly" status:"deleted" uuid:"09e46615-0972-427b-a0c8-bc95eb4b78d1"]
