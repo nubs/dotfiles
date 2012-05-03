@@ -1,3 +1,7 @@
+[description:"pacman -Syu" due:"1336968000" end:"1337000343" entry:"1336393996" imask:"9" parent:"8636107e-9e61-4b1a-9f09-7efdfc58cb7b" recur:"weekly" status:"completed" uuid:"e8792837-9262-4a97-a53f-b332f5835628"]
+[description:"pacman -Syu" due:"1336363200" end:"1336402980" entry:"1335819424" imask:"8" parent:"8636107e-9e61-4b1a-9f09-7efdfc58cb7b" recur:"weekly" status:"completed" uuid:"d2d9783f-36c5-47a8-9514-8fca75b627ad"]
+[description:"submit timecard" due:"1336017600" end:"1336131326" entry:"1334836890" imask:"3" parent:"b9bf3b12-f546-4411-8036-c039abbb0fcc" project:"work" recur:"2wks" status:"completed" uuid:"30fffe2a-e111-416d-9743-90aa760248f3"]
+[description:"Copy missing images to anubishome" end:"1336065684" entry:"1335980890" project:"home" status:"completed" uuid:"f742bc15-7479-4070-9dbe-803799b5a3b5"]
 [description:"Fix chair" end:"1335980814" entry:"1335522880" project:"work" status:"completed" uuid:"73cede8d-24de-491b-994d-25aba86d9fe2"]
 [description:"Backup anubishome" end:"1335980871" entry:"1335832210" project:"home" status:"completed" uuid:"2bfd2239-9e7f-4e49-a244-5cb4dba27dc4"]
 [description:"Set up unison + rsnapshot for laptop" end:"1335832184" entry:"1332245970" project:"home" status:"completed" uuid:"f53e2422-9c7d-47c8-9b38-ee317cb82d53"]
