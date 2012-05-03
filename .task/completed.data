@@ -1,3 +1,5 @@
+[description:"Fix chair" end:"1335980814" entry:"1335522880" project:"work" status:"completed" uuid:"73cede8d-24de-491b-994d-25aba86d9fe2"]
+[description:"Backup anubishome" end:"1335980871" entry:"1335832210" project:"home" status:"completed" uuid:"2bfd2239-9e7f-4e49-a244-5cb4dba27dc4"]
 [description:"Set up unison + rsnapshot for laptop" end:"1335832184" entry:"1332245970" project:"home" status:"completed" uuid:"f53e2422-9c7d-47c8-9b38-ee317cb82d53"]
 [description:"pacman -Syu" due:"1335758400" end:"1335727996" entry:"1335177927" imask:"7" parent:"8636107e-9e61-4b1a-9f09-7efdfc58cb7b" project:"otm" recur:"weekly" status:"completed" uuid:"3b459cb3-9ccb-4694-ba15-cf7fd35440b0"]
 [description:"pacman -Syu" due:"1335153600" end:"1335272701" entry:"1334578364" imask:"6" parent:"8636107e-9e61-4b1a-9f09-7efdfc58cb7b" project:"otm" recur:"weekly" status:"completed" uuid:"dbc11ef9-d298-454a-8af5-c3121bb7c21f"]
