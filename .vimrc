@@ -74,6 +74,9 @@ autocmd FileType ruby setlocal tabstop=2 shiftwidth=2 softtabstop=2 expandtab
 " CoffeeScript
 autocmd FileType coffee setlocal tabstop=2 shiftwidth=2 softtabstop=2 expandtab
 
+" Javascript
+autocmd FileType javascript setlocal tabstop=2 shiftwidth=2 softtabstop=2 expandtab
+
 " HTML
 autocmd FileType html setlocal tabstop=2 shiftwidth=2 softtabstop=2 expandtab
 
