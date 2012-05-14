@@ -64,3 +64,6 @@
 [submodule "projects/work/abs"]
 	path = projects/work/abs
 	url = git@github.com:nubs/abs.git
+[submodule "projects/work/dws-coding-standard"]
+	path = projects/work/dws-coding-standard
+	url = git@github.com:nubs/dws-coding-standard.git
