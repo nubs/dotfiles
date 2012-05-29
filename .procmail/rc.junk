@@ -58,3 +58,7 @@ trash/
 :0:
 * ^Subject: *TOLImage(Processor|Queuer) - Unexpected Error
 trash/
+
+:0:
+* ^Subject: *MakeModelMatcher - Critical Error
+trash/
