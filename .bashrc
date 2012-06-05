@@ -15,7 +15,7 @@ export XDG_DESKTOP_DIR="${HOME}"
 export GEM_HOME="$HOME/.gem"
 
 [ -d "${HOME}/projects/admin/cdist/bin" ] && PATH="${PATH}:${HOME}/projects/admin/cdist/bin"
-[ -d $(ruby -rubygems -e "puts Gem.user_dir" 2>/dev/null) ] && PATH="${PATH}:$(ruby -rubygems -e "puts Gem.user_dir" 2>/dev/null)"
+[ -d "$(ruby -rubygems -e "puts Gem.user_dir" 2>/dev/null)/bin" ] && PATH="${PATH}:$(ruby -rubygems -e "puts Gem.user_dir" 2>/dev/null)/bin"
 [ -d "${HOME}/bin" ] && PATH="${PATH}:${HOME}/bin"
 export PATH
 
