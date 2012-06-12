@@ -62,3 +62,7 @@ trash/
 :0:
 * ^Subject: *MakeModelMatcher - Critical Error
 trash/
+
+:0:
+* ^Subject: *TOLMakeModelValidator - Unexpected Error
+trash/
