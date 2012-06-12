@@ -1,3 +1,5 @@
+[description:"Fix door frame" end:"1339502480" entry:"1331575739" project:"home" status:"completed" uuid:"9849f993-b344-4d48-8632-b91099d203d0"]
+[description:"pacman -Syu" due:"1339387200" end:"1339502473" entry:"1338810383" imask:"13" parent:"8636107e-9e61-4b1a-9f09-7efdfc58cb7b" recur:"weekly" status:"completed" uuid:"144fba9c-4770-4357-867d-e1ddb55fd38d"]
 [description:"Create cd for jenny" end:"1338894187" entry:"1334670755" project:"home" status:"completed" uuid:"0f7dbd3d-f83a-4543-9528-1d7a9def88ad"]
 [description:"take donations to CHKD" end:"1338894193" entry:"1336409014" project:"home" status:"completed" uuid:"0affe4de-921c-4943-b774-72a3734cb8c5"]
 [description:"submit timecard" due:"1338436800" end:"1338894151" entry:"1337257485" imask:"5" parent:"b9bf3b12-f546-4411-8036-c039abbb0fcc" recur:"2wks" status:"completed" uuid:"a556e373-7ada-43dd-8cdf-e7ed620cef6a"]
