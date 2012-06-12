@@ -86,8 +86,14 @@ autocmd FileType mustache setlocal tabstop=2 shiftwidth=2 softtabstop=2 expandta
 " Markdown
 autocmd FileType markdown setlocal tabstop=4 shiftwidth=4 softtabstop=4 expandtab
 
+" Opa
+autocmd FileType opa setlocal tabstop=2 shiftwidth=2 softtabstop=2 expandtab
+
 " Stylus
 autocmd FileType stylus setlocal tabstop=2 shiftwidth=2 softtabstop=2 expandtab
+
+" Vim
+autocmd FileType vim setlocal tabstop=2 shiftwidth=2 softtabstop=2 expandtab
 
 " WDDX
 autocmd BufNewFile,BufRead *.wddx setf xml
