@@ -10,7 +10,7 @@ set record       = +sent
 set header_cache = $my_cfg_dir/hcache
 set mailcap_path = $my_cfg_dir/mailcap
 set alias_file   = $my_cfg_dir/rc.aliases
-mailboxes +inbox +svn +feeds +uzbl +ledger +suckless +norfolkphp +git +ruby +arch +fedora +notmuch +xorg +dropbear +thttpd +ngetty +gatling +dietlibc +puppet +exherbo +fll +sinatra
+mailboxes +inbox +svn +feeds +uzbl +ledger +suckless +norfolkphp +git +ruby +arch +fedora +notmuch +xorg +dropbear +thttpd +ngetty +gatling +dietlibc +puppet +exherbo +fll +sinatra +opa
 alternates '^spencer\.rinehart@(traderonline|dominionenterprises)\.com$' '^anubis@vt\.edu$' '@(spennifer|overthemonkey)\.com$'
 alternative_order text/enriched text/plain text
 auto_view text/html text/calendar

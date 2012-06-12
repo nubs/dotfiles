@@ -97,3 +97,7 @@ fll/
 :0:
 * ^List-Id: .*sinatrarb.googlegroups.com
 sinatra/
+
+:0:
+* ^List-Id: .*opa.lists.owasp.org
+opa/
