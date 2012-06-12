@@ -25,10 +25,12 @@
 .msmtprc
 .netrc
 .npm
+.opa
 .pdepend
 .pricedb
 .rbot
 .rss2email
+.slocdata
 .ssh
 .subversion
 .unison
