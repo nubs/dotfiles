@@ -1,3 +1,6 @@
+[description:"pacman -Syu" due:"1340596800" end:"1340633633" entry:"1340020342" imask:"15" parent:"8636107e-9e61-4b1a-9f09-7efdfc58cb7b" recur:"weekly" status:"completed" uuid:"3a17c494-7cdb-4e89-999b-94ddabc60bd2"]
+[description:"pacman -Syu" due:"1339992000" end:"1340038120" entry:"1339411714" imask:"14" parent:"8636107e-9e61-4b1a-9f09-7efdfc58cb7b" recur:"weekly" status:"completed" uuid:"05cec476-ea9e-47c8-ae01-96c5584b3071"]
+[description:"submit timecard" due:"1339646400" end:"1339769240" entry:"1338464696" imask:"6" parent:"b9bf3b12-f546-4411-8036-c039abbb0fcc" recur:"2wks" status:"completed" uuid:"8bf3b0fa-a9e0-4408-af1c-ec7b3fece1eb"]
 [description:"Fix door frame" end:"1339502480" entry:"1331575739" project:"home" status:"completed" uuid:"9849f993-b344-4d48-8632-b91099d203d0"]
 [description:"pacman -Syu" due:"1339387200" end:"1339502473" entry:"1338810383" imask:"13" parent:"8636107e-9e61-4b1a-9f09-7efdfc58cb7b" recur:"weekly" status:"completed" uuid:"144fba9c-4770-4357-867d-e1ddb55fd38d"]
 [description:"Create cd for jenny" end:"1338894187" entry:"1334670755" project:"home" status:"completed" uuid:"0f7dbd3d-f83a-4543-9528-1d7a9def88ad"]
