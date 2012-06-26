@@ -1,0 +1,8 @@
+XDG_DESKTOP_DIR="/home/anubis"
+XDG_DOWNLOAD_DIR="/home/anubis/dl"
+XDG_TEMPLATES_DIR="/home/anubis"
+XDG_PUBLICSHARE_DIR="/home/anubis/srv"
+XDG_DOCUMENTS_DIR="/home/anubis/docs"
+XDG_MUSIC_DIR="/home/anubis/dl/music"
+XDG_PICTURES_DIR="/home/anubis/dl"
+XDG_VIDEOS_DIR="/home/anubis/dl/video"
