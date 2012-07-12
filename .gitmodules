@@ -67,3 +67,21 @@
 [submodule "projects/work/dws-coding-standard"]
 	path = projects/work/dws-coding-standard
 	url = git@github.com:nubs/dws-coding-standard.git
+[submodule "projects/work/DWS_ZendX"]
+	path = projects/work/DWS_ZendX
+	url = git@github.com:nubs/DWS_ZendX.git
+[submodule "projects/work/cronus"]
+	path = projects/work/cronus
+	url = git@github.com:nubs/cronus.git
+[submodule "projects/work/pear/base"]
+	path = projects/work/pear/base
+	url = git@github.com:nubs/tol-pear-base.git
+[submodule "projects/work/pear/curl"]
+	path = projects/work/pear/curl
+	url = git@github.com:nubs/tol-pear-curl.git
+[submodule "projects/work/pear/daemon"]
+	path = projects/work/pear/daemon
+	url = git@github.com:nubs/tol-pear-daemon.git
+[submodule "projects/work/pear/image"]
+	path = projects/work/pear/image
+	url = git@github.com:nubs/tol-pear-image.git
