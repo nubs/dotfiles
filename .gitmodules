@@ -85,3 +85,6 @@
 [submodule "projects/work/pear/image"]
 	path = projects/work/pear/image
 	url = git@github.com:nubs/tol-pear-image.git
+[submodule "projects/home/rinehart-reader"]
+	path = projects/home/rinehart-reader
+	url = git@github.com:nubs/blog.spennifer.com.git
