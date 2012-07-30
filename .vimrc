@@ -98,6 +98,9 @@ autocmd FileType vim setlocal tabstop=2 shiftwidth=2 softtabstop=2 expandtab
 " WDDX
 autocmd BufNewFile,BufRead *.wddx setf xml
 
+" Ant
+autocmd FileType ant setlocal tabstop=4 shiftwidth=4 softtabstop=4 expandtab
+
 " XML
 autocmd FileType xml setlocal tabstop=4 shiftwidth=4 softtabstop=4 expandtab
 
