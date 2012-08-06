@@ -1,3 +1,4 @@
+[description:"pacman -Syu" due:"1344225600" end:"1344258477" entry:"1343649278" imask:"21" parent:"8636107e-9e61-4b1a-9f09-7efdfc58cb7b" recur:"weekly" status:"completed" uuid:"102110bc-3bbb-426e-b8ce-3e77f44e419a"]
 [description:"pacman -Syu" due:"1343620800" end:"1343652970" entry:"1343037482" imask:"20" parent:"8636107e-9e61-4b1a-9f09-7efdfc58cb7b" recur:"weekly" status:"completed" uuid:"5fc4505a-1cfe-4f3b-be49-b661e9f3a1be"]
 [description:"submit timecard" due:"1343275200" end:"1343396525" entry:"1342086860" imask:"9" parent:"b9bf3b12-f546-4411-8036-c039abbb0fcc" recur:"2wks" status:"completed" uuid:"93f4a5f7-43b3-4e66-ac72-458969ffe253"]
 [description:"Organize school bags" end:"1343134196" entry:"1332158101" project:"home" status:"completed" uuid:"a988a2b3-ce8e-4510-b170-8d64f2acd5f7"]
