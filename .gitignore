@@ -19,6 +19,7 @@
 .java
 .kde4
 .ledger
+.lesshst
 .macromedia
 .mail
 .mozilla
@@ -41,3 +42,4 @@ unison.log
 .Xauthority
 .zcompdump
 .zdirs
+.zsh-update

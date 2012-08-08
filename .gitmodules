@@ -88,3 +88,6 @@
 [submodule "projects/home/rinehart-reader"]
 	path = projects/home/rinehart-reader
 	url = git@github.com:nubs/blog.spennifer.com.git
+[submodule ".oh-my-zsh"]
+	path = .oh-my-zsh
+	url = git@github.com:nubs/oh-my-zsh.git
