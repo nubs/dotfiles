@@ -13,3 +13,5 @@
 	enabled = true
 [alias]
 	plog = log --graph --all --oneline --decorate
+[core]
+	editor = vim
