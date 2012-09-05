@@ -1,3 +1,6 @@
+[description:"pacman -Syu" due:"1346644800" end:"1346759612" entry:"1346067002" imask:"25" parent:"8636107e-9e61-4b1a-9f09-7efdfc58cb7b" recur:"weekly" status:"completed" uuid:"d39bfd76-80f5-4b53-9815-6b60b32aeb33"]
+[description:"submit timecard" due:"1345694400" end:"1346238413" entry:"1344938793" imask:"11" parent:"b9bf3b12-f546-4411-8036-c039abbb0fcc" recur:"2wks" status:"completed" uuid:"ac6a0eb4-5f96-450c-b434-d7e6ecb5fc1b"]
+[description:"pacman -Syu" due:"1346040000" end:"1346238410" entry:"1345456562" imask:"24" parent:"8636107e-9e61-4b1a-9f09-7efdfc58cb7b" recur:"weekly" status:"completed" uuid:"46ef5c73-c2ed-4ddf-8c0b-597c0720af21"]
 [description:"pacman -Syu" due:"1345435200" end:"1345466604" entry:"1344938793" imask:"23" parent:"8636107e-9e61-4b1a-9f09-7efdfc58cb7b" recur:"weekly" status:"completed" uuid:"79f0a609-88b2-4ec6-a3a9-a00b713a687c"]
 [description:"pacman -Syu" due:"1344830400" end:"1344952970" entry:"1344250983" imask:"22" parent:"8636107e-9e61-4b1a-9f09-7efdfc58cb7b" recur:"weekly" status:"completed" uuid:"cf6e8e1c-1331-45a6-b441-efcddbaeddb4"]
 [description:"submit timecard" due:"1344484800" end:"1344952863" entry:"1343295588" imask:"10" parent:"b9bf3b12-f546-4411-8036-c039abbb0fcc" recur:"2wks" status:"completed" uuid:"7ea165ec-2c9d-4b71-beeb-cc6063e05e58"]
