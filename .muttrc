@@ -15,6 +15,7 @@ alternates '^spencer\.rinehart@(traderonline|dominionenterprises)\.com$' '^anubi
 alternative_order text/enriched text/plain text
 auto_view text/html text/calendar
 
+set editor="vim"
 set pager_context = 5
 set sort = threads
 set implicit_autoview
