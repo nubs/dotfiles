@@ -9,6 +9,7 @@
 .aria2
 .cache
 .dbshell
+.dbus
 .elinks
 .gem
 .getmail
