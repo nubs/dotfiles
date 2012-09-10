@@ -1,3 +1,8 @@
+applications/
+desktop-directories/
+gegl-*/
+icons/
+mime/
 recently-used.xbel
 vlc/
 webkit

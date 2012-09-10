@@ -12,6 +12,7 @@
 .elinks
 .gem
 .getmail
+.gimp-*
 .gnupg
 .gomrc
 .gstreamer*
@@ -39,9 +40,11 @@
 .slocdata
 .ssh
 .subversion
+.thumbnails
 .unison
 unison.log
 .weechat
+.wine
 .Xauthority
 .zcompdump
 .zdirs
