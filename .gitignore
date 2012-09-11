@@ -1,4 +1,5 @@
 /dl
+Ubuntu One
 
 .*_history
 .*info
@@ -12,6 +13,7 @@
 .elinks
 .gem
 .gimp-*
+.gnome2
 .gnupg
 .gomrc
 .gstreamer*
