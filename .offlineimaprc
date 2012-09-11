@@ -1,0 +1,32 @@
+# Sample minimal config file.  Copy this to ~/.offlineimaprc and edit to
+# get started fast.
+
+[general]
+accounts = DE
+
+[Account DE]
+localrepository = LocalDE
+remoterepository = RemoteDE
+autorefresh = 2
+quick = 10
+
+[Repository LocalDE]
+type = Maildir
+localfolders = ~/.mail/DE
+nametrans = lambda foldername: re.sub('_', ' ', re.sub('inbox', 'INBOX', foldername))
+
+[Repository RemoteDE]
+type = Gmail
+remoteuser = spencer.rinehart@dominionenterprises.com
+nametrans = lambda foldername: re.sub(' ', '_', re.sub('INBOX', 'inbox', foldername))
+folderfilter = lambda foldername: foldername in 'INBOX'
+cert_fingerprint = f3043dd689a2e7dddfbef82703a6c65ea9b634c1
+keepalive = 60
+
+[mbnames]
+enabled = yes
+filename = ~/.mutt/rc.imap_mailboxes
+header = "mailboxes "
+peritem = "+%(accountname)s/%(foldername)s"
+sep = " "
+footer = "\n"

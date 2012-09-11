@@ -41,3 +41,4 @@ folder-hook . "push \"<limit> ~d <7d\n\""
 source $my_cfg_dir/rc.colors
 source $my_cfg_dir/rc.aliases
 source $my_cfg_dir/rc.gnupg
+source $my_cfg_dir/rc.imap_mailboxes
