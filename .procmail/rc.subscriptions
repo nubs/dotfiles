@@ -7,44 +7,12 @@ ruby/
 ruby/
 
 :0:
-* ^TO_.*@(redhat\.com|lists\.fedoraproject\.org)
-fedora/
-
-:0:
-* ^List-Id:.*@(redhat\.com|lists\.fedoraproject\.org)
-fedora/
-
-:0:
 * ^TO_.*@archlinux\.org
 arch/
 
 :0:
-* ^TO_.*@lists\.uzbl\.org
-uzbl/
-
-:0:
-* ^TO_.*@notmuchmail\.org
-notmuch/
-
-:0:
-* ^TO_.*public-notmuch.*
-notmuch/
-
-:0:
 * ^TO_.*suckless\.org
 suckless/
-
-:0:
-* ^TO_.*norfolkphp
-norfolkphp/
-
-:0:
-* ^List-Id:.*itcollaboration.dominionenterprises.com
-norfolkphp/
-
-:0:
-* ^TO_.*git@vger.kernel.org.*
-git/
 
 :0:
 * ^TO_.*ledger-cli.*
@@ -73,18 +41,6 @@ puppet/
 :0:
 * ^List-Id: .*cdist\..*
 puppet/
-
-:0:
-* ^TO_.*dietlibc@fefe.de
-dietlibc/
-
-:0:
-* ^Mailing-List.*gatling.*@fefe.de
-gatling/
-
-:0:
-* ^TO_.*thttpd@.*\.acme\.com
-thttpd/
 
 :0:
 * ^List-Id: .*exherbo\.org

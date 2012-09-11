@@ -3,14 +3,6 @@
 feeds/
 
 :0:
-* ^From:.*no-reply@justin.tv
-feeds/
-
-:0:
-* ^From:.*no-reply@twitch.tv
-feeds/
-
-:0:
 * ^From:.*info@news.abebooks.com
 feeds/
 
