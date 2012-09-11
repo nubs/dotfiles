@@ -1,1 +1,1 @@
-mailboxes "+DE/inbox"
+mailboxes "+DE/inbox" "+OTM/arch" "+OTM/dropbear" "+OTM/exherbo" "+OTM/feeds" "+OTM/fll" "+OTM/ledger" "+OTM/main" "+OTM/nouveau" "+OTM/opa" "+OTM/puppet" "+OTM/ruby" "+OTM/sinatra" "+OTM/suckless" "+OTM/xorg"

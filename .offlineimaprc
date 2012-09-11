@@ -2,7 +2,8 @@
 # get started fast.
 
 [general]
-accounts = DE
+accounts = DE, OTM
+maxsyncaccounts = 2
 
 [Account DE]
 localrepository = LocalDE
@@ -23,6 +24,25 @@ folderfilter = lambda foldername: foldername in 'INBOX'
 cert_fingerprint = f3043dd689a2e7dddfbef82703a6c65ea9b634c1
 keepalive = 60
 
+[Account OTM]
+localrepository = LocalOTM
+remoterepository = RemoteOTM
+autorefresh = 1
+quick = 10
+
+[Repository LocalOTM]
+type = Maildir
+localfolders = ~/.mail/OTM
+nametrans = lambda foldername: re.sub('procmail', 'INBOX', foldername)
+
+[Repository RemoteOTM]
+type = IMAP
+remotehost = mail.overthemonkey.com
+remoteuser = *@overthemonkey.com
+nametrans = lambda foldername: re.sub('INBOX', 'procmail', foldername)
+cert_fingerprint = f3043dd689a2e7dddfbef82703a6c65ea9b634c1
+keepalive = 60
+
 [mbnames]
 enabled = yes
 filename = ~/.mutt/rc.imap_mailboxes
@@ -30,3 +50,4 @@ header = "mailboxes "
 peritem = "+%(accountname)s/%(foldername)s"
 sep = " "
 footer = "\n"
+folderfilter = lambda accountname, foldername: accountname in 'DE' or foldername not in ['procmail', 'trash', 'sent', 'drafts']

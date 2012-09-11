@@ -4,13 +4,12 @@ set sendmail     = /usr/bin/msmtp
 set mbox_type    = Maildir
 set folder       = ~/.mail
 set my_cfg_dir   = ~/.mutt
-set spoolfile    = +inbox
-set postponed    = +drafts
-set record       = +sent
+set spoolfile    = +DE/inbox
+set postponed    = +OTM/drafts
+set record       = +OTM/sent
 set header_cache = $my_cfg_dir/hcache
 set mailcap_path = $my_cfg_dir/mailcap
 set alias_file   = $my_cfg_dir/rc.aliases
-mailboxes +inbox +svn +feeds +uzbl +ledger +suckless +norfolkphp +ruby +arch +fedora +notmuch +nouveau +xorg +dropbear +thttpd +ngetty +gatling +dietlibc +puppet +exherbo +fll +sinatra +opa
 alternates '^spencer\.rinehart@(traderonline|dominionenterprises)\.com$' '^anubis@vt\.edu$' '@(spennifer|overthemonkey)\.com$'
 alternative_order text/enriched text/plain text
 auto_view text/html text/calendar
