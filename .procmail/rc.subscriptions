@@ -1,12 +1,4 @@
 :0:
-* ^TO_.*@ruby-lang\.org
-ruby/
-
-:0:
-* ^X-ML-Name: ruby
-ruby/
-
-:0:
 * ^TO_.*@archlinux\.org
 arch/
 
@@ -17,10 +9,6 @@ suckless/
 :0:
 * ^TO_.*ledger-cli.*
 ledger/
-
-:0:
-* ^TO_xorg@.*(freedesktop|x)\.org.*
-xorg/
 
 :0:
 * ^TO_.*nouveau@.*(freedesktop|x)\.org.*
