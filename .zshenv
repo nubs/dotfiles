@@ -13,3 +13,8 @@ if [ -d "${HOME}/bin" ]
 then
 	export PATH="${PATH}:${HOME}/bin"
 fi
+
+if [ -d "${HOME}/.gem/ruby/1.9.1/bin" ]
+then
+	export PATH="${PATH}:${HOME}/.gem/ruby/1.9.1/bin"
+fi
