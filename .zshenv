@@ -1,7 +1,3 @@
-export HISTFILE="~/.histfile"
-export HISTSIZE="10000"
-export SAVEHIST="10000"
-export PAGER="/bin/more"
 export EDITOR="/usr/bin/vim"
 
 if [ -d "/usr/local/bin" ]
