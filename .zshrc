@@ -35,3 +35,5 @@ source $ZSH/oh-my-zsh.sh
 
 # Customize to your needs...
 source $HOME/.zshenv
+
+alias fxg='find . -type f -print0 | xargs -0 grep'
