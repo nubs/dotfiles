@@ -1,3 +1,5 @@
+[description:"submit timecard" due:"1348113600" end:"1348138292" entry:"1346924644" imask:"13" parent:"b9bf3b12-f546-4411-8036-c039abbb0fcc" recur:"2wks" status:"completed" uuid:"95e34379-f1f1-4db4-bf3a-ba52b4d942d0"]
+[description:"Jenny email Nick's timecapsule" due:"1348113600" end:"1348138092" entry:"1342779099" imask:"1" parent:"e7b71ac2-7348-4b4a-8f08-d6621413b05a" project:"home" recur:"bimonthly" status:"completed" uuid:"50e6e602-1115-407d-a984-d370f66192df"]
 [description:"pacman -Syu" due:"1347854400" end:"1347880118" entry:"1347270234" imask:"27" parent:"8636107e-9e61-4b1a-9f09-7efdfc58cb7b" recur:"weekly" status:"completed" uuid:"50bb6d27-447a-46b0-9aa1-4d02693243bc"]
 [description:"pacman -Syu" due:"1347249600" end:"1347274028" entry:"1346752657" imask:"26" parent:"8636107e-9e61-4b1a-9f09-7efdfc58cb7b" recur:"weekly" status:"completed" uuid:"09aa7053-180c-4c02-adfb-6697dace46ce"]
 [description:"Email Nick's Timecapsule" due:"1345262400" end:"1347027215" entry:"1340104933" imask:"2" parent:"63f68731-9a2c-4464-89c0-1f88f64e94af" recur:"2months" status:"completed" uuid:"ca3f58ad-7fe3-403c-8ddc-03758b379dfb"]
