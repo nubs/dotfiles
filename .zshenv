@@ -14,3 +14,8 @@ if [ -d "${HOME}/.gem/ruby/1.9.1/bin" ]
 then
 	export PATH="${PATH}:${HOME}/.gem/ruby/1.9.1/bin"
 fi
+
+if [ -d "${HOME}/cloud/bin" ]
+then
+	export PATH="${PATH}:${HOME}/cloud/bin"
+fi
