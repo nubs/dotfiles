@@ -1,3 +1,4 @@
+[description:"submit timecard" due:"1350532800" end:"1350733186" entry:"1349343946" imask:"15" parent:"b9bf3b12-f546-4411-8036-c039abbb0fcc" project:"work" recur:"2wks" status:"completed" uuid:"035f2518-4e54-499f-9975-15d05c3fc3a7"]
 [description:"pacman -Syu" due:"1349668800" end:"1349697423" entry:"1349087043" imask:"30" parent:"8636107e-9e61-4b1a-9f09-7efdfc58cb7b" project:"work" recur:"weekly" status:"completed" uuid:"796ee059-7e87-44cc-bf0b-411db4f9e69b"]
 [description:"submit timecard" due:"1349323200" end:"1349347737" entry:"1348134019" imask:"14" parent:"b9bf3b12-f546-4411-8036-c039abbb0fcc" project:"work" recur:"2wks" status:"completed" uuid:"5d96eecb-3ef7-4a6d-b531-178870757ad9"]
 [description:"Update ledger" due:"1349064000" end:"1349285853" entry:"1346545529" imask:"5" parent:"cc465434-0359-42c9-bc83-4d069e3fac9e" project:"home" recur:"monthly" status:"completed" uuid:"879c5be4-8cee-40e6-84cf-1d06856e3c30"]
