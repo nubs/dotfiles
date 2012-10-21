@@ -1,6 +1,8 @@
+Trash/
 applications/
 desktop-directories/
 gegl-*/
+gvfs-metadata/
 icons/
 mime/
 recently-used.xbel
