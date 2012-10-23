@@ -33,14 +33,15 @@ quick = 10
 [Repository LocalOTM]
 type = Maildir
 localfolders = ~/.mail/OTM
-nametrans = lambda foldername: re.sub('procmail', 'INBOX', foldername)
+nametrans = lambda foldername: re.sub('_', ' ', re.sub('procmail', 'INBOX', foldername))
+folderfilter = lambda foldername: foldername not in ['trash', 'sent', 'drafts']
 
 [Repository RemoteOTM]
-type = IMAP
-remotehost = mail.overthemonkey.com
-remoteuser = *@overthemonkey.com
-nametrans = lambda foldername: re.sub('INBOX', 'procmail', foldername)
-cert_fingerprint = f3043dd689a2e7dddfbef82703a6c65ea9b634c1
+type = Gmail
+remoteuser = anubis@overthemonkey.com
+nametrans = lambda foldername: re.sub(' ', '_', re.sub('INBOX', 'procmail', foldername))
+folderfilter = lambda foldername: foldername not in ['[Gmail]/All Mail', '[Gmail]/Drafts', '[Gmail]/Important', '[Gmail]/Sent Mail', '[Gmail]/Spam', '[Gmail]/Starred', '[Gmail]/Trash']
+cert_fingerprint = 6d1b5b5ee0180ab493b71d3b94534b5ab937d042
 keepalive = 60
 
 [mbnames]
