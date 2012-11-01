@@ -1,3 +1,5 @@
+[description:"submit timecard" due:"1351742400" end:"1351791773" entry:"1350733177" imask:"16" parent:"b9bf3b12-f546-4411-8036-c039abbb0fcc" project:"work" recur:"2wks" status:"completed" uuid:"65651467-bb11-4486-9ebf-080eaac86eeb"]
+[description:"pacman -Syu" due:"1351483200" end:"1351791768" entry:"1351078448" imask:"33" parent:"8636107e-9e61-4b1a-9f09-7efdfc58cb7b" project:"work" recur:"weekly" status:"completed" uuid:"2b54ac1d-661d-4c16-a1d4-cdb30048ff11"]
 [description:"pacman -Syu" due:"1350878400" end:"1351078451" entry:"1350733177" imask:"32" parent:"8636107e-9e61-4b1a-9f09-7efdfc58cb7b" project:"work" recur:"weekly" status:"completed" uuid:"867f51c9-deef-4107-977e-6d466f0c32cf"]
 [description:"pacman -Syu" due:"1350273600" end:"1350844177" entry:"1349693839" imask:"31" parent:"8636107e-9e61-4b1a-9f09-7efdfc58cb7b" project:"work" recur:"weekly" status:"completed" uuid:"4086e91e-d91a-4b48-bfc2-e7923426d525"]
 [description:"submit timecard" due:"1350532800" end:"1350733186" entry:"1349343946" imask:"15" parent:"b9bf3b12-f546-4411-8036-c039abbb0fcc" project:"work" recur:"2wks" status:"completed" uuid:"035f2518-4e54-499f-9975-15d05c3fc3a7"]
