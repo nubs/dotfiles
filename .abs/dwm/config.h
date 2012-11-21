@@ -45,7 +45,7 @@ static const Layout layouts[] = {
 
 /* commands */
 static const char *dmenucmd[] = { "dmenu_run", "-fn", font, "-nb", normbgcolor, "-nf", normfgcolor, "-sb", selbgcolor, "-sf", selfgcolor, NULL };
-static const char *termcmd[]  = { "st", "-e", "tmux", NULL };
+static const char *termcmd[]  = { "urxvt", "-e", "tmux", NULL };
 static const char *browsercmd[] = { "uzbl-browser", NULL };
 static const char *screenlockercmd[] = { "slock", NULL };
 static const char *nexttrackcmd[] = { "mpc", "next", NULL };
