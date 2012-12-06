@@ -91,3 +91,6 @@
 [submodule ".oh-my-zsh"]
 	path = .oh-my-zsh
 	url = git@github.com:robbyrussell/oh-my-zsh.git
+[submodule "projects/work/pear/api-clients"]
+	path = projects/work/pear/api-clients
+	url = git@github.com:nubs/tol-api-clients.git
