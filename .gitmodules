@@ -97,3 +97,6 @@
 [submodule "projects/home/nkk"]
 	path = projects/home/nkk
 	url = git@github.com:nubs/nickknackkrochet.com.git
+[submodule ".vim/bundle/less"]
+	path = .vim/bundle/less
+	url = git@github.com:groenewege/vim-less.git
