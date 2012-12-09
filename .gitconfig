@@ -15,6 +15,6 @@
 	plog = log --graph --all --oneline --decorate
 	mergelog = log --graph --oneline --decorate --merges
 [heroku]
-	account = work
+	account = personal
 [push]
 	default = simple
