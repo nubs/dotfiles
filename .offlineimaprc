@@ -33,13 +33,13 @@ quick = 10
 [Repository LocalOTM]
 type = Maildir
 localfolders = ~/.mail/OTM
-nametrans = lambda foldername: re.sub('_', ' ', re.sub('procmail', 'INBOX', foldername))
+nametrans = lambda foldername: re.sub('_', ' ', re.sub('inbox', 'INBOX', foldername))
 folderfilter = lambda foldername: foldername not in ['trash', 'sent', 'drafts']
 
 [Repository RemoteOTM]
 type = Gmail
 remoteuser = anubis@overthemonkey.com
-nametrans = lambda foldername: re.sub(' ', '_', re.sub('INBOX', 'procmail', foldername))
+nametrans = lambda foldername: re.sub(' ', '_', re.sub('INBOX', 'inbox', foldername))
 folderfilter = lambda foldername: foldername not in ['[Gmail]/All Mail', '[Gmail]/Drafts', '[Gmail]/Important', '[Gmail]/Sent Mail', '[Gmail]/Spam', '[Gmail]/Starred', '[Gmail]/Trash']
 cert_fingerprint = 6d1b5b5ee0180ab493b71d3b94534b5ab937d042
 keepalive = 60
@@ -51,4 +51,4 @@ header = "mailboxes "
 peritem = "+%(accountname)s/%(foldername)s"
 sep = " "
 footer = "\n"
-folderfilter = lambda accountname, foldername: accountname in 'DE' or foldername not in ['procmail', 'trash', 'sent', 'drafts']
+folderfilter = lambda accountname, foldername: accountname in 'DE' or foldername not in ['trash', 'sent', 'drafts']

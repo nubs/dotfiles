@@ -1,9 +1,0 @@
-PROCDIR=$HOME/.procmail
-
-MAILDIR=$HOME/.mail/OTM
-DEFAULT=$MAILDIR/main/
-
-INCLUDERC=$PROCDIR/rc.junk
-INCLUDERC=$PROCDIR/rc.feeds
-INCLUDERC=$PROCDIR/rc.subscriptions
-#INCLUDERC=$PROCDIR/rc.alert
