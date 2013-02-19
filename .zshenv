@@ -15,7 +15,7 @@ then
 	export PATH="${PATH}:${HOME}/.gem/ruby/1.9.1/bin"
 fi
 
-if [ -d "${HOME}/cloud/bin" ]
+if [ -d "${HOME}/.griveshare/bin" ]
 then
-	export PATH="${PATH}:${HOME}/cloud/bin"
+	export PATH="${PATH}:${HOME}/.griveshare/bin"
 fi
