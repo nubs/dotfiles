@@ -8,6 +8,7 @@
 .adobe
 .aria2
 .cache
+.composer
 .dbshell
 .dbus
 .elinks
@@ -31,11 +32,13 @@
 .mplayer
 .msmtprc
 .netrc
+.node-gyp
 .npm
 .nv
 .offlineimap
 .opa
 .pdepend
+.pki
 .pulse
 .pulse-cookie
 .rbot
