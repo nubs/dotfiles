@@ -43,6 +43,9 @@ endif
 nmap <Leader>j :SplitjoinSplit<cr>
 nmap <Leader>k :SplitjoinJoin<cr>
 
+nmap <Leader>sp :CtrlPMixed<cr>
+set wildignore+=*/build/*,*/vendor/*,*/node_modules/*
+
 " When editing a file, always jump to the last cursor position
 autocmd BufReadPost *
   \ if line("'\"") > 0 && line ("'\"") <= line("$") |
