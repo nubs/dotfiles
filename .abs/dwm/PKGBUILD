@@ -18,7 +18,7 @@ source=(http://dl.suckless.org/dwm/dwm-$pkgver.tar.gz
 	bstack.c
 	dwm.desktop)
 md5sums=('8bb00d4142259beb11e13473b81c0857'
-	 '6ebc938742e1e71d1a1360ec350718b7'
+	 '32a8c0cc87e1998ac719ecbd7559f745'
          'b031a1054151e06b0119be48fd9b504d'
          '939f403a71b6e85261d09fc3412269ee')
 

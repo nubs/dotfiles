@@ -3,7 +3,7 @@
 
 pkgname=st-git
 epoch=1
-pkgver=20130115
+pkgver=20130226
 pkgrel=1
 pkgdesc='Simple virtual terminal emulator for X'
 url='http://git.suckless.org/st/'
@@ -12,7 +12,7 @@ depends=('libxext' 'libxft')
 makedepends=('git' 'ncurses')
 arch=('i686' 'x86_64' 'armv7h')
 source=(config.def.h)
-md5sums=('c4faaf25e2d8f9d3bf1b1697b72155a6')
+md5sums=('c5806191d6b0881bd565255403d2b7d7')
 provides=('st')
 conflicts=('st')
 replaces=('st-hg')
