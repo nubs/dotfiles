@@ -50,6 +50,7 @@
 .thumbnails
 .unison
 unison.log
+.vmware
 .weechat
 .wine
 .Xauthority
