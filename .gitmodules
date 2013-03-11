@@ -109,3 +109,9 @@
 [submodule "projects/work/tol-sauce"]
 	path = projects/work/tol-sauce
 	url = git@github.com:nubs/tol-sauce.git
+[submodule ".vim/bundle/gitgutter"]
+	path = .vim/bundle/gitgutter
+	url = git@github.com:airblade/vim-gitgutter.git
+[submodule "projects/work/DataX"]
+	path = projects/work/DataX
+	url = git@github.com:nubs/DataX.git
