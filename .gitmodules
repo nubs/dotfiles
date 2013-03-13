@@ -115,3 +115,6 @@
 [submodule "projects/work/DataX"]
 	path = projects/work/DataX
 	url = git@github.com:nubs/DataX.git
+[submodule "projects/home/daycare"]
+	path = projects/home/daycare
+	url = git@github.com:/nubs/nickknackkare.git
