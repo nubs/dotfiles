@@ -15,3 +15,5 @@
 	plog = log --graph --all --oneline --decorate
 [heroku]
 	account = work
+[push]
+	default = simple
