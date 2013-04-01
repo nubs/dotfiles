@@ -118,3 +118,9 @@
 [submodule "projects/home/daycare"]
 	path = projects/home/daycare
 	url = git@github.com:/nubs/nickknackkare.git
+[submodule "projects/work/dhs/tol-server-config"]
+	path = projects/work/dhs/tol-server-config
+	url = git@github.com:/nubs/tol-server-config.git
+[submodule "projects/work/dws-composer"]
+	path = projects/work/dws-composer
+	url = git@github.com:nubs/dws-composer.git
