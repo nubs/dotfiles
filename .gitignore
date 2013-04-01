@@ -7,6 +7,8 @@
 
 .adobe
 .aria2
+.bundle
+.bundler
 .cache
 .composer
 .dbshell
@@ -21,6 +23,7 @@
 .heroku
 .histfile
 .icedtea
+.ivy2
 .java
 .jist
 .kde4
@@ -41,9 +44,11 @@
 .pki
 .pulse
 .pulse-cookie
+.qws
 .rbot
 .recently-used.xbel
 .rss2email
+.sbt
 .slocdata
 .sqldeveloper
 .ssh
