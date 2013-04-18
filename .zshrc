@@ -29,7 +29,7 @@ ZSH_THEME="cypher"
 # Which plugins would you like to load? (plugins can be found in ~/.oh-my-zsh/plugins/*)
 # Custom plugins may be added to ~/.oh-my-zsh/custom/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
-plugins=(archlinux git phing colored-man)
+plugins=(archlinux git phing colored-man history-substring-search)
 
 source $ZSH/oh-my-zsh.sh
 
@@ -37,3 +37,7 @@ source $ZSH/oh-my-zsh.sh
 source $HOME/.zshenv
 
 alias fxg='find . -type f -print0 | xargs -0 grep'
+bindkey '^P' history-substring-search-up
+bindkey '^N' history-substring-search-down
+bindkey '\e[A' up-line-or-search
+bindkey '\e[B' down-line-or-search
