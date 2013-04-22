@@ -16,33 +16,6 @@
 [submodule ".vim/bundle/mustache"]
 	path = .vim/bundle/mustache
 	url = git@github.com:juvenn/mustache.vim.git
-[submodule "projects/work/nebulous"]
-	path = projects/work/nebulous
-	url = git@github.com:nubs/nebulous.git
-[submodule "projects/admin/email-notify"]
-	path = projects/admin/email-notify
-	url = git@github.com:nubs/email-notify.git
-[submodule "projects/home/nick"]
-	path = projects/home/nick
-	url = git@github.com:nubs/nickrinehart.com.git
-[submodule "projects/work/microtol"]
-	path = projects/work/microtol
-	url = git@github.com:nubs/microtol.git
-[submodule "projects/fun/euler"]
-	path = projects/fun/euler
-	url = git@github.com:nubs/euler.git
-[submodule "projects/fun/rbot"]
-	path = projects/fun/rbot
-	url = git://ruby-rbot.org/rbot.git
-[submodule "projects/home/spennifer"]
-	path = projects/home/spennifer
-	url = git@github.com:nubs/spennifer.com.git
-[submodule "projects/fun/tolgolf"]
-	path = projects/fun/tolgolf
-	url = git@github.com:nubs/tolgolf.git
-[submodule "projects/home/otm"]
-	path = projects/home/otm
-	url = git@github.com:nubs/overthemonkey.com.git
 [submodule ".vim/bundle/splitjoin"]
 	path = .vim/bundle/splitjoin
 	url = git@github.com:AndrewRadev/splitjoin.vim.git
@@ -61,72 +34,66 @@
 [submodule ".vim/bundle/camelcasemotion"]
 	path = .vim/bundle/camelcasemotion
 	url = git@github.com:vim-scripts/camelcasemotion.git
-[submodule "projects/work/abs"]
-	path = projects/work/abs
-	url = git@github.com:nubs/abs.git
-[submodule "projects/work/dws-coding-standard"]
-	path = projects/work/dws-coding-standard
-	url = git@github.com:nubs/dws-coding-standard.git
-[submodule "projects/work/DWS_ZendX"]
-	path = projects/work/DWS_ZendX
-	url = git@github.com:nubs/DWS_ZendX.git
-[submodule "projects/work/cronus"]
-	path = projects/work/cronus
-	url = git@github.com:nubs/cronus.git
-[submodule "projects/work/pear/base"]
-	path = projects/work/pear/base
-	url = git@github.com:nubs/tol-pear-base.git
-[submodule "projects/work/pear/curl"]
-	path = projects/work/pear/curl
-	url = git@github.com:nubs/tol-pear-curl.git
-[submodule "projects/work/pear/daemon"]
-	path = projects/work/pear/daemon
-	url = git@github.com:nubs/tol-pear-daemon.git
-[submodule "projects/work/pear/image"]
-	path = projects/work/pear/image
-	url = git@github.com:nubs/tol-pear-image.git
-[submodule "projects/home/rinehart-reader"]
-	path = projects/home/rinehart-reader
-	url = git@github.com:nubs/blog.spennifer.com.git
-[submodule ".oh-my-zsh"]
-	path = .oh-my-zsh
-	url = git@github.com:robbyrussell/oh-my-zsh.git
-[submodule "projects/work/pear/api-clients"]
-	path = projects/work/pear/api-clients
-	url = git@github.com:nubs/tol-api-clients.git
-[submodule "projects/home/nkk"]
-	path = projects/home/nkk
-	url = git@github.com:nubs/nickknackkrochet.com.git
 [submodule ".vim/bundle/less"]
 	path = .vim/bundle/less
 	url = git@github.com:groenewege/vim-less.git
 [submodule ".vim/bundle/ctrlp"]
 	path = .vim/bundle/ctrlp
 	url = git@github.com:kien/ctrlp.vim.git
-[submodule "projects/work/media-api"]
-	path = projects/work/media-api
-	url = git@github.com:nubs/media-api.git
-[submodule "projects/work/tol-sauce"]
-	path = projects/work/tol-sauce
-	url = git@github.com:nubs/tol-sauce.git
 [submodule ".vim/bundle/gitgutter"]
 	path = .vim/bundle/gitgutter
 	url = git@github.com:airblade/vim-gitgutter.git
-[submodule "projects/work/DataX"]
-	path = projects/work/DataX
-	url = git@github.com:nubs/DataX.git
-[submodule "projects/home/daycare"]
-	path = projects/home/daycare
-	url = git@github.com:/nubs/nickknackkare.git
-[submodule "projects/work/dhs/tol-server-config"]
-	path = projects/work/dhs/tol-server-config
-	url = git@github.com:/nubs/tol-server-config.git
-[submodule "projects/work/dws-composer"]
-	path = projects/work/dws-composer
-	url = git@github.com:nubs/dws-composer.git
 [submodule ".vim/bundle/markdown"]
 	path = .vim/bundle/markdown
 	url = git@github.com:tpope/vim-markdown.git
-[submodule "projects/work/tol-api-php"]
-	path = projects/work/tol-api-php
+[submodule "projects/home/nick"]
+	path = projects/home/nick
+	url = git@github.com:nubs/nickrinehart.com.git
+[submodule "projects/fun/euler"]
+	path = projects/fun/euler
+	url = git@github.com:nubs/euler.git
+[submodule "projects/fun/rbot"]
+	path = projects/fun/rbot
+	url = git://ruby-rbot.org/rbot.git
+[submodule "projects/home/spennifer"]
+	path = projects/home/spennifer
+	url = git@github.com:nubs/spennifer.com.git
+[submodule "projects/fun/tolgolf"]
+	path = projects/fun/tolgolf
+	url = git@github.com:nubs/tolgolf.git
+[submodule "projects/home/otm"]
+	path = projects/home/otm
+	url = git@github.com:nubs/overthemonkey.com.git
+[submodule "projects/home/rinehart-reader"]
+	path = projects/home/rinehart-reader
+	url = git@github.com:nubs/blog.spennifer.com.git
+[submodule "projects/home/nkk"]
+	path = projects/home/nkk
+	url = git@github.com:nubs/nickknackkrochet.com.git
+[submodule "projects/home/daycare"]
+	path = projects/home/daycare
+	url = git@github.com:/nubs/nickknackkare.git
+[submodule ".oh-my-zsh"]
+	path = .oh-my-zsh
+	url = git@github.com:robbyrussell/oh-my-zsh.git
+[submodule "projects/work/apps/nebulous"]
+	path = projects/work/apps/nebulous
+	url = git@github.com:nubs/nebulous.git
+[submodule "projects/work/apps/media-api"]
+	path = projects/work/apps/media-api
+	url = git@github.com:nubs/media-api.git
+[submodule "projects/work/utils/dws-coding-standard"]
+	path = projects/work/utils/dws-coding-standard
+	url = git@github.com:nubs/dws-coding-standard.git
+[submodule "projects/work/utils/tol-sauce"]
+	path = projects/work/utils/tol-sauce
+	url = git@github.com:nubs/tol-sauce.git
+[submodule "projects/work/utils/dws-composer"]
+	path = projects/work/utils/dws-composer
+	url = git@github.com:nubs/dws-composer.git
+[submodule "projects/work/utils/tol-api-php"]
+	path = projects/work/utils/tol-api-php
 	url = git@github.com:nubs/tol-api-php.git
+[submodule "projects/work/dhs/tol-server-config"]
+	path = projects/work/dhs/tol-server-config
+	url = git@github.com:/nubs/tol-server-config.git
