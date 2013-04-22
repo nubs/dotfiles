@@ -1,3 +1,4 @@
+[description:"pacman -Syu" due:"1366603200" end:"1366634541" entry:"1366023671" imask:"58" modified:"1366634541" parent:"8636107e-9e61-4b1a-9f09-7efdfc58cb7b" project:"work" recur:"weekly" status:"completed" uuid:"2008b556-0a7c-4339-9bb5-d455fc59609d"]
 [description:"submit timecard" due:"1366257600" end:"1366199250" entry:"1365415211" imask:"28" modified:"1366199250" parent:"b9bf3b12-f546-4411-8036-c039abbb0fcc" project:"work" recur:"2wks" status:"completed" uuid:"5b60645d-13e2-4a8f-b281-afe08c16b98e"]
 [description:"pacman -Syu" due:"1365998400" end:"1366199117" entry:"1365415211" imask:"57" modified:"1366199117" parent:"8636107e-9e61-4b1a-9f09-7efdfc58cb7b" project:"work" recur:"weekly" status:"completed" uuid:"48e94b6c-e80c-4424-a274-b584b4d87c7f"]
 [description:"Fix navigation links with ajax requests" end:"1365777750" entry:"1332426969" modified:"1365777751" project:"nr.com" status:"deleted" uuid:"708d2278-1efc-4917-946c-eeb9ceab8524"]

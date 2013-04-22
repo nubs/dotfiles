@@ -1,4 +1,4 @@
-[description:"pacman -Syu" due:"1331524800" entry:"1331575550" mask:"++++++++++++++++++++++++++++++++++++++++++++++++++++++++++-" modified:"1366199117" project:"work" recur:"weekly" status:"recurring" uuid:"8636107e-9e61-4b1a-9f09-7efdfc58cb7b"]
+[description:"pacman -Syu" due:"1331524800" entry:"1331575550" mask:"+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++-" modified:"1366634541" project:"work" recur:"weekly" status:"recurring" uuid:"8636107e-9e61-4b1a-9f09-7efdfc58cb7b"]
 [description:"submit timecard" due:"1332388800" entry:"1331722920" mask:"+++++++++++++++++++++++++++++-" modified:"1366278886" project:"work" recur:"2wks" status:"recurring" uuid:"b9bf3b12-f546-4411-8036-c039abbb0fcc"]
 [description:"Finish bookshelf" entry:"1332158108" project:"home" status:"pending" uuid:"6139e864-3cee-4925-88b1-a1a1c53b1e06"]
 [description:"Email Nick's Timecapsule" due:"1334894400" entry:"1334773170" mask:"++++++X-" modified:"1366023671" project:"home" recur:"2months" status:"recurring" uuid:"63f68731-9a2c-4464-89c0-1f88f64e94af"]
@@ -11,6 +11,6 @@
 [description:"Update ledger" due:"1364788800" entry:"1362141629" imask:"11" modified:"1360766940" parent:"cc465434-0359-42c9-bc83-4d069e3fac9e" project:"home" recur:"monthly" status:"pending" uuid:"ac362c56-e5fd-4838-8cfd-8b31bc7a565b"]
 [description:"Transplant liriope" due:"1396238400" entry:"1364809892" imask:"1" parent:"6e3f4b86-5ff1-4d2c-9ce6-5bb57827bcff" project:"home" recur:"yearly" status:"pending" uuid:"d66cbb61-6a50-4a5c-b5e5-775c69793a14"]
 [description:"Update ledger" due:"1367380800" entry:"1364809892" imask:"12" modified:"1362141629" parent:"cc465434-0359-42c9-bc83-4d069e3fac9e" project:"home" recur:"monthly" status:"pending" uuid:"52f59e09-6ee7-4e46-a615-7d41406f9f4b"]
-[description:"pacman -Syu" due:"1366603200" entry:"1366023671" imask:"58" modified:"1365677921" parent:"8636107e-9e61-4b1a-9f09-7efdfc58cb7b" project:"work" recur:"weekly" status:"pending" uuid:"2008b556-0a7c-4339-9bb5-d455fc59609d"]
 [description:"Email Nick's Timecapsule" due:"1371182400" entry:"1366023671" imask:"7" modified:"1362078751" parent:"63f68731-9a2c-4464-89c0-1f88f64e94af" project:"home" recur:"2months" status:"pending" uuid:"2d09fbd6-6d23-4f3d-8be6-93936041e931"]
 [description:"submit timecard" due:"1367467200" entry:"1366278886" imask:"29" modified:"1366199250" parent:"b9bf3b12-f546-4411-8036-c039abbb0fcc" project:"work" recur:"2wks" status:"pending" uuid:"48943286-f1ef-49ce-a0c4-45c76276fd12"]
+[description:"pacman -Syu" due:"1367208000" entry:"1366624390" imask:"59" modified:"1366199117" parent:"8636107e-9e61-4b1a-9f09-7efdfc58cb7b" project:"work" recur:"weekly" status:"pending" uuid:"f925abfa-f551-4228-b5a3-df4c8a669c9a"]
