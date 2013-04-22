@@ -97,3 +97,9 @@
 [submodule "projects/work/dhs/tol-server-config"]
 	path = projects/work/dhs/tol-server-config
 	url = git@github.com:/nubs/tol-server-config.git
+[submodule "projects/work/utils/dws-zendx"]
+	path = projects/work/utils/dws-zendx
+	url = git@github.com:nubs/dws-zendx.git
+[submodule "projects/work/apps/cronus"]
+	path = projects/work/apps/cronus
+	url = git@github.com:nubs/cronus.git
