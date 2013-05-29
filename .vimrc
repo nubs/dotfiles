@@ -70,6 +70,8 @@ autocmd FileType text setlocal textwidth=78
 " PHP
 let php_sql_query=1
 let php_htmlInStrings=1
+autocmd BufNewFile,BufRead *.mod set filetype=php
+autocmd BufNewFile,BufRead *.sys set filetype=php
 autocmd FileType php setlocal tabstop=4 shiftwidth=4 softtabstop=4 expandtab textwidth=144 formatoptions=qrotc
 
 " Python
@@ -117,3 +119,6 @@ autocmd BufRead /tmp/mutt-* setlocal textwidth=78 formatoptions=croql
 
 " JSON
 autocmd BufNewFile,BufRead *.json setf javascript
+
+" XML
+autocmd FileType sh setlocal tabstop=4 shiftwidth=4 softtabstop=4 expandtab
