@@ -12,6 +12,10 @@ set smartcase           " except for when capital letters are in search string
 set incsearch           " show the best match while search is typed
 set scrolloff=5         " leave some context around the cursor
 
+if exists('+colorcolumn')
+  set colorcolumn=145 " show column # 145 to help with detecting long lines.
+endif
+
 if has('mouse')
  set mouse=a " enable mouse
 endif
