@@ -45,7 +45,6 @@
 .pulse
 .pulse-cookie
 .qws
-.rbot
 .recently-used.xbel
 .rss2email
 .sbt
@@ -53,6 +52,7 @@
 .sqldeveloper
 .ssh
 .subversion
+.supybot
 .thumbnails
 .unison
 unison.log
