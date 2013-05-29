@@ -13,6 +13,7 @@
 	enabled = true
 [alias]
 	plog = log --graph --all --oneline --decorate
+	mergelog = log --graph --oneline --decorate --merges
 [heroku]
 	account = work
 [push]
