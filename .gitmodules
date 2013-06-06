@@ -106,3 +106,9 @@
 [submodule "projects/work/utils/code-standard-checker"]
 	path = projects/work/utils/code-standard-checker
 	url = git@github.com:nubs/code_standard_checker.git
+[submodule ".vim/bundle/startify"]
+	path = .vim/bundle/startify
+	url = git@github.com:vim-scripts/vim-startify
+[submodule ".vim/bundle/nextval"]
+	path = .vim/bundle/nextval
+	url = git@github.com:vim-scripts/nextval
