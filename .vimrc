@@ -11,6 +11,7 @@ set ignorecase          " ignore case when searching
 set smartcase           " except for when capital letters are in search string
 set incsearch           " show the best match while search is typed
 set scrolloff=5         " leave some context around the cursor
+set relativenumber      " line numbers
 
 if exists('+colorcolumn')
   set colorcolumn=145 " show column # 145 to help with detecting long lines.
@@ -44,20 +45,11 @@ if &t_Co > 2 || has("gui_running")
   colorscheme evening
 endif
 
-nmap <Leader>j :SplitjoinSplit<cr>
-nmap <Leader>k :SplitjoinJoin<cr>
-
-nmap <Leader>sp :CtrlPMixed<cr>
-set wildignore+=*/build/*,*/vendor/*,*/node_modules/*
-
 " When editing a file, always jump to the last cursor position
 autocmd BufReadPost *
   \ if line("'\"") > 0 && line ("'\"") <= line("$") |
   \   exe "normal! g'\"" |
   \ endif
-
-" don't write swapfile on NFS mounts or USB sticks
-autocmd BufNewFile,BufReadPre /media/*,/mnt/* set directory=~/tmp,/var/tmp,/tmp
 
 """""""""""""""""""""""""""
 " Filetype specific changes
