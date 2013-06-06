@@ -19,3 +19,5 @@ if [ -d "${HOME}/.griveshare/bin" ]
 then
 	export PATH="${PATH}:${HOME}/.griveshare/bin"
 fi
+
+[ -n "${TMUX}" ] && export TERM="screen-256color"
