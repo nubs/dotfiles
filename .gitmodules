@@ -112,3 +112,6 @@
 [submodule ".vim/bundle/nextval"]
 	path = .vim/bundle/nextval
 	url = git@github.com:vim-scripts/nextval
+[submodule "projects/work/utils/mongo-queue-php"]
+	path = projects/work/utils/mongo-queue-php
+	url = git@github.com:nubs/mongo-queue-php.git
