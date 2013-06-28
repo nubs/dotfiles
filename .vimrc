@@ -80,6 +80,7 @@ autocmd FileType javascript setlocal tabstop=2 shiftwidth=2 softtabstop=2 expand
 
 " HTML
 autocmd FileType html setlocal tabstop=2 shiftwidth=2 softtabstop=2 expandtab
+autocmd FileType htmldjango setlocal tabstop=2 shiftwidth=2 softtabstop=2 expandtab
 
 " Mustache/Handlebars
 autocmd FileType mustache setlocal tabstop=2 shiftwidth=2 softtabstop=2 expandtab
