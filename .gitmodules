@@ -115,3 +115,9 @@
 [submodule "projects/work/utils/mongo-queue-php"]
 	path = projects/work/utils/mongo-queue-php
 	url = git@github.com:nubs/mongo-queue-php.git
+[submodule "projects/admin/PHP_CodeSniffer"]
+	path = projects/admin/PHP_CodeSniffer
+	url = git@github.com:nubs/PHP_CodeSniffer.git
+[submodule "projects/fun/codegolf"]
+	path = projects/fun/codegolf
+	url = git@github.com:nubs/codegolf.git
