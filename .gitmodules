@@ -130,3 +130,6 @@
 [submodule "projects/home/hiatus"]
 	path = projects/home/hiatus
 	url = git@github.com:nubs/hiatus.git
+[submodule "projects/work/tol"]
+	path = projects/work/tol
+	url = git@github.com:nubs/tol.git
