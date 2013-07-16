@@ -115,3 +115,7 @@ autocmd BufNewFile,BufRead *.json setf javascript
 
 " XML
 autocmd FileType sh setlocal tabstop=4 shiftwidth=4 softtabstop=4 expandtab
+
+" Apache
+autocmd BufNewFile,BufRead */*vhosts*.conf set filetype=apache
+autocmd FileType apache setlocal tabstop=4 shiftwidth=4 softtabstop=4 expandtab
