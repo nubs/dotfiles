@@ -121,3 +121,12 @@
 [submodule "projects/fun/codegolf"]
 	path = projects/fun/codegolf
 	url = git@github.com:nubs/codegolf.git
+[submodule "projects/fun/bizgolf-ui"]
+	path = projects/fun/bizgolf-ui
+	url = git@github.com:nubs/bizgolf-ui.git
+[submodule "projects/fun/bizgolf"]
+	path = projects/fun/bizgolf
+	url = git@github.com:nubs/bizgolf.git
+[submodule "projects/home/hiatus"]
+	path = projects/home/hiatus
+	url = git@github.com:nubs/hiatus.git
