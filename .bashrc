@@ -20,7 +20,6 @@ export GEM_HOME="$HOME/.gem"
 export PATH
 
 export TERM=xterm
-export PAGER=more
 export EDITOR=vim
 
 alias ls='ls --color=auto'
