@@ -19,8 +19,6 @@ export GEM_HOME="$HOME/.gem"
 [ -d "${HOME}/bin" ] && PATH="${PATH}:${HOME}/bin"
 export PATH
 
-export MANPATH=$MANPATH:/home/anubis/projects/admin/cdist/doc/man
-
 export TERM=xterm
 export PAGER=more
 export EDITOR=vim
