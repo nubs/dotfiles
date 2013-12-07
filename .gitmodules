@@ -133,3 +133,9 @@
 [submodule "projects/work/tol"]
 	path = projects/work/tol
 	url = git@github.com:nubs/tol.git
+[submodule "projects/work/dhs/aurora-provisioning"]
+	path = projects/work/dhs/aurora-provisioning
+	url = git@github.com:nubs/aurora-provisioning.git
+[submodule "projects/work/apps/aurora"]
+	path = projects/work/apps/aurora
+	url = git@github.com:nubs/aurora.git
