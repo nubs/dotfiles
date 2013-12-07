@@ -1,8 +1,15 @@
 Trolltech.conf
 chromium/
+compiz-1/
+dconf/
 deluge/
 google-googletalkplugin/
 gtk-*/
+ibus/
 inkscape/
+libaccounts-glib/
 menus/
+nautilus/
+pulse/
+update-notifier/
 vlc/

@@ -10,10 +10,13 @@
 .bundle
 .bundler
 .cache
+.compiz/
 .composer
 .dbshell
 .dbus
+.dmrc
 .elinks
+.gconf/
 .gem
 .gimp-*
 .gnome2
@@ -22,7 +25,9 @@
 .gstreamer*
 .heroku
 .histfile
+.ICEauthority
 .icedtea
+.icons/
 .ivy2
 .java
 .jist
@@ -60,6 +65,8 @@ unison.log
 .weechat
 .wine
 .Xauthority
+.xsession-errors
+.xsession-errors.old
 .zcompdump
 .zdirs
 .zsh-update
