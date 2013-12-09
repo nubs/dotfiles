@@ -11,5 +11,6 @@ libaccounts-glib/
 menus/
 nautilus/
 pulse/
+software-center/
 update-notifier/
 vlc/
