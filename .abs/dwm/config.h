@@ -46,10 +46,8 @@ static const Layout layouts[] = {
 /* commands */
 static const char *dmenucmd[] = { "dmenu_run", "-fn", font, "-nb", normbgcolor, "-nf", normfgcolor, "-sb", selbgcolor, "-sf", selfgcolor, NULL };
 static const char *termcmd[]  = { "urxvt", "-e", "tmux", NULL };
-static const char *browsercmd[] = { "uzbl-browser", NULL };
+static const char *browsercmd[] = { "firefox", NULL };
 static const char *screenlockercmd[] = { "slock", NULL };
-static const char *nexttrackcmd[] = { "mpc", "next", NULL };
-static const char *toggleplaycmd[] = { "mpc", "toggle", NULL };
 static const char *volumedncmd[] = { "mpc", "volume", "-10", NULL };
 static const char *volumeupcmd[] = { "mpc", "volume", "+10", NULL };
 
@@ -59,10 +57,6 @@ static Key keys[] = {
 	{ MODKEY,                       XK_Return,    spawn,          {.v = termcmd } },
 	{ MODKEY|ShiftMask,             XK_Return,    spawn,          {.v = browsercmd } },
 	{ MODKEY|ControlMask,           XK_l,         spawn,          {.v = screenlockercmd } },
-	{ MODKEY,                       XK_n,         spawn,          {.v = nexttrackcmd } },
-	{ MODKEY,                       XK_m,         spawn,          {.v = toggleplaycmd } },
-	{ MODKEY,                       XK_minus,     spawn,          {.v = volumedncmd} },
-	{ MODKEY,                       XK_equal,      spawn,          {.v = volumeupcmd} },
 	{ MODKEY,                       XK_b,         togglebar,      {0} },
 	{ MODKEY,                       XK_j,         focusstack,     {.i = +1 } },
 	{ MODKEY,                       XK_k,         focusstack,     {.i = -1 } },
