@@ -142,3 +142,6 @@
 [submodule "projects/work/utils/tol-cms"]
 	path = projects/work/utils/tol-cms
 	url = git@github.com:nubs/tol-cms.git
+[submodule "projects/work/utils/tol-uitest"]
+	path = projects/work/utils/tol-uitest
+	url = git@github.com:nubs/tol-uitest.git
