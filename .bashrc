@@ -17,6 +17,7 @@ export GEM_HOME="$HOME/.gem"
 [ -d "${HOME}/projects/admin/cdist/bin" ] && PATH="${PATH}:${HOME}/projects/admin/cdist/bin"
 [ -d "$(ruby -rubygems -e "puts Gem.user_dir" 2>/dev/null)/bin" ] && PATH="${PATH}:$(ruby -rubygems -e "puts Gem.user_dir" 2>/dev/null)/bin"
 [ -d "${HOME}/bin" ] && PATH="${PATH}:${HOME}/bin"
+[ -d "/usr/local/heroku/bin" ] && PATH="${PATH}:/usr/local/heroku/bin"
 export PATH
 
 export TERM=xterm
