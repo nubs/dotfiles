@@ -21,7 +21,7 @@ type = Gmail
 remoteuser = spencer.rinehart@dominionenterprises.com
 nametrans = lambda foldername: re.sub(' ', '_', re.sub('INBOX', 'inbox', foldername))
 folderfilter = lambda foldername: foldername in 'INBOX'
-cert_fingerprint = b0ba392bba326e6feb1add4d04fa0fb86cd173fa
+cert_fingerprint = 89091347184d41768bfc0da9fad94bfe882dd358
 keepalive = 60
 
 [Account OTM]
@@ -41,7 +41,7 @@ type = Gmail
 remoteuser = anubis@overthemonkey.com
 nametrans = lambda foldername: re.sub(' ', '_', re.sub('INBOX', 'inbox', foldername))
 folderfilter = lambda foldername: foldername not in ['[Gmail]/All Mail', '[Gmail]/Drafts', '[Gmail]/Important', '[Gmail]/Sent Mail', '[Gmail]/Spam', '[Gmail]/Starred', '[Gmail]/Trash']
-cert_fingerprint = b0ba392bba326e6feb1add4d04fa0fb86cd173fa
+cert_fingerprint = 89091347184d41768bfc0da9fad94bfe882dd358
 keepalive = 60
 
 [mbnames]
