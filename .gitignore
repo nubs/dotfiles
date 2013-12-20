@@ -7,6 +7,7 @@
 
 .adobe
 .aria2
+.berkshelf/
 .bundle
 .bundler
 .cache
@@ -61,6 +62,8 @@
 .thumbnails
 .unison
 unison.log
+.vagrant.d/
+.VirtualBox/
 .vmware
 .weechat
 .wine
