@@ -15,6 +15,7 @@
 .composer
 .dbshell
 .dbus
+.dmenu_cache
 .dmrc
 .elinks
 .gconf/
