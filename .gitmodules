@@ -145,3 +145,6 @@
 [submodule "projects/work/utils/tol-uitest"]
 	path = projects/work/utils/tol-uitest
 	url = git@github.com:nubs/tol-uitest.git
+[submodule "projects/work/utils/filter-php"]
+	path = projects/work/utils/filter-php
+	url = git@github.com:nubs/filter-php.git
