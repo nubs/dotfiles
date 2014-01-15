@@ -20,4 +20,9 @@ then
 	export PATH="${PATH}:${HOME}/.griveshare/bin"
 fi
 
+if [ -d "${HOME}/.composer/vendor/bin" ]
+then
+	export PATH="${PATH}:${HOME}/.composer/vendor/bin"
+fi
+
 [ -n "${TMUX}" ] && export TERM="screen-256color"

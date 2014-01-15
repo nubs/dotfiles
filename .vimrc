@@ -62,6 +62,7 @@ autocmd FileType text setlocal textwidth=78
 " PHP
 let php_sql_query=1
 let php_htmlInStrings=1
+let g:php_refactor_command='refactor'
 autocmd BufNewFile,BufRead *.mod set filetype=php
 autocmd BufNewFile,BufRead *.sys set filetype=php
 autocmd FileType php setlocal tabstop=4 shiftwidth=4 softtabstop=4 expandtab textwidth=144 formatoptions=qrotc
@@ -88,6 +89,9 @@ autocmd FileType mustache setlocal tabstop=2 shiftwidth=2 softtabstop=2 expandta
 " Markdown
 autocmd FileType markdown setlocal tabstop=4 shiftwidth=4 softtabstop=4 expandtab
 let g:markdown_fenced_languages = ['js=javascript', 'json=javascript', 'sh', 'php', 'apache']
+
+" Twig
+autocmd FileType twig setlocal tabstop=2 shiftwidth=2 softtabstop=2 expandtab
 
 " Opa
 autocmd FileType opa setlocal tabstop=2 shiftwidth=2 softtabstop=2 expandtab
