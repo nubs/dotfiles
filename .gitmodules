@@ -160,3 +160,6 @@
 [submodule ".vim/bundle/php-refactoring-browser"]
 	path = .vim/bundle/php-refactoring-browser
 	url = git@github.com:vim-php/vim-php-refactoring
+[submodule ".vim/bundle/nginx"]
+	path = .vim/bundle/nginx
+	url = git@github.com:vim-scripts/nginx.vim.git

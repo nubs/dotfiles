@@ -88,7 +88,7 @@ autocmd FileType mustache setlocal tabstop=2 shiftwidth=2 softtabstop=2 expandta
 
 " Markdown
 autocmd FileType markdown setlocal tabstop=4 shiftwidth=4 softtabstop=4 expandtab
-let g:markdown_fenced_languages = ['js=javascript', 'json=javascript', 'sh', 'php', 'apache']
+let g:markdown_fenced_languages = ['js=javascript', 'json=javascript', 'sh', 'php', 'apache', 'nginx', 'ruby']
 
 " Twig
 autocmd FileType twig setlocal tabstop=2 shiftwidth=2 softtabstop=2 expandtab
