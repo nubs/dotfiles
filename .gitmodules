@@ -151,3 +151,12 @@
 [submodule "projects/work/apps/tol-qa-tool"]
 	path = projects/work/apps/tol-qa-tool
 	url = git@github.com:nubs/tol-qa-tool.git
+[submodule ".vim/bundle/twig"]
+	path = .vim/bundle/twig
+	url = git@github.com:lunaru/vim-twig.git
+[submodule "projects/home/momsclub-chesapeake-south"]
+	path = projects/home/momsclub-chesapeake-south
+	url = git@github.com:nubs/momsclub-chesapeake-south.git
+[submodule ".vim/bundle/php-refactoring-browser"]
+	path = .vim/bundle/php-refactoring-browser
+	url = git@github.com:vim-php/vim-php-refactoring
