@@ -1,0 +1,7 @@
+{
+    "require": {
+        "QafooLabs/php-refactoring-browser": "~0.0.4",
+        "d11wtq/boris": "~1.0",
+        "sebastian/phpcpd": "~2.0"
+    }
+}
