@@ -163,3 +163,6 @@
 [submodule ".vim/bundle/nginx"]
 	path = .vim/bundle/nginx
 	url = git@github.com:vim-scripts/nginx.vim.git
+[submodule "projects/work/utils/util-php"]
+	path = projects/work/utils/util-php
+	url = git@github.com:nubs/util-php.git
