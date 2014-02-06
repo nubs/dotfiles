@@ -93,6 +93,12 @@ let g:markdown_fenced_languages = ['js=javascript', 'json=javascript', 'sh', 'ph
 " Twig
 autocmd FileType twig setlocal tabstop=2 shiftwidth=2 softtabstop=2 expandtab
 
+" CSS
+autocmd FileType css setlocal tabstop=2 shiftwidth=2 softtabstop=2 expandtab
+
+" Less
+autocmd FileType less setlocal tabstop=2 shiftwidth=2 softtabstop=2 expandtab
+
 " Opa
 autocmd FileType opa setlocal tabstop=2 shiftwidth=2 softtabstop=2 expandtab
 
