@@ -10,6 +10,7 @@ localrepository = LocalDE
 remoterepository = RemoteDE
 autorefresh = 2
 quick = 10
+postsynchook = ionice -c 3 chrt --idle 0 /bin/sh -c "notmuch new && sort_mail"
 
 [Repository LocalDE]
 type = Maildir
@@ -29,6 +30,7 @@ localrepository = LocalOTM
 remoterepository = RemoteOTM
 autorefresh = 1
 quick = 10
+postsynchook = ionice -c 3 chrt --idle 0 /bin/sh -c "notmuch new && sort_mail"
 
 [Repository LocalOTM]
 type = Maildir
