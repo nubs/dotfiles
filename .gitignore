@@ -26,6 +26,7 @@
 .gomrc
 .gstreamer*
 .heroku
+.hhvm.hhbc
 .histfile
 .ICEauthority
 .icedtea
@@ -72,6 +73,6 @@ unison.log
 .Xauthority
 .xsession-errors
 .xsession-errors.old
-.zcompdump
+.zcompdump*
 .zdirs
 .zsh-update
