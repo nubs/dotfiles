@@ -71,6 +71,7 @@ autocmd FileType php setlocal tabstop=4 shiftwidth=4 softtabstop=4 expandtab tex
 autocmd FileType python setlocal tabstop=1 shiftwidth=1 softtabstop=1 expandtab
 
 " Ruby
+autocmd BufNewFile,BufRead Vagrantfile setlocal filetype=ruby
 autocmd FileType ruby setlocal tabstop=2 shiftwidth=2 softtabstop=2 expandtab
 
 " CoffeeScript
