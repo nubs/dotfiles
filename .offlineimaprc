@@ -8,8 +8,8 @@ maxsyncaccounts = 2
 [Account DE]
 localrepository = LocalDE
 remoterepository = RemoteDE
-autorefresh = 2
-quick = 10
+autorefresh = 1
+quick = 30
 postsynchook = ionice -c 3 chrt --idle 0 /bin/sh -c "notmuch new && sort_mail"
 
 [Repository LocalDE]
@@ -29,7 +29,7 @@ keepalive = 60
 localrepository = LocalOTM
 remoterepository = RemoteOTM
 autorefresh = 1
-quick = 10
+quick = 30
 postsynchook = ionice -c 3 chrt --idle 0 /bin/sh -c "notmuch new && sort_mail"
 
 [Repository LocalOTM]
