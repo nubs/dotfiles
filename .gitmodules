@@ -166,3 +166,21 @@
 [submodule "projects/work/utils/util-php"]
 	path = projects/work/utils/util-php
 	url = git@github.com:nubs/util-php.git
+[submodule "projects/work/apps/tol-apigee-facade"]
+	path = projects/work/apps/tol-apigee-facade
+	url = git@github.com:nubs/tol-apigee-facade.git
+[submodule "projects/work/apps/aurora-truck"]
+	path = projects/work/apps/aurora-truck
+	url = git@github.com:nubs/truck-trader-mobile.git
+[submodule "projects/work/utils/image-util"]
+	path = projects/work/utils/image-util
+	url = git@github.com:nubs/image-util-php.git
+[submodule ".vim/bundle/fugitive"]
+	path = .vim/bundle/fugitive
+	url = git@github.com:tpope/vim-fugitive.git
+[submodule ".vim/bundle/unimpaired"]
+	path = .vim/bundle/unimpaired
+	url = git@github.com:tpope/vim-unimpaired.git
+[submodule "projects/work/utils/memoize"]
+	path = projects/work/utils/memoize
+	url = git@github.com:nubs/memoize-php.git
