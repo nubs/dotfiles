@@ -25,4 +25,6 @@ then
 	export PATH="${PATH}:${HOME}/.composer/vendor/bin"
 fi
 
+export PATH="${PATH}:node_modules/.bin"
+
 [ -n "${TMUX}" ] && export TERM="screen-256color"
