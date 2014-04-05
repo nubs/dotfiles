@@ -184,3 +184,6 @@
 [submodule "projects/work/utils/memoize"]
 	path = projects/work/utils/memoize
 	url = git@github.com:nubs/memoize-php.git
+[submodule "projects/work/utils/tol-api-nodejs"]
+	path = projects/work/utils/tol-api-nodejs
+	url = git@github.com:nubs/tol-api-nodejs.git
