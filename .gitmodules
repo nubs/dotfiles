@@ -138,7 +138,7 @@
 	url = git@github.com:nubs/aurora-provisioning.git
 [submodule "projects/work/apps/aurora"]
 	path = projects/work/apps/aurora
-	url = git@github.com:nubs/aurora.git
+	url = git@github.com:nubs/cycle-trader-mobile.git
 [submodule "projects/work/utils/tol-cms"]
 	path = projects/work/utils/tol-cms
 	url = git@github.com:nubs/tol-cms.git
@@ -187,3 +187,12 @@
 [submodule "projects/work/utils/tol-api-nodejs"]
 	path = projects/work/utils/tol-api-nodejs
 	url = git@github.com:nubs/tol-api-nodejs.git
+[submodule "projects/home/vectorix"]
+	path = projects/home/vectorix
+	url = git@github.com:nubs/vectorix.git
+[submodule "projects/work/apps/pull-request-parser"]
+	path = projects/work/apps/pull-request-parser
+	url = git@github.com:nubs/pull-request-parser.git
+[submodule "projects/work/utils/solvemedia-client"]
+	path = projects/work/utils/solvemedia-client
+	url = git@github.com:nubs/solvemedia-client-php.git
