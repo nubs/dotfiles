@@ -16,6 +16,7 @@
 	mergelog = log --graph --oneline --decorate --merges
 	dc = diff --cached
 	dcs = diff --cached --stat
+	ci = commit -v
 [heroku]
 	account = work
 [push]
