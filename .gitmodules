@@ -196,3 +196,6 @@
 [submodule "projects/work/utils/solvemedia-client"]
 	path = projects/work/utils/solvemedia-client
 	url = git@github.com:nubs/solvemedia-client-php.git
+[submodule "projects/work/apps/release-notes"]
+	path = projects/work/apps/release-notes
+	url = git@github.com:nubs/release-notes.git
