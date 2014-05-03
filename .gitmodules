@@ -199,3 +199,6 @@
 [submodule "projects/work/apps/release-notes"]
 	path = projects/work/apps/release-notes
 	url = git@github.com:nubs/release-notes.git
+[submodule "projects/home/geometron"]
+	path = projects/home/geometron
+	url = git@github.com:nubs/geometron.git
