@@ -36,9 +36,11 @@ source $ZSH/oh-my-zsh.sh
 # Customize to your needs...
 source $HOME/.zshenv
 
-alias fxg='find . -type f -print0 | xargs -0 grep'
+alias fxg='find . -type f -print0 | xargs -0 ag'
+
 alias gpo='git push origin'
 alias gpom='git push origin master:master'
+
 bindkey '^P' history-substring-search-up
 bindkey '^N' history-substring-search-down
 bindkey '\e[A' up-line-or-search
