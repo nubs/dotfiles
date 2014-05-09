@@ -20,6 +20,8 @@ then
 	export PATH="${PATH}:${HOME}/.griveshare/bin"
 fi
 
+export PATH="${PATH}:vendor/bin"
+
 if [ -d "${HOME}/.composer/vendor/bin" ]
 then
 	export PATH="${PATH}:${HOME}/.composer/vendor/bin"
