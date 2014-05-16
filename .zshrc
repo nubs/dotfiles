@@ -40,6 +40,11 @@ alias fxg='find . -type f -print0 | xargs -0 ag'
 
 alias gpo='git push origin'
 alias gpom='git push origin master:master'
+alias gr='git rebase'
+alias gri='git rebase --interactive'
+alias grc='git rebase --continue'
+alias grdm='git rebase de/master'
+alias gridm='git rebase --interactive de/master'
 
 bindkey '^P' history-substring-search-up
 bindkey '^N' history-substring-search-down
