@@ -205,3 +205,6 @@
 [submodule "projects/work/apps/dominionenterprises.github.io"]
 	path = projects/work/apps/dominionenterprises.github.io
 	url = git@github.com:nubs/dominionenterprises.github.io.git
+[submodule "projects/work/apps/aurora-rv"]
+	path = projects/work/apps/aurora-rv
+	url = git@github.com:nubs/rv-trader-mobile.git
