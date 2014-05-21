@@ -76,6 +76,15 @@
 [submodule "projects/work/apps/media-api"]
 	path = projects/work/apps/media-api
 	url = git@github.com:nubs/media-api.git
+[submodule "projects/work/apps/cycle-trader-mobile"]
+	path = projects/work/apps/cycle-trader-mobile
+	url = git@github.com:nubs/cycle-trader-mobile.git
+[submodule "projects/work/apps/truck-trader-mobile"]
+	path = projects/work/apps/truck-trader-mobile
+	url = git@github.com:nubs/truck-trader-mobile.git
+[submodule "projects/work/apps/rv-trader-mobile"]
+	path = projects/work/apps/rv-trader-mobile
+	url = git@github.com:nubs/rv-trader-mobile.git
 [submodule "projects/work/utils/dws-coding-standard"]
 	path = projects/work/utils/dws-coding-standard
 	url = git@github.com:nubs/dws-coding-standard.git
@@ -136,9 +145,6 @@
 [submodule "projects/work/dhs/aurora-provisioning"]
 	path = projects/work/dhs/aurora-provisioning
 	url = git@github.com:nubs/aurora-provisioning.git
-[submodule "projects/work/apps/aurora"]
-	path = projects/work/apps/aurora
-	url = git@github.com:nubs/cycle-trader-mobile.git
 [submodule "projects/work/utils/tol-cms"]
 	path = projects/work/utils/tol-cms
 	url = git@github.com:nubs/tol-cms.git
@@ -169,9 +175,6 @@
 [submodule "projects/work/apps/tol-apigee-facade"]
 	path = projects/work/apps/tol-apigee-facade
 	url = git@github.com:nubs/tol-apigee-facade.git
-[submodule "projects/work/apps/aurora-truck"]
-	path = projects/work/apps/aurora-truck
-	url = git@github.com:nubs/truck-trader-mobile.git
 [submodule "projects/work/utils/image-util"]
 	path = projects/work/utils/image-util
 	url = git@github.com:nubs/image-util-php.git
@@ -205,6 +208,3 @@
 [submodule "projects/work/apps/dominionenterprises.github.io"]
 	path = projects/work/apps/dominionenterprises.github.io
 	url = git@github.com:nubs/dominionenterprises.github.io.git
-[submodule "projects/work/apps/aurora-rv"]
-	path = projects/work/apps/aurora-rv
-	url = git@github.com:nubs/rv-trader-mobile.git
