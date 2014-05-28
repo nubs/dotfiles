@@ -38,6 +38,8 @@ source $HOME/.zshenv
 
 alias fxg='find . -type f -print0 | xargs -0 ag'
 
+alias gf='git fetch'
+alias gfd='git fetch de'
 alias gpo='git push origin'
 alias gpom='git push origin master:master'
 alias gr='git rebase'
