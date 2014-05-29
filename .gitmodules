@@ -214,3 +214,6 @@
 [submodule "projects/home/sensible"]
 	path = projects/home/sensible
 	url = git@github.com:nubs/sensible.git
+[submodule "projects/work/utils/tol-api-js"]
+	path = projects/work/utils/tol-api-js
+	url = git@github.com:nubs/tol-api-js.git
