@@ -211,3 +211,6 @@
 [submodule "projects/home/random-name-generator"]
 	path = projects/home/random-name-generator
 	url = git@github.com:nubs/random-name-generator.git
+[submodule "projects/home/sensible"]
+	path = projects/home/sensible
+	url = git@github.com:nubs/sensible.git
