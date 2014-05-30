@@ -99,7 +99,7 @@
 	url = git@github.com:nubs/tol-api-php.git
 [submodule "projects/work/dhs/tol-server-config"]
 	path = projects/work/dhs/tol-server-config
-	url = git@github.com:/nubs/tol-server-config.git
+	url = git@github.dominionenterprises.com:Spencer-Rinehart/server-config.git
 [submodule "projects/work/utils/dws-zendx"]
 	path = projects/work/utils/dws-zendx
 	url = git@github.com:nubs/dws-zendx.git
