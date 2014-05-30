@@ -156,7 +156,7 @@
 	url = git@github.com:nubs/filter-php.git
 [submodule "projects/work/apps/tol-qa-tool"]
 	path = projects/work/apps/tol-qa-tool
-	url = git@github.com:nubs/tol-qa-tool.git
+	url = git@github.dominionenterprises.com:Spencer-Rinehart/qa-tool.git
 [submodule ".vim/bundle/twig"]
 	path = .vim/bundle/twig
 	url = git@github.com:lunaru/vim-twig.git
