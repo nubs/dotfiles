@@ -147,7 +147,7 @@
 	url = git@github.dominionenterprises.com:Spencer-Rinehart/aurora-provisioning.git
 [submodule "projects/work/utils/tol-cms"]
 	path = projects/work/utils/tol-cms
-	url = git@github.com:nubs/tol-cms.git
+	url = git@github.dominionenterprises.com:Spencer-Rinehart/cms.git
 [submodule "projects/work/utils/tol-uitest"]
 	path = projects/work/utils/tol-uitest
 	url = git@github.com:nubs/tol-uitest.git
