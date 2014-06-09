@@ -78,7 +78,7 @@
 	url = git@github.com:nubs/media-api.git
 [submodule "projects/work/apps/cycle-trader-mobile"]
 	path = projects/work/apps/cycle-trader-mobile
-	url = git@github.com:nubs/cycle-trader-mobile.git
+	url = git@github.dominionenterprises.com:Spencer-Rinehart/mobile-cycle.git
 [submodule "projects/work/apps/truck-trader-mobile"]
 	path = projects/work/apps/truck-trader-mobile
 	url = git@github.com:nubs/truck-trader-mobile.git
