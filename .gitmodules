@@ -84,7 +84,7 @@
 	url = git@github.com:nubs/truck-trader-mobile.git
 [submodule "projects/work/apps/rv-trader-mobile"]
 	path = projects/work/apps/rv-trader-mobile
-	url = git@github.com:nubs/rv-trader-mobile.git
+	url = git@github.dominionenterprises.com:Spencer-Rinehart/mobile-rv.git
 [submodule "projects/work/utils/dws-coding-standard"]
 	path = projects/work/utils/dws-coding-standard
 	url = git@github.com:nubs/dws-coding-standard.git
