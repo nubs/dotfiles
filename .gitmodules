@@ -75,7 +75,7 @@
 	url = git@github.com:nubs/nebulous.git
 [submodule "projects/work/apps/media-api"]
 	path = projects/work/apps/media-api
-	url = git@github.com:nubs/media-api.git
+	url = git@github.dominionenterprises.com:Spencer-Rinehart/media-api.git
 [submodule "projects/work/apps/cycle-trader-mobile"]
 	path = projects/work/apps/cycle-trader-mobile
 	url = git@github.dominionenterprises.com:Spencer-Rinehart/mobile-cycle.git
