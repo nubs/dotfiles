@@ -81,7 +81,7 @@
 	url = git@github.dominionenterprises.com:Spencer-Rinehart/mobile-cycle.git
 [submodule "projects/work/apps/truck-trader-mobile"]
 	path = projects/work/apps/truck-trader-mobile
-	url = git@github.com:nubs/truck-trader-mobile.git
+	url = git@github.dominionenterprises.com:Spencer-Rinehart/mobile-truck.git
 [submodule "projects/work/apps/rv-trader-mobile"]
 	path = projects/work/apps/rv-trader-mobile
 	url = git@github.dominionenterprises.com:Spencer-Rinehart/mobile-rv.git
