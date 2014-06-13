@@ -174,7 +174,7 @@
 	url = git@github.com:nubs/util-php.git
 [submodule "projects/work/apps/tol-apigee-facade"]
 	path = projects/work/apps/tol-apigee-facade
-	url = git@github.com:nubs/tol-apigee-facade.git
+	url = git@github.dominionenterprises.com:Spencer-Rinehart/apigee-facade.git
 [submodule "projects/work/utils/image-util"]
 	path = projects/work/utils/image-util
 	url = git@github.com:nubs/image-util-php.git
