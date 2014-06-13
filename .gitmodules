@@ -90,7 +90,7 @@
 	url = git@github.com:nubs/dws-coding-standard.git
 [submodule "projects/work/utils/tol-sauce"]
 	path = projects/work/utils/tol-sauce
-	url = git@github.com:nubs/tol-sauce.git
+	url = git@github.dominionenterprises.com:Spencer-Rinehart/sauce.git
 [submodule "projects/work/utils/dws-composer"]
 	path = projects/work/utils/dws-composer
 	url = git@github.com:nubs/dws-composer.git
