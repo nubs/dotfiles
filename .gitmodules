@@ -72,7 +72,7 @@
 	url = git@github.com:nubs/budget.git
 [submodule "projects/work/apps/nebulous"]
 	path = projects/work/apps/nebulous
-	url = git@github.com:nubs/nebulous.git
+	url = git@github.dominionenterprises.com:Spencer-Rinehart/nebulous.git
 [submodule "projects/work/apps/media-api"]
 	path = projects/work/apps/media-api
 	url = git@github.dominionenterprises.com:Spencer-Rinehart/media-api.git
