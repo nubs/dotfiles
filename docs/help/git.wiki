@@ -1,9 +1,0 @@
-= Git links =
-* http://book.git-scm.com
-* http://www.eecs.harvard.edu/~cduan/technical/git/
-* http://progit.org/book/
-* http://www-cs-students.stanford.edu/~blynn/gitmagic/
-* http://marklodato.github.com/visual-git-guide/
-* http://eagain.net/articles/git-for-computer-scientists/
-
-# vim: set ft=vimwiki sw=2 ts=2 sts=2 et :
