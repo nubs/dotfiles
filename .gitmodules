@@ -223,3 +223,6 @@
 [submodule "projects/home/which"]
 	path = projects/home/which
 	url = git@github.com:nubs/which.git
+[submodule "projects/home/coordinator"]
+	path = projects/home/coordinator
+	url = git@github.com:nubs/coordinator.git
