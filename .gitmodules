@@ -226,3 +226,6 @@
 [submodule "projects/home/coordinator"]
 	path = projects/home/coordinator
 	url = git@github.com:nubs/coordinator.git
+[submodule "projects/work/utils/opende-guidelines"]
+	path = projects/work/utils/opende-guidelines
+	url = git@github.dominionenterprises.com:Spencer-Rinehart/guidelines.git
