@@ -229,3 +229,6 @@
 [submodule "projects/work/utils/opende-guidelines"]
 	path = projects/work/utils/opende-guidelines
 	url = git@github.dominionenterprises.com:Spencer-Rinehart/guidelines.git
+[submodule "projects/work/utils/column-parser"]
+	path = projects/work/utils/column-parser
+	url = git@github.com:nubs/column-parser-php.git
