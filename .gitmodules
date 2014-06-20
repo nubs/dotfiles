@@ -232,3 +232,6 @@
 [submodule "projects/work/utils/column-parser"]
 	path = projects/work/utils/column-parser
 	url = git@github.com:nubs/column-parser-php.git
+[submodule "projects/work/utils/netacuity"]
+	path = projects/work/utils/netacuity
+	url = git@github.com:nubs/netacuity-php.git
