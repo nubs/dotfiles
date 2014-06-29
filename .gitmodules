@@ -235,3 +235,6 @@
 [submodule "projects/work/utils/netacuity"]
 	path = projects/work/utils/netacuity
 	url = git@github.com:nubs/netacuity-php.git
+[submodule "projects/work/utils/opende-projects"]
+	path = projects/work/utils/opende-projects
+	url = git@github.dominionenterprises.com:Spencer-Rinehart/projects.git
