@@ -1,9 +1,10 @@
 {
     "_readme": [
         "This file locks the dependencies of your project to a known state",
-        "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file"
+        "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
     ],
-    "hash": "27313b08b445ad94070f86eca64f6f0a",
+    "hash": "fae60b807d283d70b866f4012f0388b7",
     "packages": [
         {
             "name": "andrewsville/php-token-reflection",
@@ -657,6 +658,63 @@
                 "php"
             ],
             "time": "2013-08-25 17:11:40"
+        },
+        {
+            "name": "nubs/which",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/nubs/which.git",
+                "reference": "312eb89a18509598f223c38ac770b338beac03cc"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/nubs/which/zipball/312eb89a18509598f223c38ac770b338beac03cc",
+                "reference": "312eb89a18509598f223c38ac770b338beac03cc",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.3.2"
+            },
+            "require-dev": {
+                "brianium/habitat": "~1.0",
+                "mikey179/vfsstream": "~1.2",
+                "phpunit/phpunit": "~4.0",
+                "symfony/console": "~2.5"
+            },
+            "suggest": {
+                "brianium/habitat": "For better access to environment variables (e.g., for mocking).",
+                "symfony/console": "For the executable which command."
+            },
+            "bin": [
+                "bin/which"
+            ],
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Nubs\\Which\\": "src"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Spencer Rinehart",
+                    "email": "anubis@overthemonkey.com",
+                    "role": "Developer"
+                }
+            ],
+            "description": "A library for locating commands in a PATH.",
+            "keywords": [
+                "executable",
+                "linux",
+                "path",
+                "script",
+                "which"
+            ],
+            "time": "2014-06-27 11:49:13"
         },
         {
             "name": "pdepend/pdepend",
@@ -1824,9 +1882,9 @@
 
     ],
     "minimum-stability": "stable",
-    "stability-flags": [
-
-    ],
+    "stability-flags": {
+        "nubs/which": 20
+    },
     "platform": [
 
     ],
