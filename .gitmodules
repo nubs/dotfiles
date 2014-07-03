@@ -241,3 +241,6 @@
 [submodule "projects/home/getting-sold-on-solid"]
 	path = projects/home/getting-sold-on-solid
 	url = git@github.com:nubs/getting-sold-on-solid.git
+[submodule "projects/work/apps/12bcon"]
+	path = projects/work/apps/12bcon
+	url = git@github.com:nubs/12bcon.git
