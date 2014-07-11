@@ -93,7 +93,7 @@
 	url = git@github.dominionenterprises.com:Spencer-Rinehart/sauce.git
 [submodule "projects/work/utils/dws-composer"]
 	path = projects/work/utils/dws-composer
-	url = git@github.com:nubs/dws-composer.git
+	url = git@github.dominionenterprises.com:Spencer-Rinehart/php-packages.git
 [submodule "projects/work/utils/tol-api-php"]
 	path = projects/work/utils/tol-api-php
 	url = git@github.com:nubs/tol-api-php.git
