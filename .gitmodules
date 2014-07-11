@@ -139,9 +139,6 @@
 [submodule "projects/home/hiatus"]
 	path = projects/home/hiatus
 	url = git@github.com:nubs/hiatus.git
-[submodule "projects/work/tol"]
-	path = projects/work/tol
-	url = git@github.com:nubs/tol.git
 [submodule "projects/work/dhs/aurora-provisioning"]
 	path = projects/work/dhs/aurora-provisioning
 	url = git@github.dominionenterprises.com:Spencer-Rinehart/aurora-provisioning.git
@@ -247,3 +244,6 @@
 [submodule "projects/home/which-cli"]
 	path = projects/home/which-cli
 	url = git@github.com:nubs/which-cli.git
+[submodule "projects/work/apps/tol"]
+	path = projects/work/apps/tol
+	url = git@github.dominionenterprises.com:Spencer-Rinehart/tol.git
