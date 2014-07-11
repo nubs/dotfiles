@@ -247,3 +247,6 @@
 [submodule "projects/work/apps/tol"]
 	path = projects/work/apps/tol
 	url = git@github.dominionenterprises.com:Spencer-Rinehart/tol.git
+[submodule "projects/work/apps/cronus-tasks"]
+	path = projects/work/apps/cronus-tasks
+	url = git@github.dominionenterprises.com:TOL-Arch/cronus-tasks.git
