@@ -6,7 +6,7 @@ dconf/
 deluge/
 google-googletalkplugin/
 gtk-*/
-hub/
+hub
 ibus/
 inkscape/
 libaccounts-glib/
