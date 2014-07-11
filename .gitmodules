@@ -108,7 +108,7 @@
 	url = git@github.com:nubs/cronus.git
 [submodule "projects/work/utils/tol-image"]
 	path = projects/work/utils/tol-image
-	url = git@github.com:nubs/tol-image.git
+	url = git@github.dominionenterprises.com:Spencer-Rinehart/image.git
 [submodule "projects/work/utils/tol-base"]
 	path = projects/work/utils/tol-base
 	url = git@github.com:nubs/tol-base.git
