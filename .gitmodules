@@ -249,7 +249,7 @@
 	url = git@github.dominionenterprises.com:Spencer-Rinehart/tol.git
 [submodule "projects/work/apps/cronus-tasks"]
 	path = projects/work/apps/cronus-tasks
-	url = git@github.dominionenterprises.com:TOL-Arch/cronus-tasks.git
+	url = git@github.dominionenterprises.com:Spencer-Rinehart/cronus-tasks.git
 [submodule "projects/work/utils/cronus"]
 	path = projects/work/utils/cronus
 	url = git@github.com:dominionenterprises/cronus.git
