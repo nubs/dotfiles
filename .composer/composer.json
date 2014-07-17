@@ -9,6 +9,7 @@
         "clue/graph-composer": "~0.1.1",
         "fabpot/php-cs-fixer": "~0.4.0",
         "guywithnose/release-notes": "~0.1.0",
-        "nubs/which-cli": "~1.0"
+        "nubs/which-cli": "~1.0",
+        "gushphp/gush": "*"
     }
 }
