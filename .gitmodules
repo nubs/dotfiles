@@ -262,3 +262,6 @@
 [submodule "projects/admin/docker-arch-build"]
 	path = projects/admin/docker-arch-build
 	url = git@github.com:nubs/docker-arch-build.git
+[submodule "projects/admin/dwm-custom-aur"]
+	path = projects/admin/dwm-custom-aur
+	url = git@github.com:nubs/dwm-custom-aur.git
