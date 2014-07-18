@@ -51,6 +51,13 @@ alias grc='git rebase --continue'
 alias grdm='git rebase de/master'
 alias gridm='git rebase --interactive de/master'
 
+alias dr='docker run'
+alias dri='docker run -ti'
+alias drm='docker rm -v'
+alias drmf='docker rm -v -f'
+alias dps='docker ps'
+alias dpsa='docker ps -a'
+
 bindkey '^P' history-substring-search-up
 bindkey '^N' history-substring-search-down
 bindkey '\e[A' up-line-or-search
