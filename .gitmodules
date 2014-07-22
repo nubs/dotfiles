@@ -265,3 +265,6 @@
 [submodule "projects/admin/dwm-custom-aur"]
 	path = projects/admin/dwm-custom-aur
 	url = git@github.com:nubs/dwm-custom-aur.git
+[submodule ".vim/bundle/dockerfile"]
+	path = .vim/bundle/dockerfile
+	url = git@github.com:ekalinin/Dockerfile.vim.git
