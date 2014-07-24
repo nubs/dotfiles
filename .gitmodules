@@ -265,3 +265,6 @@
 [submodule ".vim/bundle/dockerfile"]
 	path = .vim/bundle/dockerfile
 	url = git@github.com:ekalinin/Dockerfile.vim.git
+[submodule "projects/admin/docker-composer-build"]
+	path = projects/admin/docker-composer-build
+	url = git@github.com:nubs/docker-composer-build.git
