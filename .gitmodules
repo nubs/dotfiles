@@ -103,9 +103,6 @@
 [submodule "projects/work/utils/dws-zendx"]
 	path = projects/work/utils/dws-zendx
 	url = git@github.dominionenterprises.com:Spencer-Rinehart/zendx.git
-[submodule "projects/work/apps/cronus"]
-	path = projects/work/apps/cronus
-	url = git@github.com:nubs/cronus.git
 [submodule "projects/work/utils/tol-image"]
 	path = projects/work/utils/tol-image
 	url = git@github.dominionenterprises.com:Spencer-Rinehart/image.git
