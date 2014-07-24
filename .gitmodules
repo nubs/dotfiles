@@ -252,7 +252,7 @@
 	url = git@github.dominionenterprises.com:Spencer-Rinehart/cronus-tasks.git
 [submodule "projects/work/utils/cronus"]
 	path = projects/work/utils/cronus
-	url = git@github.com:dominionenterprises/cronus.git
+	url = git@github.com:nubs/cronus.git
 [submodule "projects/admin/php-imagick-aur"]
 	path = projects/admin/php-imagick-aur
 	url = git@github.com:nubs/php-imagick-aur.git
