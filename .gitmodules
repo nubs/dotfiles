@@ -268,3 +268,6 @@
 [submodule "projects/admin/docker-composer-build"]
 	path = projects/admin/docker-composer-build
 	url = git@github.com:nubs/docker-composer-build.git
+[submodule "projects/admin/docker-phpunit"]
+	path = projects/admin/docker-phpunit
+	url = git@github.com:nubs/docker-phpunit.git
