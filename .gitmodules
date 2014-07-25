@@ -72,40 +72,40 @@
 	url = git@github.com:nubs/budget.git
 [submodule "projects/work/apps/nebulous"]
 	path = projects/work/apps/nebulous
-	url = git@github.dominionenterprises.com:Spencer-Rinehart/nebulous.git
+	url = git@github.dominionenterprises.com:nubs/nebulous.git
 [submodule "projects/work/apps/media-api"]
 	path = projects/work/apps/media-api
-	url = git@github.dominionenterprises.com:Spencer-Rinehart/media-api.git
+	url = git@github.dominionenterprises.com:nubs/media-api.git
 [submodule "projects/work/apps/cycle-trader-mobile"]
 	path = projects/work/apps/cycle-trader-mobile
-	url = git@github.dominionenterprises.com:Spencer-Rinehart/mobile-cycle.git
+	url = git@github.dominionenterprises.com:nubs/mobile-cycle.git
 [submodule "projects/work/apps/truck-trader-mobile"]
 	path = projects/work/apps/truck-trader-mobile
-	url = git@github.dominionenterprises.com:Spencer-Rinehart/mobile-truck.git
+	url = git@github.dominionenterprises.com:nubs/mobile-truck.git
 [submodule "projects/work/apps/rv-trader-mobile"]
 	path = projects/work/apps/rv-trader-mobile
-	url = git@github.dominionenterprises.com:Spencer-Rinehart/mobile-rv.git
+	url = git@github.dominionenterprises.com:nubs/mobile-rv.git
 [submodule "projects/work/utils/dws-coding-standard"]
 	path = projects/work/utils/dws-coding-standard
 	url = git@github.com:nubs/dws-coding-standard.git
 [submodule "projects/work/utils/tol-sauce"]
 	path = projects/work/utils/tol-sauce
-	url = git@github.dominionenterprises.com:Spencer-Rinehart/sauce.git
+	url = git@github.dominionenterprises.com:nubs/sauce.git
 [submodule "projects/work/utils/dws-composer"]
 	path = projects/work/utils/dws-composer
-	url = git@github.dominionenterprises.com:Spencer-Rinehart/php-packages.git
+	url = git@github.dominionenterprises.com:nubs/php-packages.git
 [submodule "projects/work/utils/tol-api-php"]
 	path = projects/work/utils/tol-api-php
 	url = git@github.com:nubs/tol-api-php.git
 [submodule "projects/work/dhs/tol-server-config"]
 	path = projects/work/dhs/tol-server-config
-	url = git@github.dominionenterprises.com:Spencer-Rinehart/server-config.git
+	url = git@github.dominionenterprises.com:nubs/server-config.git
 [submodule "projects/work/utils/dws-zendx"]
 	path = projects/work/utils/dws-zendx
-	url = git@github.dominionenterprises.com:Spencer-Rinehart/zendx.git
+	url = git@github.dominionenterprises.com:nubs/zendx.git
 [submodule "projects/work/utils/tol-image"]
 	path = projects/work/utils/tol-image
-	url = git@github.dominionenterprises.com:Spencer-Rinehart/image.git
+	url = git@github.dominionenterprises.com:nubs/image.git
 [submodule "projects/work/utils/tol-base"]
 	path = projects/work/utils/tol-base
 	url = git@github.com:nubs/tol-base.git
@@ -138,10 +138,10 @@
 	url = git@github.com:nubs/hiatus.git
 [submodule "projects/work/dhs/aurora-provisioning"]
 	path = projects/work/dhs/aurora-provisioning
-	url = git@github.dominionenterprises.com:Spencer-Rinehart/aurora-provisioning.git
+	url = git@github.dominionenterprises.com:nubs/aurora-provisioning.git
 [submodule "projects/work/utils/tol-cms"]
 	path = projects/work/utils/tol-cms
-	url = git@github.dominionenterprises.com:Spencer-Rinehart/cms.git
+	url = git@github.dominionenterprises.com:nubs/cms.git
 [submodule "projects/work/utils/tol-uitest"]
 	path = projects/work/utils/tol-uitest
 	url = git@github.com:nubs/tol-uitest.git
@@ -150,7 +150,7 @@
 	url = git@github.com:nubs/filter-php.git
 [submodule "projects/work/apps/tol-qa-tool"]
 	path = projects/work/apps/tol-qa-tool
-	url = git@github.dominionenterprises.com:Spencer-Rinehart/qa-tool.git
+	url = git@github.dominionenterprises.com:nubs/qa-tool.git
 [submodule ".vim/bundle/twig"]
 	path = .vim/bundle/twig
 	url = git@github.com:lunaru/vim-twig.git
@@ -168,7 +168,7 @@
 	url = git@github.com:nubs/util-php.git
 [submodule "projects/work/apps/tol-apigee-facade"]
 	path = projects/work/apps/tol-apigee-facade
-	url = git@github.dominionenterprises.com:Spencer-Rinehart/apigee-facade.git
+	url = git@github.dominionenterprises.com:nubs/apigee-facade.git
 [submodule "projects/work/utils/image-util"]
 	path = projects/work/utils/image-util
 	url = git@github.com:nubs/image-util-php.git
@@ -213,7 +213,7 @@
 	url = git@github.com:nubs/tol-api-js.git
 [submodule "projects/work/utils/tol-leads"]
 	path = projects/work/utils/tol-leads
-	url = git@github.dominionenterprises.com:Spencer-Rinehart/leads.git
+	url = git@github.dominionenterprises.com:nubs/leads.git
 [submodule "projects/home/which"]
 	path = projects/home/which
 	url = git@github.com:nubs/which.git
@@ -222,7 +222,7 @@
 	url = git@github.com:nubs/coordinator.git
 [submodule "projects/work/utils/opende-guidelines"]
 	path = projects/work/utils/opende-guidelines
-	url = git@github.dominionenterprises.com:Spencer-Rinehart/guidelines.git
+	url = git@github.dominionenterprises.com:nubs/guidelines.git
 [submodule "projects/work/utils/column-parser"]
 	path = projects/work/utils/column-parser
 	url = git@github.com:nubs/column-parser-php.git
@@ -231,7 +231,7 @@
 	url = git@github.com:nubs/netacuity-php.git
 [submodule "projects/work/utils/opende-projects"]
 	path = projects/work/utils/opende-projects
-	url = git@github.dominionenterprises.com:Spencer-Rinehart/projects.git
+	url = git@github.dominionenterprises.com:nubs/projects.git
 [submodule "projects/home/getting-sold-on-solid"]
 	path = projects/home/getting-sold-on-solid
 	url = git@github.com:nubs/getting-sold-on-solid.git
@@ -243,10 +243,10 @@
 	url = git@github.com:nubs/which-cli.git
 [submodule "projects/work/apps/tol"]
 	path = projects/work/apps/tol
-	url = git@github.dominionenterprises.com:Spencer-Rinehart/tol.git
+	url = git@github.dominionenterprises.com:nubs/tol.git
 [submodule "projects/work/apps/cronus-tasks"]
 	path = projects/work/apps/cronus-tasks
-	url = git@github.dominionenterprises.com:Spencer-Rinehart/cronus-tasks.git
+	url = git@github.dominionenterprises.com:nubs/cronus-tasks.git
 [submodule "projects/work/utils/cronus"]
 	path = projects/work/utils/cronus
 	url = git@github.com:nubs/cronus.git
