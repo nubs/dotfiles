@@ -274,3 +274,6 @@
 [submodule "projects/work/apps/datax"]
 	path = projects/work/apps/datax
 	url = git@github.dominionenterprises.com:nubs/datax.git
+[submodule "projects/admin/php-wddx-aur"]
+	path = projects/admin/php-wddx-aur
+	url = git@github.com:nubs/php-wddx-aur.git
