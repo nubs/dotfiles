@@ -11,6 +11,7 @@
         "guywithnose/release-notes": "~0.1.0",
         "nubs/which-cli": "~1.0",
         "gushphp/gush": "*",
-        "phpdocumentor/phpdocumentor": "*"
+        "phpdocumentor/phpdocumentor": "*",
+        "jolicode/jolici": "*@dev"
     }
 }
