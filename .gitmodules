@@ -277,3 +277,6 @@
 [submodule "projects/admin/php-wddx-aur"]
 	path = projects/admin/php-wddx-aur
 	url = git@github.com:nubs/php-wddx-aur.git
+[submodule "projects/admin/docker-php-minimal"]
+	path = projects/admin/docker-php-minimal
+	url = git@github.com:nubs/docker-php-minimal.git
