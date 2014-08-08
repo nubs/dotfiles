@@ -58,18 +58,6 @@
 [submodule "projects/home/otm"]
 	path = projects/home/otm
 	url = git@github.com:nubs/overthemonkey.com.git
-[submodule "projects/home/rinehart-reader"]
-	path = projects/home/rinehart-reader
-	url = git@github.com:nubs/blog.spennifer.com.git
-[submodule "projects/home/nkk"]
-	path = projects/home/nkk
-	url = git@github.com:nubs/nickknackkrochet.com.git
-[submodule "projects/home/daycare"]
-	path = projects/home/daycare
-	url = git@github.com:/nubs/nickknackkare.git
-[submodule "projects/home/budget"]
-	path = projects/home/budget
-	url = git@github.com:nubs/budget.git
 [submodule "projects/work/apps/nebulous"]
 	path = projects/work/apps/nebulous
 	url = git@github.dominionenterprises.com:nubs/nebulous.git
