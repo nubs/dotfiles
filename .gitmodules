@@ -121,9 +121,6 @@
 [submodule "projects/fun/bizgolf"]
 	path = projects/fun/bizgolf
 	url = git@github.com:nubs/bizgolf.git
-[submodule "projects/home/hiatus"]
-	path = projects/home/hiatus
-	url = git@github.com:nubs/hiatus.git
 [submodule "projects/work/dhs/aurora-provisioning"]
 	path = projects/work/dhs/aurora-provisioning
 	url = git@github.dominionenterprises.com:nubs/aurora-provisioning.git
