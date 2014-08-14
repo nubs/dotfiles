@@ -124,9 +124,6 @@
 [submodule "projects/work/dhs/aurora-provisioning"]
 	path = projects/work/dhs/aurora-provisioning
 	url = git@github.dominionenterprises.com:nubs/aurora-provisioning.git
-[submodule "projects/work/utils/tol-cms"]
-	path = projects/work/utils/tol-cms
-	url = git@github.dominionenterprises.com:nubs/cms.git
 [submodule "projects/work/utils/tol-uitest"]
 	path = projects/work/utils/tol-uitest
 	url = git@github.com:nubs/tol-uitest.git
