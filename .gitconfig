@@ -21,3 +21,5 @@
 	account = work
 [push]
 	default = simple
+[tag]
+	sort = version:refname
