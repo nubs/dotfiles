@@ -37,6 +37,30 @@
 [submodule ".vim/bundle/markdown"]
 	path = .vim/bundle/markdown
 	url = git@github.com:tpope/vim-markdown.git
+[submodule ".vim/bundle/startify"]
+	path = .vim/bundle/startify
+	url = git@github.com:vim-scripts/vim-startify
+[submodule ".vim/bundle/nextval"]
+	path = .vim/bundle/nextval
+	url = git@github.com:vim-scripts/nextval
+[submodule ".vim/bundle/twig"]
+	path = .vim/bundle/twig
+	url = git@github.com:lunaru/vim-twig.git
+[submodule ".vim/bundle/php-refactoring-browser"]
+	path = .vim/bundle/php-refactoring-browser
+	url = git@github.com:vim-php/vim-php-refactoring
+[submodule ".vim/bundle/nginx"]
+	path = .vim/bundle/nginx
+	url = git@github.com:vim-scripts/nginx.vim.git
+[submodule ".vim/bundle/dockerfile"]
+	path = .vim/bundle/dockerfile
+	url = git@github.com:ekalinin/Dockerfile.vim.git
+[submodule ".vim/bundle/fugitive"]
+	path = .vim/bundle/fugitive
+	url = git@github.com:tpope/vim-fugitive.git
+[submodule ".vim/bundle/unimpaired"]
+	path = .vim/bundle/unimpaired
+	url = git@github.com:tpope/vim-unimpaired.git
 [submodule ".oh-my-zsh"]
 	path = .oh-my-zsh
 	url = git@github.com:robbyrussell/oh-my-zsh.git
@@ -49,6 +73,15 @@
 [submodule "projects/fun/tolgolf"]
 	path = projects/fun/tolgolf
 	url = git@github.com:nubs/tolgolf.git
+[submodule "projects/fun/codegolf"]
+	path = projects/fun/codegolf
+	url = git@github.com:nubs/codegolf.git
+[submodule "projects/fun/bizgolf-ui"]
+	path = projects/fun/bizgolf-ui
+	url = git@github.com:nubs/bizgolf-ui.git
+[submodule "projects/fun/bizgolf"]
+	path = projects/fun/bizgolf
+	url = git@github.com:nubs/bizgolf.git
 [submodule "projects/work/apps/nebulous"]
 	path = projects/work/apps/nebulous
 	url = git@github.dominionenterprises.com:nubs/nebulous.git
@@ -64,6 +97,33 @@
 [submodule "projects/work/apps/rv-trader-mobile"]
 	path = projects/work/apps/rv-trader-mobile
 	url = git@github.dominionenterprises.com:nubs/mobile-rv.git
+[submodule "projects/work/apps/tol-qa-tool"]
+	path = projects/work/apps/tol-qa-tool
+	url = git@github.dominionenterprises.com:nubs/qa-tool.git
+[submodule "projects/work/apps/tol-apigee-facade"]
+	path = projects/work/apps/tol-apigee-facade
+	url = git@github.dominionenterprises.com:nubs/apigee-facade.git
+[submodule "projects/work/apps/pull-request-parser"]
+	path = projects/work/apps/pull-request-parser
+	url = git@github.com:nubs/pull-request-parser.git
+[submodule "projects/work/apps/release-notes"]
+	path = projects/work/apps/release-notes
+	url = git@github.com:nubs/release-notes.git
+[submodule "projects/work/apps/dominionenterprises.github.io"]
+	path = projects/work/apps/dominionenterprises.github.io
+	url = git@github.com:nubs/dominionenterprises.github.io.git
+[submodule "projects/work/apps/12bcon"]
+	path = projects/work/apps/12bcon
+	url = git@github.com:nubs/12bcon.git
+[submodule "projects/work/apps/tol"]
+	path = projects/work/apps/tol
+	url = git@github.dominionenterprises.com:nubs/tol.git
+[submodule "projects/work/apps/cronus-tasks"]
+	path = projects/work/apps/cronus-tasks
+	url = git@github.dominionenterprises.com:nubs/cronus-tasks.git
+[submodule "projects/work/apps/datax"]
+	path = projects/work/apps/datax
+	url = git@github.dominionenterprises.com:nubs/datax.git
 [submodule "projects/work/utils/dws-coding-standard"]
 	path = projects/work/utils/dws-coding-standard
 	url = git@github.com:nubs/dws-coding-standard.git
@@ -76,9 +136,6 @@
 [submodule "projects/work/utils/tol-api-php"]
 	path = projects/work/utils/tol-api-php
 	url = git@github.com:nubs/tol-api-php.git
-[submodule "projects/work/dhs/tol-server-config"]
-	path = projects/work/dhs/tol-server-config
-	url = git@github.dominionenterprises.com:nubs/server-config.git
 [submodule "projects/work/utils/dws-zendx"]
 	path = projects/work/utils/dws-zendx
 	url = git@github.dominionenterprises.com:nubs/zendx.git
@@ -91,81 +148,30 @@
 [submodule "projects/work/utils/code-standard-checker"]
 	path = projects/work/utils/code-standard-checker
 	url = git@github.com:nubs/code_standard_checker.git
-[submodule ".vim/bundle/startify"]
-	path = .vim/bundle/startify
-	url = git@github.com:vim-scripts/vim-startify
-[submodule ".vim/bundle/nextval"]
-	path = .vim/bundle/nextval
-	url = git@github.com:vim-scripts/nextval
 [submodule "projects/work/utils/mongo-queue-php"]
 	path = projects/work/utils/mongo-queue-php
 	url = git@github.com:nubs/mongo-queue-php.git
-[submodule "projects/admin/PHP_CodeSniffer"]
-	path = projects/admin/PHP_CodeSniffer
-	url = git@github.com:nubs/PHP_CodeSniffer.git
-[submodule "projects/fun/codegolf"]
-	path = projects/fun/codegolf
-	url = git@github.com:nubs/codegolf.git
-[submodule "projects/fun/bizgolf-ui"]
-	path = projects/fun/bizgolf-ui
-	url = git@github.com:nubs/bizgolf-ui.git
-[submodule "projects/fun/bizgolf"]
-	path = projects/fun/bizgolf
-	url = git@github.com:nubs/bizgolf.git
-[submodule "projects/work/dhs/aurora-provisioning"]
-	path = projects/work/dhs/aurora-provisioning
-	url = git@github.dominionenterprises.com:nubs/aurora-provisioning.git
 [submodule "projects/work/utils/tol-uitest"]
 	path = projects/work/utils/tol-uitest
 	url = git@github.com:nubs/tol-uitest.git
 [submodule "projects/work/utils/filter-php"]
 	path = projects/work/utils/filter-php
 	url = git@github.com:nubs/filter-php.git
-[submodule "projects/work/apps/tol-qa-tool"]
-	path = projects/work/apps/tol-qa-tool
-	url = git@github.dominionenterprises.com:nubs/qa-tool.git
-[submodule ".vim/bundle/twig"]
-	path = .vim/bundle/twig
-	url = git@github.com:lunaru/vim-twig.git
-[submodule ".vim/bundle/php-refactoring-browser"]
-	path = .vim/bundle/php-refactoring-browser
-	url = git@github.com:vim-php/vim-php-refactoring
-[submodule ".vim/bundle/nginx"]
-	path = .vim/bundle/nginx
-	url = git@github.com:vim-scripts/nginx.vim.git
 [submodule "projects/work/utils/util-php"]
 	path = projects/work/utils/util-php
 	url = git@github.com:nubs/util-php.git
-[submodule "projects/work/apps/tol-apigee-facade"]
-	path = projects/work/apps/tol-apigee-facade
-	url = git@github.dominionenterprises.com:nubs/apigee-facade.git
 [submodule "projects/work/utils/image-util"]
 	path = projects/work/utils/image-util
 	url = git@github.com:nubs/image-util-php.git
-[submodule ".vim/bundle/fugitive"]
-	path = .vim/bundle/fugitive
-	url = git@github.com:tpope/vim-fugitive.git
-[submodule ".vim/bundle/unimpaired"]
-	path = .vim/bundle/unimpaired
-	url = git@github.com:tpope/vim-unimpaired.git
 [submodule "projects/work/utils/memoize"]
 	path = projects/work/utils/memoize
 	url = git@github.com:nubs/memoize-php.git
 [submodule "projects/work/utils/tol-api-nodejs"]
 	path = projects/work/utils/tol-api-nodejs
 	url = git@github.com:nubs/tol-api-nodejs.git
-[submodule "projects/work/apps/pull-request-parser"]
-	path = projects/work/apps/pull-request-parser
-	url = git@github.com:nubs/pull-request-parser.git
 [submodule "projects/work/utils/solvemedia-client"]
 	path = projects/work/utils/solvemedia-client
 	url = git@github.com:nubs/solvemedia-client-php.git
-[submodule "projects/work/apps/release-notes"]
-	path = projects/work/apps/release-notes
-	url = git@github.com:nubs/release-notes.git
-[submodule "projects/work/apps/dominionenterprises.github.io"]
-	path = projects/work/apps/dominionenterprises.github.io
-	url = git@github.com:nubs/dominionenterprises.github.io.git
 [submodule "projects/work/utils/tol-api-js"]
 	path = projects/work/utils/tol-api-js
 	url = git@github.com:nubs/tol-api-js.git
@@ -184,18 +190,18 @@
 [submodule "projects/work/utils/opende-projects"]
 	path = projects/work/utils/opende-projects
 	url = git@github.dominionenterprises.com:nubs/projects.git
-[submodule "projects/work/apps/12bcon"]
-	path = projects/work/apps/12bcon
-	url = git@github.com:nubs/12bcon.git
-[submodule "projects/work/apps/tol"]
-	path = projects/work/apps/tol
-	url = git@github.dominionenterprises.com:nubs/tol.git
-[submodule "projects/work/apps/cronus-tasks"]
-	path = projects/work/apps/cronus-tasks
-	url = git@github.dominionenterprises.com:nubs/cronus-tasks.git
 [submodule "projects/work/utils/cronus"]
 	path = projects/work/utils/cronus
 	url = git@github.com:nubs/cronus.git
+[submodule "projects/work/dhs/tol-server-config"]
+	path = projects/work/dhs/tol-server-config
+	url = git@github.dominionenterprises.com:nubs/server-config.git
+[submodule "projects/work/dhs/aurora-provisioning"]
+	path = projects/work/dhs/aurora-provisioning
+	url = git@github.dominionenterprises.com:nubs/aurora-provisioning.git
+[submodule "projects/admin/PHP_CodeSniffer"]
+	path = projects/admin/PHP_CodeSniffer
+	url = git@github.com:nubs/PHP_CodeSniffer.git
 [submodule "projects/admin/php-imagick-aur"]
 	path = projects/admin/php-imagick-aur
 	url = git@github.com:nubs/php-imagick-aur.git
@@ -208,18 +214,12 @@
 [submodule "projects/admin/dwm-custom-aur"]
 	path = projects/admin/dwm-custom-aur
 	url = git@github.com:nubs/dwm-custom-aur.git
-[submodule ".vim/bundle/dockerfile"]
-	path = .vim/bundle/dockerfile
-	url = git@github.com:ekalinin/Dockerfile.vim.git
 [submodule "projects/admin/docker-composer-build"]
 	path = projects/admin/docker-composer-build
 	url = git@github.com:nubs/docker-composer-build.git
 [submodule "projects/admin/docker-phpunit"]
 	path = projects/admin/docker-phpunit
 	url = git@github.com:nubs/docker-phpunit.git
-[submodule "projects/work/apps/datax"]
-	path = projects/work/apps/datax
-	url = git@github.dominionenterprises.com:nubs/datax.git
 [submodule "projects/admin/php-wddx-aur"]
 	path = projects/admin/php-wddx-aur
 	url = git@github.com:nubs/php-wddx-aur.git
