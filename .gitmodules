@@ -199,9 +199,6 @@
 [submodule "projects/work/dhs/aurora-provisioning"]
 	path = projects/work/dhs/aurora-provisioning
 	url = git@github.dominionenterprises.com:nubs/aurora-provisioning.git
-[submodule "projects/admin/PHP_CodeSniffer"]
-	path = projects/admin/PHP_CodeSniffer
-	url = git@github.com:nubs/PHP_CodeSniffer.git
 [submodule "projects/admin/docker-composer-build"]
 	path = projects/admin/docker-composer-build
 	url = git@github.com:nubs/docker-composer-build.git
