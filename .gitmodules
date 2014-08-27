@@ -109,12 +109,6 @@
 [submodule "projects/work/apps/release-notes"]
 	path = projects/work/apps/release-notes
 	url = git@github.com:nubs/release-notes.git
-[submodule "projects/work/apps/dominionenterprises.github.io"]
-	path = projects/work/apps/dominionenterprises.github.io
-	url = git@github.com:nubs/dominionenterprises.github.io.git
-[submodule "projects/work/apps/12bcon"]
-	path = projects/work/apps/12bcon
-	url = git@github.com:nubs/12bcon.git
 [submodule "projects/work/apps/tol"]
 	path = projects/work/apps/tol
 	url = git@github.dominionenterprises.com:nubs/tol.git
@@ -124,54 +118,24 @@
 [submodule "projects/work/apps/datax"]
 	path = projects/work/apps/datax
 	url = git@github.dominionenterprises.com:nubs/datax.git
-[submodule "projects/work/utils/dws-coding-standard"]
-	path = projects/work/utils/dws-coding-standard
-	url = git@github.com:nubs/dws-coding-standard.git
 [submodule "projects/work/utils/tol-sauce"]
 	path = projects/work/utils/tol-sauce
 	url = git@github.dominionenterprises.com:nubs/sauce.git
 [submodule "projects/work/utils/dws-composer"]
 	path = projects/work/utils/dws-composer
 	url = git@github.dominionenterprises.com:nubs/php-packages.git
-[submodule "projects/work/utils/tol-api-php"]
-	path = projects/work/utils/tol-api-php
-	url = git@github.com:nubs/tol-api-php.git
 [submodule "projects/work/utils/dws-zendx"]
 	path = projects/work/utils/dws-zendx
 	url = git@github.dominionenterprises.com:nubs/zendx.git
 [submodule "projects/work/utils/tol-image"]
 	path = projects/work/utils/tol-image
 	url = git@github.dominionenterprises.com:nubs/image.git
-[submodule "projects/work/utils/tol-base"]
-	path = projects/work/utils/tol-base
-	url = git@github.com:nubs/tol-base.git
-[submodule "projects/work/utils/code-standard-checker"]
-	path = projects/work/utils/code-standard-checker
-	url = git@github.com:nubs/code_standard_checker.git
-[submodule "projects/work/utils/mongo-queue-php"]
-	path = projects/work/utils/mongo-queue-php
-	url = git@github.com:nubs/mongo-queue-php.git
 [submodule "projects/work/utils/tol-uitest"]
 	path = projects/work/utils/tol-uitest
 	url = git@github.com:nubs/tol-uitest.git
-[submodule "projects/work/utils/filter-php"]
-	path = projects/work/utils/filter-php
-	url = git@github.com:nubs/filter-php.git
-[submodule "projects/work/utils/util-php"]
-	path = projects/work/utils/util-php
-	url = git@github.com:nubs/util-php.git
-[submodule "projects/work/utils/image-util"]
-	path = projects/work/utils/image-util
-	url = git@github.com:nubs/image-util-php.git
-[submodule "projects/work/utils/memoize"]
-	path = projects/work/utils/memoize
-	url = git@github.com:nubs/memoize-php.git
 [submodule "projects/work/utils/tol-api-nodejs"]
 	path = projects/work/utils/tol-api-nodejs
 	url = git@github.com:nubs/tol-api-nodejs.git
-[submodule "projects/work/utils/solvemedia-client"]
-	path = projects/work/utils/solvemedia-client
-	url = git@github.com:nubs/solvemedia-client-php.git
 [submodule "projects/work/utils/tol-api-js"]
 	path = projects/work/utils/tol-api-js
 	url = git@github.com:nubs/tol-api-js.git
@@ -181,18 +145,9 @@
 [submodule "projects/work/utils/opende-guidelines"]
 	path = projects/work/utils/opende-guidelines
 	url = git@github.dominionenterprises.com:nubs/guidelines.git
-[submodule "projects/work/utils/column-parser"]
-	path = projects/work/utils/column-parser
-	url = git@github.com:nubs/column-parser-php.git
-[submodule "projects/work/utils/netacuity"]
-	path = projects/work/utils/netacuity
-	url = git@github.com:nubs/netacuity-php.git
 [submodule "projects/work/utils/opende-projects"]
 	path = projects/work/utils/opende-projects
 	url = git@github.dominionenterprises.com:nubs/projects.git
-[submodule "projects/work/utils/cronus"]
-	path = projects/work/utils/cronus
-	url = git@github.com:nubs/cronus.git
 [submodule "projects/work/dhs/tol-server-config"]
 	path = projects/work/dhs/tol-server-config
 	url = git@github.dominionenterprises.com:nubs/server-config.git
@@ -202,3 +157,6 @@
 [submodule "projects/home"]
 	path = projects/home
 	url = git@github.com:nubs/projects-home
+[submodule "projects/de-open"]
+	path = projects/de-open
+	url = git@github.com:nubs/projects-de-open
