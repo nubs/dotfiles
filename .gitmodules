@@ -202,27 +202,12 @@
 [submodule "projects/admin/PHP_CodeSniffer"]
 	path = projects/admin/PHP_CodeSniffer
 	url = git@github.com:nubs/PHP_CodeSniffer.git
-[submodule "projects/admin/php-imagick-aur"]
-	path = projects/admin/php-imagick-aur
-	url = git@github.com:nubs/php-imagick-aur.git
-[submodule "projects/admin/php-oci8-aur"]
-	path = projects/admin/php-oci8-aur
-	url = git@github.com:nubs/php-oci8-aur.git
-[submodule "projects/admin/docker-arch-build"]
-	path = projects/admin/docker-arch-build
-	url = git@github.com:nubs/docker-arch-build.git
-[submodule "projects/admin/dwm-custom-aur"]
-	path = projects/admin/dwm-custom-aur
-	url = git@github.com:nubs/dwm-custom-aur.git
 [submodule "projects/admin/docker-composer-build"]
 	path = projects/admin/docker-composer-build
 	url = git@github.com:nubs/docker-composer-build.git
 [submodule "projects/admin/docker-phpunit"]
 	path = projects/admin/docker-phpunit
 	url = git@github.com:nubs/docker-phpunit.git
-[submodule "projects/admin/php-wddx-aur"]
-	path = projects/admin/php-wddx-aur
-	url = git@github.com:nubs/php-wddx-aur.git
 [submodule "projects/admin/docker-php-minimal"]
 	path = projects/admin/docker-php-minimal
 	url = git@github.com:nubs/docker-php-minimal.git
