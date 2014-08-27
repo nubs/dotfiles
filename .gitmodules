@@ -40,24 +40,15 @@
 [submodule ".oh-my-zsh"]
 	path = .oh-my-zsh
 	url = git@github.com:robbyrussell/oh-my-zsh.git
-[submodule "projects/home/nick"]
-	path = projects/home/nick
-	url = git@github.com:nubs/nickrinehart.com.git
 [submodule "projects/fun/euler"]
 	path = projects/fun/euler
 	url = git@github.com:nubs/euler.git
 [submodule "projects/fun/rbot"]
 	path = projects/fun/rbot
 	url = git://ruby-rbot.org/rbot.git
-[submodule "projects/home/spennifer"]
-	path = projects/home/spennifer
-	url = git@github.com:nubs/spennifer.com.git
 [submodule "projects/fun/tolgolf"]
 	path = projects/fun/tolgolf
 	url = git@github.com:nubs/tolgolf.git
-[submodule "projects/home/otm"]
-	path = projects/home/otm
-	url = git@github.com:nubs/overthemonkey.com.git
 [submodule "projects/work/apps/nebulous"]
 	path = projects/work/apps/nebulous
 	url = git@github.dominionenterprises.com:nubs/nebulous.git
@@ -136,9 +127,6 @@
 [submodule ".vim/bundle/twig"]
 	path = .vim/bundle/twig
 	url = git@github.com:lunaru/vim-twig.git
-[submodule "projects/home/momsclub-chesapeake-south"]
-	path = projects/home/momsclub-chesapeake-south
-	url = git@github.com:nubs/momsclub-chesapeake-south.git
 [submodule ".vim/bundle/php-refactoring-browser"]
 	path = .vim/bundle/php-refactoring-browser
 	url = git@github.com:vim-php/vim-php-refactoring
@@ -166,9 +154,6 @@
 [submodule "projects/work/utils/tol-api-nodejs"]
 	path = projects/work/utils/tol-api-nodejs
 	url = git@github.com:nubs/tol-api-nodejs.git
-[submodule "projects/home/vectorix"]
-	path = projects/home/vectorix
-	url = git@github.com:nubs/vectorix.git
 [submodule "projects/work/apps/pull-request-parser"]
 	path = projects/work/apps/pull-request-parser
 	url = git@github.com:nubs/pull-request-parser.git
@@ -178,30 +163,15 @@
 [submodule "projects/work/apps/release-notes"]
 	path = projects/work/apps/release-notes
 	url = git@github.com:nubs/release-notes.git
-[submodule "projects/home/geometron"]
-	path = projects/home/geometron
-	url = git@github.com:nubs/geometron.git
 [submodule "projects/work/apps/dominionenterprises.github.io"]
 	path = projects/work/apps/dominionenterprises.github.io
 	url = git@github.com:nubs/dominionenterprises.github.io.git
-[submodule "projects/home/random-name-generator"]
-	path = projects/home/random-name-generator
-	url = git@github.com:nubs/random-name-generator.git
-[submodule "projects/home/sensible"]
-	path = projects/home/sensible
-	url = git@github.com:nubs/sensible.git
 [submodule "projects/work/utils/tol-api-js"]
 	path = projects/work/utils/tol-api-js
 	url = git@github.com:nubs/tol-api-js.git
 [submodule "projects/work/utils/tol-leads"]
 	path = projects/work/utils/tol-leads
 	url = git@github.dominionenterprises.com:nubs/leads.git
-[submodule "projects/home/which"]
-	path = projects/home/which
-	url = git@github.com:nubs/which.git
-[submodule "projects/home/coordinator"]
-	path = projects/home/coordinator
-	url = git@github.com:nubs/coordinator.git
 [submodule "projects/work/utils/opende-guidelines"]
 	path = projects/work/utils/opende-guidelines
 	url = git@github.dominionenterprises.com:nubs/guidelines.git
@@ -214,15 +184,9 @@
 [submodule "projects/work/utils/opende-projects"]
 	path = projects/work/utils/opende-projects
 	url = git@github.dominionenterprises.com:nubs/projects.git
-[submodule "projects/home/getting-sold-on-solid"]
-	path = projects/home/getting-sold-on-solid
-	url = git@github.com:nubs/getting-sold-on-solid.git
 [submodule "projects/work/apps/12bcon"]
 	path = projects/work/apps/12bcon
 	url = git@github.com:nubs/12bcon.git
-[submodule "projects/home/which-cli"]
-	path = projects/home/which-cli
-	url = git@github.com:nubs/which-cli.git
 [submodule "projects/work/apps/tol"]
 	path = projects/work/apps/tol
 	url = git@github.dominionenterprises.com:nubs/tol.git
@@ -262,3 +226,6 @@
 [submodule "projects/admin/docker-php-minimal"]
 	path = projects/admin/docker-php-minimal
 	url = git@github.com:nubs/docker-php-minimal.git
+[submodule "projects/home"]
+	path = projects/home
+	url = git@github.com:nubs/projects-home
