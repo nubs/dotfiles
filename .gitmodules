@@ -67,9 +67,6 @@
 [submodule "projects/fun/euler"]
 	path = projects/fun/euler
 	url = git@github.com:nubs/euler.git
-[submodule "projects/fun/rbot"]
-	path = projects/fun/rbot
-	url = git://ruby-rbot.org/rbot.git
 [submodule "projects/fun/tolgolf"]
 	path = projects/fun/tolgolf
 	url = git@github.com:nubs/tolgolf.git
