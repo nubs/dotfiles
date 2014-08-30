@@ -85,9 +85,6 @@
 [submodule "projects/work/apps/tol-apigee-facade"]
 	path = projects/work/apps/tol-apigee-facade
 	url = git@github.dominionenterprises.com:nubs/apigee-facade.git
-[submodule "projects/work/apps/pull-request-parser"]
-	path = projects/work/apps/pull-request-parser
-	url = git@github.com:nubs/pull-request-parser.git
 [submodule "projects/work/apps/release-notes"]
 	path = projects/work/apps/release-notes
 	url = git@github.com:nubs/release-notes.git
