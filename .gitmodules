@@ -64,12 +64,6 @@
 [submodule ".oh-my-zsh"]
 	path = .oh-my-zsh
 	url = git@github.com:robbyrussell/oh-my-zsh.git
-[submodule "projects/fun/bizgolf-ui"]
-	path = projects/fun/bizgolf-ui
-	url = git@github.com:nubs/bizgolf-ui.git
-[submodule "projects/fun/bizgolf"]
-	path = projects/fun/bizgolf
-	url = git@github.com:nubs/bizgolf.git
 [submodule "projects/work/apps/nebulous"]
 	path = projects/work/apps/nebulous
 	url = git@github.dominionenterprises.com:nubs/nebulous.git
