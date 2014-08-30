@@ -112,15 +112,6 @@
 [submodule "projects/work/utils/tol-image"]
 	path = projects/work/utils/tol-image
 	url = git@github.dominionenterprises.com:nubs/image.git
-[submodule "projects/work/utils/tol-uitest"]
-	path = projects/work/utils/tol-uitest
-	url = git@github.com:nubs/tol-uitest.git
-[submodule "projects/work/utils/tol-api-nodejs"]
-	path = projects/work/utils/tol-api-nodejs
-	url = git@github.com:nubs/tol-api-nodejs.git
-[submodule "projects/work/utils/tol-api-js"]
-	path = projects/work/utils/tol-api-js
-	url = git@github.com:nubs/tol-api-js.git
 [submodule "projects/work/utils/tol-leads"]
 	path = projects/work/utils/tol-leads
 	url = git@github.dominionenterprises.com:nubs/leads.git
