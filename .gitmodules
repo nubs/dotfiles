@@ -109,12 +109,6 @@
 [submodule "projects/work/utils/tol-leads"]
 	path = projects/work/utils/tol-leads
 	url = git@github.dominionenterprises.com:nubs/leads.git
-[submodule "projects/work/utils/opende-guidelines"]
-	path = projects/work/utils/opende-guidelines
-	url = git@github.dominionenterprises.com:nubs/guidelines.git
-[submodule "projects/work/utils/opende-projects"]
-	path = projects/work/utils/opende-projects
-	url = git@github.dominionenterprises.com:nubs/projects.git
 [submodule "projects/work/dhs/tol-server-config"]
 	path = projects/work/dhs/tol-server-config
 	url = git@github.dominionenterprises.com:nubs/server-config.git
@@ -127,3 +121,6 @@
 [submodule "projects/de-open"]
 	path = projects/de-open
 	url = git@github.com:nubs/projects-de-open
+[submodule "projects/de"]
+	path = projects/de
+	url = git@github.dominionenterprises.com:nubs/projects-de
