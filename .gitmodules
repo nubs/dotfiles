@@ -10,9 +10,6 @@
 [submodule "projects/home"]
 	path = projects/home
 	url = git@github.com:nubs/projects-home
-[submodule ".vim/bundle/camelcasemotion"]
-	path = .vim/bundle/camelcasemotion
-	url = git@github.com:vim-scripts/camelcasemotion.git
 [submodule ".vim/bundle/coffeescript"]
 	path = .vim/bundle/coffeescript
 	url = git@github.com:kchmck/vim-coffee-script.git
@@ -40,15 +37,9 @@
 [submodule ".vim/bundle/mustache"]
 	path = .vim/bundle/mustache
 	url = git@github.com:juvenn/mustache.vim.git
-[submodule ".vim/bundle/nextval"]
-	path = .vim/bundle/nextval
-	url = git@github.com:vim-scripts/nextval
 [submodule ".vim/bundle/nginx"]
 	path = .vim/bundle/nginx
 	url = git@github.com:vim-scripts/nginx.vim.git
-[submodule ".vim/bundle/php-refactoring-browser"]
-	path = .vim/bundle/php-refactoring-browser
-	url = git@github.com:vim-php/vim-php-refactoring
 [submodule ".vim/bundle/puppet"]
 	path = .vim/bundle/puppet
 	url = git@github.com:rodjek/vim-puppet.git
@@ -70,6 +61,3 @@
 [submodule ".vim/bundle/unimpaired"]
 	path = .vim/bundle/unimpaired
 	url = git@github.com:tpope/vim-unimpaired.git
-[submodule ".vim/bundle/ZoomWin"]
-	path = .vim/bundle/ZoomWin
-	url = git@github.com:vim-scripts/ZoomWin.git
