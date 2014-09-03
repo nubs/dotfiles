@@ -64,9 +64,6 @@
 [submodule ".oh-my-zsh"]
 	path = .oh-my-zsh
 	url = git@github.com:robbyrussell/oh-my-zsh.git
-[submodule "projects/work/apps/tol-apigee-facade"]
-	path = projects/work/apps/tol-apigee-facade
-	url = git@github.dominionenterprises.com:nubs/apigee-facade.git
 [submodule "projects/work/apps/cronus-tasks"]
 	path = projects/work/apps/cronus-tasks
 	url = git@github.dominionenterprises.com:nubs/cronus-tasks.git
