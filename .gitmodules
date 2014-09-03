@@ -64,30 +64,12 @@
 [submodule ".oh-my-zsh"]
 	path = .oh-my-zsh
 	url = git@github.com:robbyrussell/oh-my-zsh.git
-[submodule "projects/work/apps/nebulous"]
-	path = projects/work/apps/nebulous
-	url = git@github.dominionenterprises.com:nubs/nebulous.git
-[submodule "projects/work/apps/media-api"]
-	path = projects/work/apps/media-api
-	url = git@github.dominionenterprises.com:nubs/media-api.git
-[submodule "projects/work/apps/cycle-trader-mobile"]
-	path = projects/work/apps/cycle-trader-mobile
-	url = git@github.dominionenterprises.com:nubs/mobile-cycle.git
-[submodule "projects/work/apps/truck-trader-mobile"]
-	path = projects/work/apps/truck-trader-mobile
-	url = git@github.dominionenterprises.com:nubs/mobile-truck.git
-[submodule "projects/work/apps/rv-trader-mobile"]
-	path = projects/work/apps/rv-trader-mobile
-	url = git@github.dominionenterprises.com:nubs/mobile-rv.git
 [submodule "projects/work/apps/tol-qa-tool"]
 	path = projects/work/apps/tol-qa-tool
 	url = git@github.dominionenterprises.com:nubs/qa-tool.git
 [submodule "projects/work/apps/tol-apigee-facade"]
 	path = projects/work/apps/tol-apigee-facade
 	url = git@github.dominionenterprises.com:nubs/apigee-facade.git
-[submodule "projects/work/apps/tol"]
-	path = projects/work/apps/tol
-	url = git@github.dominionenterprises.com:nubs/tol.git
 [submodule "projects/work/apps/cronus-tasks"]
 	path = projects/work/apps/cronus-tasks
 	url = git@github.dominionenterprises.com:nubs/cronus-tasks.git
