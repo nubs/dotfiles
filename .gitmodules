@@ -64,12 +64,6 @@
 [submodule ".oh-my-zsh"]
 	path = .oh-my-zsh
 	url = git@github.com:robbyrussell/oh-my-zsh.git
-[submodule "projects/work/apps/cronus-tasks"]
-	path = projects/work/apps/cronus-tasks
-	url = git@github.dominionenterprises.com:nubs/cronus-tasks.git
-[submodule "projects/work/apps/datax"]
-	path = projects/work/apps/datax
-	url = git@github.dominionenterprises.com:nubs/datax.git
 [submodule "projects/work/utils/dws-composer"]
 	path = projects/work/utils/dws-composer
 	url = git@github.dominionenterprises.com:nubs/php-packages.git
