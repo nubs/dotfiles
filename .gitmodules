@@ -64,9 +64,6 @@
 [submodule ".oh-my-zsh"]
 	path = .oh-my-zsh
 	url = git@github.com:robbyrussell/oh-my-zsh.git
-[submodule "projects/work/apps/tol-qa-tool"]
-	path = projects/work/apps/tol-qa-tool
-	url = git@github.dominionenterprises.com:nubs/qa-tool.git
 [submodule "projects/work/apps/tol-apigee-facade"]
 	path = projects/work/apps/tol-apigee-facade
 	url = git@github.dominionenterprises.com:nubs/apigee-facade.git
@@ -76,9 +73,6 @@
 [submodule "projects/work/apps/datax"]
 	path = projects/work/apps/datax
 	url = git@github.dominionenterprises.com:nubs/datax.git
-[submodule "projects/work/utils/tol-sauce"]
-	path = projects/work/utils/tol-sauce
-	url = git@github.dominionenterprises.com:nubs/sauce.git
 [submodule "projects/work/utils/dws-composer"]
 	path = projects/work/utils/dws-composer
 	url = git@github.dominionenterprises.com:nubs/php-packages.git
@@ -91,12 +85,6 @@
 [submodule "projects/work/utils/tol-leads"]
 	path = projects/work/utils/tol-leads
 	url = git@github.dominionenterprises.com:nubs/leads.git
-[submodule "projects/work/dhs/tol-server-config"]
-	path = projects/work/dhs/tol-server-config
-	url = git@github.dominionenterprises.com:nubs/server-config.git
-[submodule "projects/work/dhs/aurora-provisioning"]
-	path = projects/work/dhs/aurora-provisioning
-	url = git@github.dominionenterprises.com:nubs/aurora-provisioning.git
 [submodule "projects/home"]
 	path = projects/home
 	url = git@github.com:nubs/projects-home
