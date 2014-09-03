@@ -64,18 +64,6 @@
 [submodule ".oh-my-zsh"]
 	path = .oh-my-zsh
 	url = git@github.com:robbyrussell/oh-my-zsh.git
-[submodule "projects/work/utils/dws-composer"]
-	path = projects/work/utils/dws-composer
-	url = git@github.dominionenterprises.com:nubs/php-packages.git
-[submodule "projects/work/utils/dws-zendx"]
-	path = projects/work/utils/dws-zendx
-	url = git@github.dominionenterprises.com:nubs/zendx.git
-[submodule "projects/work/utils/tol-image"]
-	path = projects/work/utils/tol-image
-	url = git@github.dominionenterprises.com:nubs/image.git
-[submodule "projects/work/utils/tol-leads"]
-	path = projects/work/utils/tol-leads
-	url = git@github.dominionenterprises.com:nubs/leads.git
 [submodule "projects/home"]
 	path = projects/home
 	url = git@github.com:nubs/projects-home
