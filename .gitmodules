@@ -1,9 +1,6 @@
 [submodule ".oh-my-zsh"]
 	path = .oh-my-zsh
 	url = git@github.com:robbyrussell/oh-my-zsh.git
-[submodule "projects/de"]
-	path = projects/de
-	url = git@github.dominionenterprises.com:nubs/projects-de
 [submodule "projects/de-open"]
 	path = projects/de-open
 	url = git@github.com:nubs/projects-de-open
