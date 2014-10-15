@@ -29,7 +29,7 @@ ZSH_THEME="cypher"
 # Which plugins would you like to load? (plugins can be found in ~/.oh-my-zsh/plugins/*)
 # Custom plugins may be added to ~/.oh-my-zsh/custom/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
-plugins=(archlinux git phing colored-man history-substring-search composer docker)
+plugins=(archlinux git colored-man history-substring-search composer docker)
 
 source $ZSH/oh-my-zsh.sh
 
