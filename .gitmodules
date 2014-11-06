@@ -10,3 +10,6 @@
 [submodule ".vim/bundle"]
 	path = .vim/bundle
 	url = git@github.com:nubs/vim-bundles
+[submodule "projects/help-open"]
+	path = projects/help-open
+	url = git@github.com:nubs/projects-help-open
