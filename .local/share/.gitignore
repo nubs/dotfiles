@@ -1,8 +1,9 @@
 Trash/
 .converted-launchers
 applications/
-evolution/
+data/
 desktop-directories/
+evolution/
 gegl-*/
 gnome-settings-daemon/
 gsettings-data-convert
