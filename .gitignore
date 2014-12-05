@@ -83,3 +83,4 @@ unison.log
 .zcompdump*
 .zdirs
 .zsh-update
+/*.retry
