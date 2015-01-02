@@ -67,6 +67,9 @@
 .slocdata
 .sqldeveloper
 .ssh
+.steam/
+.steampath
+.steampid
 .subversion
 .supybot
 .thumbnails
