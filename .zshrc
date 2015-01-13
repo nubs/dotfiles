@@ -54,6 +54,8 @@ alias gri='git rebase --interactive'
 alias grc='git rebase --continue'
 alias grum='git rebase upstream/master'
 alias grium='git rebase --interactive upstream/master'
+alias grug='git rebase upstream/gh-pages'
+alias griug='git rebase --interactive upstream/gh-pages'
 
 alias dr='docker run'
 alias dri='docker run -ti'
