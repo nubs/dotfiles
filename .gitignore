@@ -42,6 +42,7 @@
 .keybase/
 .keybase-installer/
 .lesshst
+.m2/
 .macromedia
 .mail
 .mongorc.js
