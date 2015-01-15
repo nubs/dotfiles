@@ -64,6 +64,14 @@ alias drmf='docker rm -v -f'
 alias dps='docker ps'
 alias dpsa='docker ps -a'
 
+alias fr='fig run'
+alias frs='fig run service'
+alias frsd='fig run servicedev'
+alias frw='fig run web'
+alias frwd='fig run webdev'
+alias fps='fig ps'
+alias frm='fig rm'
+
 bindkey '^P' history-substring-search-up
 bindkey '^N' history-substring-search-down
 bindkey '\e[A' up-line-or-search
