@@ -66,6 +66,7 @@ alias griom='git rebase --interactive origin/master'
 alias grog='git rebase origin/gh-pages'
 alias griog='git rebase --interactive origin/gh-pages'
 
+alias dbt='docker build --tag'
 alias dr='docker run'
 alias dri='docker run -ti'
 alias drm='docker rm -v'
