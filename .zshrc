@@ -38,6 +38,7 @@ source $HOME/.zshenv
 
 alias fxg='find . -type f -print0 | xargs -0 ag'
 
+alias gad='git add .'
 alias gcom='git checkout master'
 alias gds='git diff --stat'
 alias gdsc='git diff --stat --cached'
