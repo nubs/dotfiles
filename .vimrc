@@ -89,7 +89,7 @@ autocmd FileType jade setlocal tabstop=2 shiftwidth=2 softtabstop=2 expandtab
 autocmd FileType mustache setlocal tabstop=2 shiftwidth=2 softtabstop=2 expandtab
 
 " Markdown
-autocmd FileType markdown setlocal tabstop=4 shiftwidth=4 softtabstop=4 expandtab
+autocmd FileType markdown setlocal tabstop=4 shiftwidth=4 softtabstop=4 expandtab textwidth=78
 autocmd FileType markdown setlocal spell!
 let g:markdown_fenced_languages = ['js=javascript', 'json=javascript', 'sh', 'bash=sh', 'php', 'apache', 'nginx', 'ruby']
 
