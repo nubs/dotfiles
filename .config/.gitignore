@@ -6,6 +6,7 @@ compiz-1/
 configstore/
 dconf/
 deluge/
+git/
 google-chrome/
 google-googletalkplugin/
 gtk-*/
