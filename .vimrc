@@ -141,3 +141,6 @@ autocmd BufNewFile,BufRead PKGBUILD set filetype=sh
 
 " SQL
 autocmd FileType sql setlocal tabstop=2 shiftwidth=2 softtabstop=2 expandtab
+
+" Java
+autocmd FileType java setlocal tabstop=4 shiftwidth=4 softtabstop=4 expandtab
