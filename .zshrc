@@ -94,9 +94,9 @@ alias gvp="gv | sed 's/\\(.*\\)\\.\\(.*\\)\\.\\(.*\\)/\\3/'"
 alias gvbj='echo "$(expr "$(gvj)" + 1).0.0"'
 alias gvbm='echo "$(gvj).$(expr "$(gvm)" + 1).0"'
 alias gvbp='echo "$(gvj).$(gvm).$(expr "$(gvp)" + 1)"'
-alias vbj="sed -i 's/\\(\"version\".*:.*\\)\".*\"/\\1\"'\$(gvbj)'\"/' package.json && git add package.json && git commit -m \"Bump version to \$(gv)\""
-alias vbm="sed -i 's/\\(\"version\".*:.*\\)\".*\"/\\1\"'\$(gvbj)'\"/' package.json && git add package.json && git commit -m \"Bump version to \$(gv)\""
-alias vbp="sed -i 's/\\(\"version\".*:.*\\)\".*\"/\\1\"'\$(gvbj)'\"/' package.json && git add package.json && git commit -m \"Bump version to \$(gv)\""
+alias vbj="sed -i 's/\\(\"version\".*:.*\\)\".*\"/\\1\"'\$(gvbj)'\"/' package.json && git add package.json && git commit -m \"Bump version to \$(gv)\"."
+alias vbm="sed -i 's/\\(\"version\".*:.*\\)\".*\"/\\1\"'\$(gvbm)'\"/' package.json && git add package.json && git commit -m \"Bump version to \$(gv)\"."
+alias vbp="sed -i 's/\\(\"version\".*:.*\\)\".*\"/\\1\"'\$(gvbp)'\"/' package.json && git add package.json && git commit -m \"Bump version to \$(gv)\"."
 
 bindkey '^P' history-substring-search-up
 bindkey '^N' history-substring-search-down
