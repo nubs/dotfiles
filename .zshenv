@@ -27,6 +27,11 @@ then
 	export PATH="${PATH}:${HOME}/.composer/vendor/bin"
 fi
 
+if [ -d "${HOME}/.npmprefix/bin" ]
+then
+	export PATH="${HOME}/.npmprefix/bin:${PATH}"
+fi
+
 export PATH="${PATH}:node_modules/.bin"
 
 [ -n "${TMUX}" ] && export TERM="screen-256color"

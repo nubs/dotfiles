@@ -52,6 +52,7 @@
 .netrc
 .node-gyp
 .npm
+.npmprefix
 .nv
 .offlineimap
 .opa
