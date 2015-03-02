@@ -124,7 +124,7 @@ autocmd FileType xml setlocal tabstop=4 shiftwidth=4 softtabstop=4 expandtab
 autocmd BufRead /tmp/mutt-* setlocal textwidth=78 formatoptions=croql
 
 " JSON
-autocmd BufNewFile,BufRead *.json setf javascript
+autocmd BufNewFile,BufRead *.json,.eslintrc setf javascript
 
 " YAML
 autocmd FileType yaml setlocal tabstop=2 shiftwidth=2 softtabstop=2 expandtab
