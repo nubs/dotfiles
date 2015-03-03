@@ -14,7 +14,7 @@ set scrolloff=5         " leave some context around the cursor
 set relativenumber      " line numbers
 
 if exists('+colorcolumn')
-  set colorcolumn=145 " show column # 145 to help with detecting long lines.
+  set colorcolumn=80 " show column # 80 to help with detecting long lines.
 endif
 
 if has('mouse')
@@ -65,7 +65,7 @@ let php_htmlInStrings=1
 let g:php_refactor_command='refactor'
 autocmd BufNewFile,BufRead *.mod set filetype=php
 autocmd BufNewFile,BufRead *.sys set filetype=php
-autocmd FileType php setlocal tabstop=4 shiftwidth=4 softtabstop=4 expandtab textwidth=144 formatoptions=qrotc
+autocmd FileType php setlocal tabstop=4 shiftwidth=4 softtabstop=4 expandtab textwidth=79 formatoptions=qrotc
 
 " Python
 autocmd FileType python setlocal tabstop=1 shiftwidth=1 softtabstop=1 expandtab
