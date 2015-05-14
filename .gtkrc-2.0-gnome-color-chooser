@@ -1,0 +1,9 @@
+style "gnome-color-chooser-scrollbar"
+{
+  bg[NORMAL] = "#00A9FF"
+  bg[PRELIGHT] = "#40C0FF"
+  bg[ACTIVE] = "#80D5FF"
+  GtkScrollbar::slider_width = 20
+}
+widget_class "*Scrollbar" style "gnome-color-chooser-scrollbar"
+
