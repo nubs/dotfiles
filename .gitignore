@@ -75,6 +75,7 @@
 .thumbnails
 .unison
 unison.log
+.v8flags.*.json
 .vagrant.d/
 .VirtualBox/
 .vmware
