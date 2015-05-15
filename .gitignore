@@ -88,3 +88,4 @@ unison.log
 .zdirs
 .zsh-update
 /*.retry
+/*.md
