@@ -41,6 +41,7 @@ source $HOME/.zshenv
 alias fxg='find . -type f -print0 | xargs -0 ag'
 
 alias gad='git add .'
+alias gap='git add -p'
 alias gce='git commit --allow-empty -m "Initial commit."'
 alias gcom='git checkout master'
 alias gds='git diff --stat'
