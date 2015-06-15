@@ -31,7 +31,7 @@ ZSH_THEME="cypher"
 # Example format: plugins=(rails git textmate ruby lighthouse)
 plugins=(archlinux git colored-man history-substring-search composer docker ssh-agent)
 
-zstyle :omz:plugins:ssh-agent identities id_rsa helpdotcom-ec2-base
+zstyle :omz:plugins:ssh-agent identities id_rsa
 
 source $ZSH/oh-my-zsh.sh
 
