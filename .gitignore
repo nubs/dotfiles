@@ -72,6 +72,7 @@
 .steampid
 .subversion
 .supybot
+.terraform.d/
 .thumbnails
 .unison
 unison.log
