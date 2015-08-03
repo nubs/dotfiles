@@ -81,6 +81,7 @@ unison.log
 .VirtualBox/
 .vmware
 .weechat
+.wercker/
 .wine
 .Xauthority
 .xsession-errors
