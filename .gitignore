@@ -71,6 +71,7 @@
 .steampath
 .steampid
 .subversion
+.sudo_as_admin_successful
 .supybot
 .terraform.d/
 .thumbnails
