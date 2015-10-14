@@ -11,6 +11,7 @@
 .bundler
 .cache
 .chef/
+.cloud/
 .compiz/
 .dbshell
 .dbus
@@ -60,6 +61,7 @@
 .pulse
 .pulse-cookie
 .qws
+.rclone.conf
 .recently-used.xbel
 .rss2email
 .sane
