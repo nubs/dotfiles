@@ -58,6 +58,7 @@
 .opa
 .pdepend
 .pki
+.psql_history*
 .pulse
 .pulse-cookie
 .qws
