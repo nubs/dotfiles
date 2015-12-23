@@ -29,7 +29,7 @@ ZSH_THEME="purezsh"
 # Which plugins would you like to load? (plugins can be found in ~/.oh-my-zsh/plugins/*)
 # Custom plugins may be added to ~/.oh-my-zsh/custom/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
-plugins=(archlinux git colored-man-pages history-substring-search composer docker docker-compose ssh-agent gulp)
+plugins=(archlinux git colored-man-pages history-substring-search composer docker docker-compose ssh-agent gulp ember-cli)
 
 zstyle :omz:plugins:ssh-agent identities id_rsa
 
