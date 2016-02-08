@@ -79,6 +79,8 @@
 .supybot
 .terraform.d/
 .thumbnails
+.tora_cache/
+.tora.tse
 .unison
 unison.log
 .v8flags.*.json
