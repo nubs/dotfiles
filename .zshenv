@@ -34,4 +34,8 @@ fi
 
 export PATH="${PATH}:node_modules/.bin"
 
+export N_PREFIX="${HOME}/.n"
+
+export PATH="${N_PREFIX}/bin:${PATH}"
+
 [ -n "${TMUX}" ] && export TERM="screen-256color"
