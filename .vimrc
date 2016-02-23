@@ -65,7 +65,7 @@ let php_htmlInStrings=1
 let g:php_refactor_command='refactor'
 autocmd BufNewFile,BufRead *.mod set filetype=php
 autocmd BufNewFile,BufRead *.sys set filetype=php
-autocmd FileType php setlocal tabstop=4 shiftwidth=4 softtabstop=4 expandtab textwidth=79 formatoptions=qrotc
+autocmd FileType php setlocal tabstop=4 shiftwidth=4 softtabstop=4 expandtab textwidth=119 formatoptions=qrotc
 
 " Python
 autocmd FileType python setlocal tabstop=1 shiftwidth=1 softtabstop=1 expandtab
