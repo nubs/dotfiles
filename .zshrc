@@ -66,6 +66,8 @@ alias frwd='fig run webdev'
 alias fps='fig ps'
 alias frm='fig rm'
 
+alias phpgolf='php -d short_open_tag=true -d error_reporting=24567'
+
 function vb() {
   test -n "${1}" && \
     sed -i 's/\("version".*:.*\)".*"/\1"'${1}'"/' package.json && \
