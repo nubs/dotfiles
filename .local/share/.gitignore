@@ -4,6 +4,8 @@ Trash/
 applications/
 data/
 desktop-directories/
+doc/
+dwarftherapist/
 evolution/
 gegl-*/
 gnome-settings-daemon/
