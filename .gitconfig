@@ -1,6 +1,7 @@
 [user]
 	name = Spencer Rinehart
 	email = anubis@overthemonkey.com
+	signingkey = 7FF39A9A
 [color]
 	ui = true
 [diff]
@@ -23,3 +24,5 @@
 	default = simple
 [tag]
 	sort = version:refname
+[commit]
+	gpgsign = true
