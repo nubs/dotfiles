@@ -86,6 +86,16 @@ alias vbj="vb \"\$(gvbj)\""
 alias vbm="vb \"\$(gvbm)\""
 alias vbp="vb \"\$(gvbp)\""
 
+function composer() {
+  COMPOSER="$(/usr/bin/env which composer)"
+  sudo php5dismod -s cli xdebug
+  $COMPOSER "$@"
+  STATUS="${?}"
+  sudo php5enmod -s cli xdebug
+
+  return "${STATUS}"
+}
+
 bindkey '^P' history-substring-search-up
 bindkey '^N' history-substring-search-down
 bindkey '\e[A' up-line-or-search
