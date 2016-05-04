@@ -15,3 +15,5 @@ CSS
 workflow
 namespaces
 namespace
+paginator
+serializer
