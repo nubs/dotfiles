@@ -17,3 +17,4 @@ namespaces
 namespace
 paginator
 serializer
+UUID
