@@ -87,6 +87,7 @@ unison.log
 .v8flags.*.json
 .vagrant.d/
 .VirtualBox/
+VirtualBox VMs/
 .vmware
 .weechat
 .wercker/
