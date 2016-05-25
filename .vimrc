@@ -93,6 +93,9 @@ autocmd FileType markdown setlocal tabstop=4 shiftwidth=4 softtabstop=4 expandta
 autocmd FileType markdown setlocal spell!
 let g:markdown_fenced_languages = ['js=javascript', 'json=javascript', 'sh', 'bash=sh', 'php', 'apache', 'nginx', 'ruby', 'sql']
 
+" Git Commit Messages
+autocmd FileType gitcommit setlocal spell!
+
 " Twig
 autocmd FileType twig setlocal tabstop=2 shiftwidth=2 softtabstop=2 expandtab
 
