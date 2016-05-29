@@ -87,6 +87,7 @@ autocmd FileType jade setlocal tabstop=2 shiftwidth=2 softtabstop=2 expandtab
 
 " Mustache/Handlebars
 autocmd FileType mustache setlocal tabstop=2 shiftwidth=2 softtabstop=2 expandtab
+autocmd FileType html.handlebars setlocal tabstop=2 shiftwidth=2 softtabstop=2 expandtab
 
 " Markdown
 autocmd FileType markdown setlocal tabstop=4 shiftwidth=4 softtabstop=4 expandtab textwidth=78
