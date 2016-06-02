@@ -2,7 +2,7 @@ ZSH=$HOME/.oh-my-zsh
 
 ZSH_THEME="purezsh"
 
-plugins=(archlinux git colored-man-pages history-substring-search composer docker docker-compose ssh-agent gulp ember-cli)
+plugins=(git colored-man-pages history-substring-search composer docker docker-compose ssh-agent gulp ember-cli)
 
 zstyle :omz:plugins:ssh-agent identities id_rsa
 
