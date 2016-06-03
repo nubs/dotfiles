@@ -55,29 +55,22 @@ autocmd BufReadPost *
 " Filetype specific changes
 """""""""""""""""""""""""""
 
+" Override some filetypes, especially for files that vim doesn't automatically
+" detect a type for.
+autocmd BufNewFile,BufRead */*vhosts*.conf setf apache
+autocmd BufNewFile,BufRead *.json,.eslintrc setf javascript
+autocmd BufNewFile,BufRead Vagrantfile setf ruby
+autocmd BufNewFile,BufRead PKGBUILD setf sh
+autocmd BufNewFile,BufRead *.wddx setf xml
+
 " PHP
 let php_sql_query=1
 let php_htmlInStrings=1
 let g:php_refactor_command='refactor'
 autocmd FileType php setlocal textwidth=119 formatoptions=qrotc
 
-" Ruby
-autocmd BufNewFile,BufRead Vagrantfile setf ruby
-
 " Markdown
 let g:markdown_fenced_languages = ['js=javascript', 'json=javascript', 'sh', 'bash=sh', 'php', 'apache', 'nginx', 'ruby', 'sql']
-
-" WDDX
-autocmd BufNewFile,BufRead *.wddx setf xml
-
-" JSON
-autocmd BufNewFile,BufRead *.json,.eslintrc setf javascript
-
-" Apache
-autocmd BufNewFile,BufRead */*vhosts*.conf setf apache
-
-" PKGBUILD
-autocmd BufNewFile,BufRead PKGBUILD setf sh
 
 " For many languages, use 2 space indentation
 autocmd FileType coffee,css,html,htmldjango,html.handlebars,jade,javascript,json,less,mustache,opa,python,ruby,scss,sh,sql,stylus,twig,vim,yaml,zsh setlocal tabstop=2 shiftwidth=2 softtabstop=2 expandtab
