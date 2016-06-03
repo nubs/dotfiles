@@ -55,101 +55,38 @@ autocmd BufReadPost *
 " Filetype specific changes
 """""""""""""""""""""""""""
 
-" Text
-" Limit the width of text to 78 characters
-autocmd FileType text setlocal textwidth=78
-
 " PHP
 let php_sql_query=1
 let php_htmlInStrings=1
 let g:php_refactor_command='refactor'
-autocmd FileType php setlocal tabstop=4 shiftwidth=4 softtabstop=4 expandtab textwidth=119 formatoptions=qrotc
-
-" Python
-autocmd FileType python setlocal tabstop=1 shiftwidth=1 softtabstop=1 expandtab
+autocmd FileType php setlocal textwidth=119 formatoptions=qrotc
 
 " Ruby
 autocmd BufNewFile,BufRead Vagrantfile setlocal filetype=ruby
-autocmd FileType ruby setlocal tabstop=2 shiftwidth=2 softtabstop=2 expandtab
-
-" CoffeeScript
-autocmd FileType coffee setlocal tabstop=2 shiftwidth=2 softtabstop=2 expandtab
-
-" Javascript
-autocmd FileType javascript setlocal tabstop=2 shiftwidth=2 softtabstop=2 expandtab
-
-" HTML
-autocmd FileType html setlocal tabstop=2 shiftwidth=2 softtabstop=2 expandtab
-autocmd FileType htmldjango setlocal tabstop=2 shiftwidth=2 softtabstop=2 expandtab
-autocmd FileType jade setlocal tabstop=2 shiftwidth=2 softtabstop=2 expandtab
-
-" Mustache/Handlebars
-autocmd FileType mustache setlocal tabstop=2 shiftwidth=2 softtabstop=2 expandtab
-autocmd FileType html.handlebars setlocal tabstop=2 shiftwidth=2 softtabstop=2 expandtab
 
 " Markdown
-autocmd FileType markdown setlocal tabstop=4 shiftwidth=4 softtabstop=4 expandtab textwidth=78
-autocmd FileType markdown setlocal spell!
 let g:markdown_fenced_languages = ['js=javascript', 'json=javascript', 'sh', 'bash=sh', 'php', 'apache', 'nginx', 'ruby', 'sql']
-
-" Git Commit Messages
-autocmd FileType gitcommit setlocal spell!
-
-" Twig
-autocmd FileType twig setlocal tabstop=2 shiftwidth=2 softtabstop=2 expandtab
-
-" CSS
-autocmd FileType css setlocal tabstop=2 shiftwidth=2 softtabstop=2 expandtab
-
-" Sass
-autocmd FileType scss setlocal tabstop=2 shiftwidth=2 softtabstop=2 expandtab
-
-" Less
-autocmd FileType less setlocal tabstop=2 shiftwidth=2 softtabstop=2 expandtab
-
-" Opa
-autocmd FileType opa setlocal tabstop=2 shiftwidth=2 softtabstop=2 expandtab
-
-" Stylus
-autocmd FileType stylus setlocal tabstop=2 shiftwidth=2 softtabstop=2 expandtab
-
-" Vim
-autocmd FileType vim setlocal tabstop=2 shiftwidth=2 softtabstop=2 expandtab
 
 " WDDX
 autocmd BufNewFile,BufRead *.wddx setf xml
 
-" Ant
-autocmd FileType ant setlocal tabstop=4 shiftwidth=4 softtabstop=4 expandtab
-
-" XML
-autocmd FileType xml setlocal tabstop=4 shiftwidth=4 softtabstop=4 expandtab
-
-" Mutt Mail
-autocmd BufRead /tmp/mutt-* setlocal textwidth=78 formatoptions=croql
-
 " JSON
 autocmd BufNewFile,BufRead *.json,.eslintrc setf javascript
-autocmd FileType json setlocal tabstop=2 shiftwidth=2 softtabstop=2 expandtab
-
-" YAML
-autocmd FileType yaml setlocal tabstop=2 shiftwidth=2 softtabstop=2 expandtab
-
-" XML
-autocmd FileType sh setlocal tabstop=4 shiftwidth=4 softtabstop=4 expandtab
 
 " Apache
 autocmd BufNewFile,BufRead */*vhosts*.conf set filetype=apache
-autocmd FileType apache setlocal tabstop=4 shiftwidth=4 softtabstop=4 expandtab
 
 " PKGBUILD
 autocmd BufNewFile,BufRead PKGBUILD set filetype=sh
 
-" SQL
-autocmd FileType sql setlocal tabstop=2 shiftwidth=2 softtabstop=2 expandtab
+" For many languages, use 2 space indentation
+autocmd FileType coffee,css,html,htmldjango,html.handlebars,jade,javascript,json,less,mustache,opa,python,ruby,scss,sh,sql,stylus,twig,vim,yaml,zsh setlocal tabstop=2 shiftwidth=2 softtabstop=2 expandtab
 
-" Java
-autocmd FileType java setlocal tabstop=4 shiftwidth=4 softtabstop=4 expandtab
+" For a couple languages, and xml-ish things use 4 space indentation
+autocmd FileType ant,apache,java,markdown,php,xml setlocal tabstop=4 shiftwidth=4 softtabstop=4 expandtab
 
-" Shell
-autocmd FileType zsh setlocal tabstop=2 shiftwidth=2 softtabstop=2 expandtab
+" Most programming stuff shouldn't have spellcheck, but for textual formats it
+" is nice to have spell check automatically enabled.
+autocmd FileType gitcommit,markdown,text setlocal spell!
+
+autocmd FileType markdown,text setlocal textwidth=78
