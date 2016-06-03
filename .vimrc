@@ -63,8 +63,6 @@ autocmd FileType text setlocal textwidth=78
 let php_sql_query=1
 let php_htmlInStrings=1
 let g:php_refactor_command='refactor'
-autocmd BufNewFile,BufRead *.mod set filetype=php
-autocmd BufNewFile,BufRead *.sys set filetype=php
 autocmd FileType php setlocal tabstop=4 shiftwidth=4 softtabstop=4 expandtab textwidth=119 formatoptions=qrotc
 
 " Python
