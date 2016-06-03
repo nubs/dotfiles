@@ -62,7 +62,7 @@ let g:php_refactor_command='refactor'
 autocmd FileType php setlocal textwidth=119 formatoptions=qrotc
 
 " Ruby
-autocmd BufNewFile,BufRead Vagrantfile setlocal filetype=ruby
+autocmd BufNewFile,BufRead Vagrantfile setf ruby
 
 " Markdown
 let g:markdown_fenced_languages = ['js=javascript', 'json=javascript', 'sh', 'bash=sh', 'php', 'apache', 'nginx', 'ruby', 'sql']
@@ -74,10 +74,10 @@ autocmd BufNewFile,BufRead *.wddx setf xml
 autocmd BufNewFile,BufRead *.json,.eslintrc setf javascript
 
 " Apache
-autocmd BufNewFile,BufRead */*vhosts*.conf set filetype=apache
+autocmd BufNewFile,BufRead */*vhosts*.conf setf apache
 
 " PKGBUILD
-autocmd BufNewFile,BufRead PKGBUILD set filetype=sh
+autocmd BufNewFile,BufRead PKGBUILD setf sh
 
 " For many languages, use 2 space indentation
 autocmd FileType coffee,css,html,htmldjango,html.handlebars,jade,javascript,json,less,mustache,opa,python,ruby,scss,sh,sql,stylus,twig,vim,yaml,zsh setlocal tabstop=2 shiftwidth=2 softtabstop=2 expandtab
