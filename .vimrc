@@ -1,4 +1,3 @@
-" vim: set ft=vim sw=2 ts=2 sts=2 et :
 set nocompatible        " Use Vim defaults (much better!)
 set bs=indent,eol,start " allow backspacing over everything in insert mode
 set ai                  " always set autoindenting on
