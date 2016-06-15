@@ -81,4 +81,4 @@ autocmd FileType ant,apache,java,markdown,php,xml setlocal tabstop=4 shiftwidth=
 " is nice to have spell check automatically enabled.
 autocmd FileType gitcommit,markdown,text setlocal spell!
 
-autocmd FileType markdown,text setlocal textwidth=78
+autocmd FileType markdown,text,yaml setlocal textwidth=78 formatoptions=qrotc
