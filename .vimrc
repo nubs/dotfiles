@@ -58,6 +58,7 @@ autocmd BufReadPost *
 " detect a type for.
 autocmd BufNewFile,BufRead */*vhosts*.conf setf apache
 autocmd BufNewFile,BufRead *.json,.eslintrc setf javascript
+autocmd BufNewFile,BufRead TODO setf markdown
 autocmd BufNewFile,BufRead Vagrantfile setf ruby
 autocmd BufNewFile,BufRead PKGBUILD setf sh
 autocmd BufNewFile,BufRead *.wddx setf xml
