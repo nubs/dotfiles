@@ -78,6 +78,9 @@ alias dcmrm='docker-compose rm'
 alias dcmu='docker-compose up'
 alias dcmud='docker-compose up -d'
 
+alias dcu='docker-compose -f docker-compose-utilities.yml'
+alias dcur='docker-compose -f docker-compose-utilities.yml run'
+
 alias phpgolf='php -d short_open_tag=true -d error_reporting=24567'
 
 function vb() {
