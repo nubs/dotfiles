@@ -11,6 +11,7 @@ gegl-*/
 gnome-settings-daemon/
 gsettings-data-convert
 gvfs-metadata/
+heroku/
 icc/
 icons/
 keybase/
