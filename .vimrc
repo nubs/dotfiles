@@ -70,7 +70,7 @@ let g:php_refactor_command='refactor'
 autocmd FileType php setlocal textwidth=119 formatoptions=qrotc
 
 " Markdown
-let g:markdown_fenced_languages = ['js=javascript', 'json=javascript', 'sh', 'bash=sh', 'php', 'apache', 'nginx', 'ruby', 'sql']
+let g:markdown_fenced_languages = ['js=javascript', 'json=javascript', 'sh', 'bash=sh', 'php', 'apache', 'nginx', 'ruby', 'sql', 'yaml']
 
 " For many languages, use 2 space indentation
 autocmd FileType coffee,css,html,htmldjango,html.handlebars,jade,javascript,json,less,mustache,opa,python,ruby,scss,sh,sql,stylus,twig,typescript,vim,yaml,zsh setlocal tabstop=2 shiftwidth=2 softtabstop=2 expandtab
