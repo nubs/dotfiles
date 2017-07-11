@@ -11,6 +11,7 @@ set smartcase           " except for when capital letters are in search string
 set incsearch           " show the best match while search is typed
 set scrolloff=5         " leave some context around the cursor
 set relativenumber      " line numbers
+set background=dark
 
 if exists('+colorcolumn')
   set colorcolumn=80 " show column # 80 to help with detecting long lines.
