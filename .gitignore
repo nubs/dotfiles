@@ -99,6 +99,7 @@ VirtualBox VMs/
 .xsession-errors.old
 .zcompdump*
 .zdirs
+.zoom/
 .zsh-update
 /*.retry
 /*.md
