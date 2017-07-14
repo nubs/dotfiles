@@ -69,7 +69,7 @@ alias dcdu='docker-compose -f docker-compose-dev.yml up'
 alias dcdud='docker-compose -f docker-compose-dev.yml up -d'
 
 alias dcm='docker-compose'
-alias dcmd='docker-compose down'
+alias dcms='docker-compose stop'
 alias dcme='docker-compose exec'
 alias dcml='docker-compose logs'
 alias dcmr='docker-compose run'
