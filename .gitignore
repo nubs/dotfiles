@@ -58,6 +58,7 @@
 .nvm
 .offlineimap
 .opa
+.openvpn/
 .pdepend
 .pki
 .psql_history*
