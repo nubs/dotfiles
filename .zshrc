@@ -103,10 +103,10 @@ alias vbp="vb \"\$(gvbp)\""
 
 function composer() {
   COMPOSER="$(/usr/bin/env which composer)"
-  sudo php5dismod -s cli xdebug
+  sudo phpdismod -s cli xdebug
   $COMPOSER "$@"
   STATUS="${?}"
-  sudo php5enmod -s cli xdebug
+  sudo phpenmod -s cli xdebug
 
   return "${STATUS}"
 }
