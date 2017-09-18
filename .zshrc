@@ -85,6 +85,9 @@ alias dcmud='docker-compose up -d'
 alias dcu='docker-compose -f docker-compose.yml -f docker-compose.utilities.yml'
 alias dcur='docker-compose -f docker-compose.yml -f docker-compose.utilities.yml run'
 
+alias dcuo='docker-compose -f docker-compose.yml -f docker-compose.utilities.yml -f docker-compose.override.yml'
+alias dcuor='docker-compose -f docker-compose.yml -f docker-compose.utilities.yml -f docker-compose.override.yml run'
+
 alias phpgolf='php -d short_open_tag=true -d error_reporting=24567'
 
 function vb() {
