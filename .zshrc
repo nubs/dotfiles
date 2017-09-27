@@ -123,5 +123,7 @@ bindkey '^N' history-substring-search-down
 bindkey '\e[A' up-line-or-search
 bindkey '\e[B' down-line-or-search
 
+stty ixany
+
 export NVM_DIR="/home/anubis/.nvm"
 [ -s "$NVM_DIR/nvm.sh" ] && . "$NVM_DIR/nvm.sh"  # This loads nvm
