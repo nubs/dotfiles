@@ -13,3 +13,18 @@
 [submodule "projects/help-open"]
 	path = projects/help-open
 	url = git@github.com:nubs/projects-help-open
+[submodule "projects/private/cutler-ridge"]
+	path = projects/private/cutler-ridge
+	url = keybase://private/nubs/cutler-ridge
+[submodule "projects/private/finances"]
+	path = projects/private/finances
+	url = keybase://private/nubs/finances
+[submodule "projects/private/phpgolf"]
+	path = projects/private/phpgolf
+	url = keybase://private/nubs/phpgolf
+[submodule "projects/private/nickknackkrochet"]
+	path = projects/private/nickknackkrochet
+	url = keybase://private/nubs/nickknackkrochet
+[submodule "projects/private/otmbot"]
+	path = projects/private/otmbot
+	url = keybase://private/nubs/otmbot

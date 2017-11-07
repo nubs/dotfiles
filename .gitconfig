@@ -26,3 +26,5 @@
 	sort = version:refname
 [commit]
 	gpgsign = true
+[protocol "keybase"]
+	allow = always
