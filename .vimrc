@@ -11,6 +11,7 @@ set smartcase           " except for when capital letters are in search string
 set incsearch           " show the best match while search is typed
 set scrolloff=5         " leave some context around the cursor
 set relativenumber      " line numbers
+set formatoptions+=j    " better join lines for comments
 set background=dark
 
 if exists('+colorcolumn')
@@ -68,7 +69,7 @@ autocmd BufNewFile,BufRead *.wddx setf xml
 let php_sql_query=1
 let php_htmlInStrings=1
 let g:php_refactor_command='refactor'
-autocmd FileType php setlocal textwidth=119 formatoptions=qrotc
+autocmd FileType php setlocal textwidth=119 formatoptions=qrotcj
 
 " Markdown
 let g:markdown_fenced_languages = ['js=javascript', 'json=javascript', 'sh', 'bash=sh', 'php', 'apache', 'nginx', 'ruby', 'sql', 'yaml']
@@ -83,4 +84,4 @@ autocmd FileType ant,apache,java,markdown,php,xml setlocal tabstop=4 shiftwidth=
 " is nice to have spell check automatically enabled.
 autocmd FileType gitcommit,markdown,text setlocal spell!
 
-autocmd FileType markdown,text,yaml setlocal textwidth=78 formatoptions=qrotc
+autocmd FileType markdown,text,yaml setlocal textwidth=78 formatoptions=qrotcj
