@@ -29,6 +29,12 @@ filetype plugin indent on
 
 call pathogen#infect()
 
+" EasyMotion mappings
+let g:EasyMotion_smartcase = 1
+map <Leader> <Plug>(easymotion-prefix)
+map <Leader>/ <Plug>(easymotion-sn)
+omap <Leader>/ <Plug>(easymotion-tn)
+
 " Remove ALL autocommands for the current group
 :autocmd!
 
