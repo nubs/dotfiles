@@ -10,6 +10,8 @@ dwarftherapist/
 evolution/
 gegl-*/
 gnome-settings-daemon/
+gnome-shell/
+gnome-software/
 gsettings-data-convert
 gvfs-metadata/
 heroku/
@@ -28,5 +30,6 @@ unity-settings-daemon/
 unity-webapps/
 vlc/
 vulkan/
+xorg/
 webkit
 zeitgeist/
