@@ -21,7 +21,7 @@ keybase/
 libaccounts-glib/
 libreoffice/
 menus/
-monitors.xml
+monitors.xml*
 nautilus/
 Postman/
 pulse/
@@ -36,4 +36,5 @@ update-notifier/
 UDP Software/
 VirtualBox/
 vlc/
+Yubico/
 zoomus.conf
