@@ -66,6 +66,7 @@ autocmd BufReadPost *
 " detect a type for.
 autocmd BufNewFile,BufRead */*vhosts*.conf setf apache
 autocmd BufNewFile,BufRead *.json,.eslintrc setf javascript
+autocmd BufNewFile,BufRead *.jsx setf jsx
 autocmd BufNewFile,BufRead TODO setf markdown
 autocmd BufNewFile,BufRead Vagrantfile setf ruby
 autocmd BufNewFile,BufRead PKGBUILD setf sh
@@ -78,7 +79,7 @@ let g:php_refactor_command='refactor'
 autocmd FileType php setlocal textwidth=119 formatoptions=qrotcj
 
 " Markdown
-let g:markdown_fenced_languages = ['js=javascript', 'json=javascript', 'sh', 'bash=sh', 'php', 'apache', 'nginx', 'ruby', 'sql', 'yaml']
+let g:markdown_fenced_languages = ['js=javascript', 'jsx=jsx', 'json=javascript', 'sh', 'bash=sh', 'php', 'apache', 'nginx', 'ruby', 'sql', 'yaml']
 
 " For many languages, use 2 space indentation
 autocmd FileType c,coffee,cpp,css,graphql,html,htmldjango,html.handlebars,jade,javascript,json,less,mustache,opa,python,ruby,scss,sh,sql,stylus,terraform,twig,typescript,vim,yaml,zsh setlocal tabstop=2 shiftwidth=2 softtabstop=2 expandtab
