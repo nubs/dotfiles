@@ -91,22 +91,11 @@ alias dcuor='docker-compose -f docker-compose.yml -f docker-compose.utilities.ym
 alias phpgolf='php -d short_open_tag=true -d error_reporting=24567'
 
 function vb() {
-  test -n "${1}" && \
-    sed -i 's/\("version".*:.*\)".*"/\1"'${1}'"/' package.json && \
-    git add package.json && \
-    git commit -m "Bump version to ${1}."
+  npm version --no-git-tag-version "$@"
+  VERSION="$(jq --raw-output .version package.json)"
+  git add package.json package-lock.json
+  git commit --message "Bump version to ${VERSION}."
 }
-
-alias gv='jq -r .version package.json'
-alias gvj="gv | sed 's/\\([^.]*\\)\\.\\([^.]*\\)\\.\\([^.-]*\\)\\-\\?\\(.*\\)/\\1/'"
-alias gvm="gv | sed 's/\\([^.]*\\)\\.\\([^.]*\\)\\.\\([^.-]*\\)\\-\\?\\(.*\\)/\\2/'"
-alias gvp="gv | sed 's/\\([^.]*\\)\\.\\([^.]*\\)\\.\\([^.-]*\\)\\-\\?\\(.*\\)/\\3/'"
-alias gvbj='echo "$(expr "$(gvj)" + 1).0.0"'
-alias gvbm='echo "$(gvj).$(expr "$(gvm)" + 1).0"'
-alias gvbp='echo "$(gvj).$(gvm).$(expr "$(gvp)" + 1)"'
-alias vbj="vb \"\$(gvbj)\""
-alias vbm="vb \"\$(gvbm)\""
-alias vbp="vb \"\$(gvbp)\""
 
 function composer() {
   COMPOSER="$(/usr/bin/env which composer)"
