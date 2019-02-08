@@ -93,7 +93,9 @@ alias phpgolf='php -d short_open_tag=true -d error_reporting=24567'
 function vb() {
   npm version --no-git-tag-version "$@"
   VERSION="$(jq --raw-output .version package.json)"
-  git add package.json package-lock.json
+  FILES=(package.json)
+  test -f package-lock.json && FILES+=(package-lock.json)
+  git add ${FILES}
   git commit --message "Bump version to ${VERSION}."
 }
 
