@@ -19,6 +19,7 @@
 .dmrc
 .dropbox/
 .dropbox-dist/
+.eclipse/
 .elinks
 .gconf/
 .gem
