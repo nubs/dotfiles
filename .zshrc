@@ -76,17 +76,17 @@ alias dcmb='docker-compose build'
 alias dcms='docker-compose stop'
 alias dcme='docker-compose exec'
 alias dcml='docker-compose logs --tail 1000'
-alias dcmr='docker-compose run'
+alias dcmr='docker-compose run --rm'
 alias dcmps='docker-compose ps'
 alias dcmrm='docker-compose rm'
 alias dcmu='docker-compose up'
 alias dcmud='docker-compose up -d'
 
 alias dcu='docker-compose -f docker-compose.yml -f docker-compose.utilities.yml'
-alias dcur='docker-compose -f docker-compose.yml -f docker-compose.utilities.yml run'
+alias dcur='docker-compose -f docker-compose.yml -f docker-compose.utilities.yml run --rm'
 
 alias dcuo='docker-compose -f docker-compose.yml -f docker-compose.utilities.yml -f docker-compose.override.yml'
-alias dcuor='docker-compose -f docker-compose.yml -f docker-compose.utilities.yml -f docker-compose.override.yml run'
+alias dcuor='docker-compose -f docker-compose.yml -f docker-compose.utilities.yml -f docker-compose.override.yml run --rm'
 
 alias phpgolf='php -d short_open_tag=true -d error_reporting=24567'
 
