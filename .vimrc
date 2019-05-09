@@ -3,7 +3,7 @@ set bs=indent,eol,start " allow backspacing over everything in insert mode
 set ai                  " always set autoindenting on
 set viminfo='20,\"500   " read/write a .viminfo file, don't store more
                         " than 500 lines of registers
-set history=100         " keep 100 lines of command line history
+set history=500         " keep 500 lines of command line history
 set ruler               " show the cursor position all the time
 set modeline            " enable modelines in files
 set ignorecase          " ignore case when searching
