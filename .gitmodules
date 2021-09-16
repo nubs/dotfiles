@@ -31,3 +31,6 @@
 [submodule "projects/private/lego-labels"]
 	path = projects/private/lego-labels
 	url = git@github.com:nubs/lego-labels
+[submodule "projects/private/super-marcelo-world"]
+	path = projects/private/super-marcelo-world
+	url = git@github.com:nubs/super-marcelo-world
