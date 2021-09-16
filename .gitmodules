@@ -34,3 +34,6 @@
 [submodule "projects/private/super-marcelo-world"]
 	path = projects/private/super-marcelo-world
 	url = git@github.com:nubs/super-marcelo-world
+[submodule "projects/private/stepmania"]
+	path = projects/private/stepmania
+	url = git@github.com:nubs/stepmania
