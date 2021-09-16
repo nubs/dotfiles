@@ -1,10 +1,8 @@
 ZSH=$HOME/.oh-my-zsh
 
-ZSH_THEME="purezsh"
+ZSH_THEME="refined"
 
-plugins=(git colored-man-pages history-substring-search composer docker docker-compose ssh-agent gulp ember-cli)
-
-zstyle :omz:plugins:ssh-agent identities id_rsa
+plugins=(git colored-man-pages history-substring-search docker docker-compose)
 
 source $ZSH/oh-my-zsh.sh
 
@@ -99,22 +97,9 @@ function vb() {
   git commit --message "Bump version to ${VERSION}."
 }
 
-function composer() {
-  COMPOSER="$(/usr/bin/env which composer)"
-  sudo phpdismod -s cli xdebug
-  $COMPOSER "$@"
-  STATUS="${?}"
-  sudo phpenmod -s cli xdebug
-
-  return "${STATUS}"
-}
-
 bindkey '^P' history-substring-search-up
 bindkey '^N' history-substring-search-down
 bindkey '\e[A' up-line-or-search
 bindkey '\e[B' down-line-or-search
 
 stty ixany
-
-export NVM_DIR="/home/anubis/.nvm"
-[ -s "$NVM_DIR/nvm.sh" ] && . "$NVM_DIR/nvm.sh"  # This loads nvm

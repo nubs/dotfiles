@@ -28,3 +28,6 @@
 [submodule "projects/private/otmbot"]
 	path = projects/private/otmbot
 	url = keybase://private/nubs/otmbot
+[submodule "projects/private/lego-labels"]
+	path = projects/private/lego-labels
+	url = git@github.com:nubs/lego-labels

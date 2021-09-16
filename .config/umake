@@ -1,4 +1,0 @@
-frameworks:
-  web:
-    firefox-dev:
-      path: /home/anubis/.local/share/umake/web/firefox-dev

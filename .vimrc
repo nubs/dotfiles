@@ -82,7 +82,7 @@ autocmd FileType php setlocal textwidth=119 formatoptions=qrotcj
 let g:markdown_fenced_languages = ['js=javascript', 'jsx=jsx', 'json=javascript', 'sh', 'bash=sh', 'php', 'apache', 'graphql', 'nginx', 'ruby', 'sql', 'ts=typescript', 'yaml']
 
 " For many languages, use 2 space indentation
-autocmd FileType c,coffee,cpp,css,gitcommit,graphql,html,htmldjango,html.handlebars,jade,javascript,json,less,mustache,opa,python,ruby,scss,sh,sql,stylus,terraform,twig,typescript,vim,yaml,zsh setlocal tabstop=2 shiftwidth=2 softtabstop=2 expandtab
+autocmd FileType c,coffee,cpp,css,gitcommit,graphql,html,htmldjango,html.handlebars,jade,javascript,javascriptreact,json,less,mustache,opa,python,ruby,scss,sh,sql,stylus,terraform,twig,typescript,vim,yaml,zsh setlocal tabstop=2 shiftwidth=2 softtabstop=2 expandtab
 
 " For a couple languages, and xml-ish things use 4 space indentation
 autocmd FileType ant,apache,java,markdown,php,xml setlocal tabstop=4 shiftwidth=4 softtabstop=4 expandtab
